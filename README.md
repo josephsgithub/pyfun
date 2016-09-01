@@ -92,8 +92,7 @@ students personal GitHub repos uncluttered with educational repos
 that might dissuade a potential employer or school admission leaving
 only the student's individual creations in their repos.
 
-**Follow Up Possibilities: ** 
-This course is designed to prepare students to be proficient with
+**Follow Up Possibilities:** This course is designed to prepare students to be proficient with
 Raspberry Pi programming in Python later. Specifically the [*Blinky
 Lib*](blinky) created can be modified to work with simple LED lights
 from a basic breadboard connected to it.
