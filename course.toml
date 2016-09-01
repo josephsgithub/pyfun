@@ -1,0 +1,36 @@
+id           = "pyfun"
+name         = "Programming Fundamentals in Python"
+short        = "pyfun"
+author       = "Rob Muhlestein (@robmuh)"
+contributors = []
+org          = "skilstak"
+license      = "CC0 Public Domain Dedication"
+repo         = "github.com/skilstak/course-pyfun"
+url          = "http://pyfun.skilstak.io"
+issues       = "http://github.com/skilstak/course-pyfun/issues"
+
+description = """
+  Learn the fundamentals of computer programming (coding) using
+  the Python3 programming language.
+"""
+
+keywords = [ "python", "python3", "programming", "coding", "beginner" ]
+
+[ages]
+  from = 8
+  to = 18
+
+prereqs = [
+  "http://prep.skilstak.io"
+]
+
+[[project]]
+id = "hello"
+minutes = 40
+concepts = [
+  "`vim`", "`chmod`", "shebang", "`#!`", "strings", "actions",
+  "functions", "`print()`", "`import`", "syntax", "syntax highlighting",
+  "colors", "solarized", "operators", "operands",
+  "join operator", "`+`", "quotes", "`\"`","`'`"
+]
+

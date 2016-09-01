@@ -21,7 +21,7 @@ experienced professionals do. If you insist, you can also use the
 
 Students learn modern Python (3.4+ not 2.7) for many obvious reasons.
 
-## Assignments
+## Projects
 
 * [Hello World! (`hello`)](hello)
 * [Hi You! (`hi`)](hi)
