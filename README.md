@@ -131,7 +131,7 @@ before moving on.
 
 ## Author, License, Copyright, Etc.
 
-![skilstak](assets/skilstak-logo-bw.svg)![cc0](assets/cc-zero.svg)
+![skilstak](assets/skilstak-logo-bw.png)![cc0](assets/cc-zero.png)
 
 This course was originally conceived and created by [Rob
 Muhlestein](http://github.com/robmuh) for [SkilStak Coding
