@@ -103,6 +103,21 @@ students personal GitHub repos uncluttered with educational repos
 that might dissuade a potential employer or school admission leaving
 only the student's individual creations in their repos.
 
+**Follow Up Possibilities**
+
+This course is designed to prepare students to be proficient with
+Raspberry Pi programming in Python later. Specifically the [*Blinky
+Lib*](blinky) created can be modified to work with simple LED lights
+from a basic breadboard connected to it.
+
+Many of the command line skills also build into server-side scripting
+from the command line in the Linux course where basic Ethical Hacking
+is also introduced.
+
+Go lang programming usually comes after this course as well since
+students become familiar with command-line programming in Python
+before moving on.
+
 ## Author, License, Copyright, Etc.
 
 This course was originally conceived and created by [Rob
