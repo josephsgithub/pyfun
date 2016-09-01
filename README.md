@@ -50,48 +50,37 @@ resources to keep you going.
 
 ## To Teachers
 
-**Time and Scheduling**
+**Time and Scheduling:** The assignments in this course are designed
+to fill about 90 minutes a week of class time for a little over 16
+weeks (about one semester in most schools).
 
-The assignments in this course are designed to fill about 90 minutes
-a week of class time for a little over 16 weeks (about one semester
-in most schools).
-
-**Age**
-
-The content is designed with students ages 8 to 18 in mind but has
+**Age:** The content is designed with students ages 8 to 18 in mind but has
 been completed by college age students and adults as well.
 
-**Just the Fundamentals**
+**Just the Fundamentals:** It is important to note this course
+covers only basic Programming Fundamentals that are pretty much
+universal to all languages.  Python-specific features, such as
+comprehensions, are not covered.
 
-It is important to note this course covers only basic Programming
-Fundamentals that are pretty much universal to all languages.
-Python-specific features, such as comprehensions, are not covered.
+**Supplemental Project:** Ideally these assignments will be coupled
+with an ongoing project of the student's choosing in which they can
+apply what they are learning as well as display on their public
+GitHub repo to the world demonstrating what they have learned. Such
+a project would help motivate students to progress farther on their
+own as they learn the more advanced features of Python.
 
-**Supplemental Project**
-
-Ideally these assignments will be coupled with an ongoing project
-of the student's choosing in which they can apply what they are
-learning as well as display on their public GitHub repo to the world
-demonstrating what they have learned. Such a project would help
-motivate students to progress farther on their own as they learn
-the more advanced features of Python.
-
-**Rubrics**
-
-This course contains no rubrics since these differ greatly. At
-SkilStak we prefer to simply check for completion and supplement
-this course with a
+**Rubrics:** This course contains no rubrics since these differ
+greatly. At SkilStak we prefer to simply check for completion and
+supplement this course with a
 [certification](http://github.com/skilstak/course-pyfun-certification). In
 fact, not unlike learning martial arts, many students may need to
 repeat these assignments a few times to gain full mastery sufficient
 to certify.
 
-**GitHub Classroom**
-
-This course is setup to work well with `classroom.github.com` and
-we encourage it. Because everything in this repo is released to the
-public domain you should have no problem setting up an "assignment"
-as follows for use with your own students.
+**GitHub Classroom:** This course is setup to work well with
+`classroom.github.com` and we encourage it. Because everything in
+this repo is released to the public domain you should have no problem
+setting up an "assignment" as follows for use with your own students.
 
 ![classroom](assets/classroom.png)
 
@@ -103,8 +92,7 @@ students personal GitHub repos uncluttered with educational repos
 that might dissuade a potential employer or school admission leaving
 only the student's individual creations in their repos.
 
-**Follow Up Possibilities**
-
+**Follow Up Possibilities: ** 
 This course is designed to prepare students to be proficient with
 Raspberry Pi programming in Python later. Specifically the [*Blinky
 Lib*](blinky) created can be modified to work with simple LED lights
