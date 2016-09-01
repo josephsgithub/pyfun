@@ -37,7 +37,6 @@ Students learn modern Python (3.4+ not 2.7) for many obvious reasons.
 * [Blinky Lib (`blinky`)](blinky)
 * [Arena (`arena`)](arena)
 * [Battleship (`battle`)](battle)
-* [SkilMon (`skilmon`)](skilmon)
 * [Pokeapi (`pokeapi`)](pokeapi)
 * [Story Engine (`story`)](story)
 
