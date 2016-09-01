@@ -1,0 +1,8 @@
+
+# does the file exist and begin with /^hello/
+
+# is the shebang correct
+
+  # if not is it valid but not env
+
+# is there `if __name__ == __main__:`
