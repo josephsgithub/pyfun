@@ -25,7 +25,7 @@ Students learn modern Python (3.4+ not 2.7) for many obvious reasons.
 * [Hi You! (`hi`)](hi)
 * [Nyan, Nyan, STOP! (`nyan`)](nyan)
 * [Do You Like Waffles? (`waffles`)](waffles)
-* [Dice Roll (`dice`)](dice)
+* [Dice Roll (`roll`)](roll)
 * [Badgers, Badgers, ... (`badgers`)](badgers)
 * [Magic Eightball (`eightball`)](eightball)
 * [Bridge Keeper (`bridge`)](bridge)
