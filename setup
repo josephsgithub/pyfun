@@ -1,0 +1,6 @@
+# source me, don't run me:
+# `. setup` OR `source setup`
+
+export PATH="./":$PATH
+export PYTHONPATH=`pwd`/lib:$PYTHONPATH
+
