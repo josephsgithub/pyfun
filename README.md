@@ -2,6 +2,8 @@
 
 # Programming Fundamentals in Python 3
 
+Welcome to Python!
+
 ## What We Learn
 
 In this course students find out what coding is, why they should
