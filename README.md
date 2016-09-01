@@ -26,7 +26,7 @@ Students learn modern Python (3.4+ not 2.7) for many obvious reasons.
 * [Nyan, Nyan, STOP! (`nyan`)](nyan)
 * [Do You Like Waffles? (`waffles`)](waffles)
 * [Dice Roll (`roll`)](roll)
-* [Badgers, Badgers, ... (`badgers`)](badgers)
+* [Badgers, Badgers, Badgers (`badgers`)](badgers)
 * [Magic Eightball (`eightball`)](eightball)
 * [Bridge Keeper (`bridge`)](bridge)
 * [Arguing with Commander Lion (`lion`)](lion)
@@ -35,9 +35,11 @@ Students learn modern Python (3.4+ not 2.7) for many obvious reasons.
 * [Binary Counter (`bincount`)](bincount)
 * [Quiz Game (`quiz`)](quiz)
 * [Blinky Lib (`blinky`)](blinky)
-* [Battle Engine (`battle`)](battle)
+* [Arena (`arena`)](arena)
+* [Battleship (`battle`)](battle)
 * [SkilMon (`skilmon`)](skilmon)
 * [Pokeapi (`pokeapi`)](pokeapi)
+* [Story Engine (`story`)](story)
 
 ## More Python 3 Learning Resources
 
