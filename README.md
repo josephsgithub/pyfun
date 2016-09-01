@@ -1,6 +1,6 @@
-# Programming Fundamentals in Python 3
-
 ![bloomberg](assets/bloomberg.png)
+
+# Programming Fundamentals in Python 3
 
 ## What We Learn
 
