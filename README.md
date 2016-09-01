@@ -77,6 +77,30 @@ fact, not unlike learning martial arts, many students may need to
 repeat these assignments a few times to gain full mastery sufficient
 to certify.
 
+**Resources and Requirements:** Students need access to a Bash
+command-line on a computer that has had `python3` installed. Usually
+this will be through an `ssh` connection to a Linux account on a
+central school server but could equally be done with
+[codeanywhere.com](http://codeanywhere.com), individual Raspberry
+Pi computers, personal Linux laptops, virtual machines, or a remote
+virtual host such as [Digital Ocean](http://digitalocean.com).
+
+Students should be setup with `ssh` access to GitHub and minimally
+familiar with GitHub and understand how to make changes and commit
+them. The included [`bin/save`](bin/save) command can be used to help
+simplify this process from the command line.
+
+We have tried to keep everything needed for this course (except
+Python3 itself and the Bash command line) included in the course repo.
+This sometimes means some redundancy in each assignment directory but
+felt it worth it to help students explore in those files as well. This
+makes each assignment subdirectory as autonomous as possible.
+
+We also assume students have been setup with `vim` and any system
+settings for editing have been added to the system. The editor in
+[codeanywhere.com](http://codeanywhere.com) is also very good for
+those not wanting to hassle with `vim` setup and instruction.
+
 **GitHub Classroom:** This course is setup to work well with
 `classroom.github.com` and we encourage it. Because everything in
 this repo is released to the public domain you should have no problem
@@ -106,6 +130,8 @@ students become familiar with command-line programming in Python
 before moving on.
 
 ## Author, License, Copyright, Etc.
+
+![skilstak](assets/skilstak-logo-bw.svg)![cc0](assets/cc-zero.svg)
 
 This course was originally conceived and created by [Rob
 Muhlestein](http://github.com/robmuh) for [SkilStak Coding
