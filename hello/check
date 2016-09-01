@@ -1,5 +1,8 @@
 
-# does the file exist and begin with /^hello/
+* does the file exist 
+# does the file begin with /^hello/
+
+
 
 # is the shebang correct
 

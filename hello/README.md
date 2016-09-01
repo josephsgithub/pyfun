@@ -7,3 +7,9 @@ Here is where the intro goes.
 jkasdffadf
 
 ### H3s are ignored and can be used for sub steps if needed.
+
+## Check
+
+- [ ] Does a file exist
+- [ ] Does the file name begin with `hello` 
+- [ ] Is the file executable
