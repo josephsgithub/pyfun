@@ -5,6 +5,5 @@ def say_hello():
     import colors as c 
     print(c.clear + c.Y + "Hello " + c.O + "world!" + c.X)
 
-if __name__ == "__main__":
-    say_hello()
+say_hello()
 
