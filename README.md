@@ -130,44 +130,11 @@ is also introduced.
 Go lang programming usually comes after this course as well since
 students become familiar with command-line programming in Python
 before moving on.
+ 
+---
+[![home](/assets/home-bw.png)](/README.md)
+[![cc-by-sa](/assets/cc-by-sa.png)][cc-by-sa]
+[![skilstak](/assets/skilstak-logo-bw.png)][skilstak]
+[cc-by-sa]: https://creativecommons.org/licenses/by-sa/4.0/
+[skilstak]: http://skilstak.io
 
-## Author, License, Copyright, Etc.
-
-![skilstak](assets/skilstak-logo-bw.png)![cc0](assets/cc-zero.png)
-
-This course was originally conceived and created by [Rob
-Muhlestein](http://github.com/robmuh) for [SkilStak Coding
-Arts](http://github.com/skilstak), a non-profit, private school
-focused on technology. Please [report any issues or
-suggestions](http://github.com/skilstak/course-pyfun/issues) you
-may have, including additional assignments and other contributions
-as pull requests. All source code and copy content in this repo is
-released to the public domain as follows:
-
-> ***The Unlicense***
-> 
-> This is free and unencumbered software released into the public
-> domain.
-> 
-> Anyone is free to copy, modify, publish, use, compile, sell, or
-> distribute this software, either in source code form or as a compiled
-> binary, for any purpose, commercial or non-commercial, and by any
-> means.
-> 
-> In jurisdictions that recognize copyright laws, the author or authors
-> of this software dedicate any and all copyright interest in the
-> software to the public domain. We make this dedication for the benefit
-> of the public at large and to the detriment of our heirs and
-> successors. We intend this dedication to be an overt act of
-> relinquishment in perpetuity of all present and future rights to this
-> software under copyright law.
-> 
-> THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-> EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-> MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-> IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-> OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-> ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-> OTHER DEALINGS IN THE SOFTWARE.
-> 
-> For more information, please refer to <http://unlicense.org>
