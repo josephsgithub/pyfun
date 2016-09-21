@@ -1,9 +1,14 @@
 #!/usr/bin/env python3
 '''A simple program to print a colorful greeting'''
 
+import colors as c 
+
 def say_hello():
-    import colors as c 
     print(c.clear + c.Y + "Hello " + c.O + "world!" + c.X)
 
-say_hello()
+def say_colorful_hello():
+    print(c.clear + c.multi("Hello world!") + c.X)
+
+#say_hello()
+say_colorful_hello()
 
