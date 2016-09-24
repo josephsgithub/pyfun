@@ -4,5 +4,5 @@ import colors as c
 
 print(c.clear + c.blue + "Hi there, what’s your name?")
 name = input(c.base00 + "> " + c.base3)
-print(c.yellow + "Nice to meet you, " + name + "!")
+print(c.yellow + "Nice to meet you, " + c.multi(name) + "!")
 
