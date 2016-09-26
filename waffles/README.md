@@ -55,7 +55,7 @@ third_answer = ask_if_likes("french toast")
 
 import sys
 
-def ask_if_likes(food):
+def assert_likes(food):
     print("Do you like " + food + "?")
     answer = input("> ")
     if answer == "no":
