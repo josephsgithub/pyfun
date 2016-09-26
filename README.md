@@ -31,7 +31,7 @@ Students learn modern Python (3.4+ not 2.7) for many obvious reasons.
 * [Badgers, Badgers, Badgers (`badgers`)](badgers)
 * [Magic Eightball (`eightball`)](eightball)
 * [Bridge Keeper (`bridge`)](bridge)
-* [Arguing with Commander Lion (`lion`)](lion)
+* [Arrrguments](`arrrgs`)](arrrgs)
 * [Multiplication Tables (`mtable`)](mtable)
 * [Mad Forms (`madforms`)](madforms)
 * [Binary Counter (`bincount`)](bincount)
