@@ -2,14 +2,12 @@
 
 import sys
 import colors as c
-from subprocess import call
 
 # this is a tuple, (an unchangable list)
 negative = ("no", "nuhuh","i don't like")
 
 def assert_likes(food):
     print(c.clear + c.random() + "Do you like " + food + "?" + c.x)
-    call(["say", "do you like " + food + "?"])
     answer = input(c.base00 + "> " + c.base3)
     answer = answer.lower().strip()
     if answer.startswith(negative): 
