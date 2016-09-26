@@ -1,5 +1,6 @@
-#!/usr/bin/env python3
 
+```python
+#!/usr/bin/env python3
 
 def ask_if_likes(food):
     print("Do you like " + food + "?")
@@ -8,9 +9,10 @@ def ask_if_likes(food):
 ask_if_likes("waffles")
 ask_if_likes("pancakes")
 ask_if_likes("french toast")
+```
 
 
-
+```python
 #!/usr/bin/env python3
 
 import sys
@@ -28,9 +30,9 @@ if first_answer == "no":
 
 second_answer = ask_if_likes("pancakes")
 third_answer = ask_if_likes("french toast")
+```
 
-
-
+```python
 #!/usr/bin/env python3
 
 import sys
@@ -46,9 +48,9 @@ def ask_if_likes(food):
 first_answer = ask_if_likes("waffles")
 second_answer = ask_if_likes("pancakes")
 third_answer = ask_if_likes("french toast")
+```
 
-
-
+```python
 #!/usr/bin/env python3
 
 import sys
@@ -66,7 +68,9 @@ assert_likes("french toast")
 
 print("♫ Doo, doo doo dupe ♫")
 print("♫ Can't wait to get a mouthful! ♫")
+```
 
+```python
 #!/usr/bin/env python3
 
 import sys
@@ -88,7 +92,9 @@ assert_likes("french toast")
 
 print("♫ Doo, doo doo dupe ♫")
 print("♫ Can't wait to get a mouthful! ♫")
+```
 
+```python
 #!/usr/bin/env python3
 
 import sys
@@ -115,14 +121,14 @@ call(["say","Doo, doo doo doot"])
 
 print(c.clear + "♫ Can't wait to get a mouthful! ♫")
 call(["say","Can't wait to get a mouthful!"])
-
+```
 
 ## Extras
 
 If you are running from a local Mac computer you can add these lines
 to have your computer actually say the words:
 
-```python3
+```python
 from subprocess import call
 call(["say", "do you like " + food + "?"])
 ```
