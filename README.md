@@ -1,6 +1,7 @@
-![bloomberg](assets/bloomberg.png)
+# [Fundamentals in Python][work]
+[work]: https://github.com/skilstak/pyfun-work/blob/gh-pages/README.md
 
-# Programming Fundamentals in Python 3
+![bloomberg](assets/bloomberg.png)
 
 Welcome to Python!
 
