@@ -1,26 +1,18 @@
 # [Fundamentals in Python][work]
 [work]: https://github.com/skilstak/pyfun-work/blob/gh-pages/README.md
 
-![bloomberg](assets/bloomberg.png)
+**Welcome to Python!** In this course you will learn the fundamentals
+of programming in Python. Concepts include variables, operators,
+blocks, logic, loops, data types, lists, dictionaries, functions,
+exceptions, unit testing, classes, files, json, web api consumption,
+and basic code organization.  You will learn modern Python 3 and we
+encourage you to first learn this before possibly learning the older,
+but still used, Python 2.
 
-Welcome to Python!
+Read these first before jumping off into the projects:
 
-## What We Learn
-
-In this course students find out what coding is, why they should
-learn it, and how. Students focus on programming fundamentals such
-as variables, operators, blocks, logic, loops, data types, lists,
-dictionaries, functions, exceptions, unit testing, classes, files,
-json, web api consumption, and basic code organization.
-
-Students gradually learn the same habits, tools, and workflows
-associated with college computer science programs and technical
-careers. We code using `vim` from the command-line the way most
-experienced professionals do. If you insist, you can also use the
-[Atom](http://atom.io)-like editor with
-[codeanywhere.com](http://codeanywhwere.com).
-
-Students learn modern Python (3.4+ not 2.7) for many obvious reasons.
+1. [Why Python?](/why/README.md)
+1. [Short History of Python](/history/README.md)
 
 ## Projects
 
