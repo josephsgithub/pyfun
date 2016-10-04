@@ -6,13 +6,21 @@ classroom textbook][text-work].***
 
 [text-work]: https://blog.skilstak.io/github-as-text-book-and-work-book-828ffada9542#.etr9ts7me
 
->  This textbook repo is where you read about the work you will do in
->  your personal workbook repo, which you should create by accepting
->  the invite from your instructor. If you catch spelling issues or
->  other error please submit an issue on this textbook repo to have
->  it corrected. For questions about the assignments and work you are
->  doing you can open issues on your personal workbook repo. Teachers
-> are encouraged to read the [Teachers' Welcome](teachers/README.md)
+>  This *text*book goes with a *work*book. To get your workbook ask your
+>  instructor for an invite or find it in your course chat room.
+>  When you accept the invite GitHub Classrooms will create your 
+>  personal, private workbook by copying the workbook starter repo.
+> 
+>  For questions about anything in the course including your projects
+>  and assignments you can create an issue on your workbook and your
+>  instructor will see it. You can also ask in the course chat.
+> 
+>  If you catch spelling issues or other errors with either this textbook
+>  or the starter workbook (click title) please open issues on them
+>  suggesting corrections.
+>  
+>  Teachers and parents are encouraged to
+>  read [*Welcome Teachers!*](teachers/README.md)
 
 **Welcome to Python!** In this course you will learn the fundamentals
 of programming in Python. Concepts include variables, operators,
