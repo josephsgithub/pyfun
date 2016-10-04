@@ -1,10 +1,10 @@
+# [Fundamentals in Python][work]
+[work]: https://github.com/skilstak/pyfun-work/blob/gh-pages/README.md
+
 ***Currently a work in progress as we port our content to this [GitHub
 classroom textbook][text-work].***
 
 [text-work]: https://blog.skilstak.io/github-as-text-book-and-work-book-828ffada9542#.etr9ts7me
-
-# [Fundamentals in Python][work]
-[work]: https://github.com/skilstak/pyfun-work/blob/gh-pages/README.md
 
 >  This textbook repo is where you read about the work you will do in
 >  your personal workbook repo, which you should create by accepting
