@@ -1,89 +1,128 @@
-# Teachers’ Welcome
+# Welcome Teachers!
 
-Thanks for using this textbook repo. It has an accompanying workbook
-repo as well that should be used as a starter repo for a 
-[GitHub Classroom][classroom]. You may wish you read more about
-using [*GitHub Classroom as Textbook and Workbook*][text-work]
+> Whether you are a SkilStak™ senior student who has become a student
+> instructor, a teacher from a public or private school, a university
+> adjunct, or even from a corporate organization we welcome you and
+> hope you find this material useful. Like all courses and
+> learning modules at SkilStak™ each has a ***textbook*** and ***workbook***
+> GitHub repo. The *textbook* is for reference. The *workbook* is to be
+> used as a starter “assignment” repo for [GitHub Classroom][classroom].
+> You may wish to read more about using [*GitHub Classroom as Textbook
+> and Workbook*][text-work] to familiarize yourself with this approach.
+> We believe it is the future of all textbooks in education as the
+> OER movement continues and classrooms become more digital.
+
+1. [Prerequisites](#prerequisites)
+1. [Age](#age)
+1. [Time](#time)
+1. [Rubrics](#rubrics)
+1. [Resources](#resources)
+1. [Other](#other)
+1. [Next](#next)
+1. [Copyright](#copyright)
 
 [classroom]: http://classroom.github.com
 [text-work]: https://blog.skilstak.io/github-as-text-book-and-work-book-828ffada9542#.etr9ts7me
 
+## Prerequisites
 
+* Completed [Prep](http://prep.skilstak.io)
 
+## Age
 
- -weeks (about one semester in most schools).
- -
- -**Age:** The content is designed with students ages 8 to 18 in mind but has
- -been completed by college age students and adults as well.
- -
- -**Just the Fundamentals:** It is important to note this course
- -covers only basic Programming Fundamentals that are pretty much
- -universal to all languages.  Python-specific features, such as
- -comprehensions, are not covered.
- -
- -**Supplemental Project:** Ideally these assignments will be coupled
- -with an ongoing project of the student's choosing in which they can
- -apply what they are learning as well as display on their public
- -GitHub repo to the world demonstrating what they have learned. Such
- -a project would help motivate students to progress farther on their
- -own as they learn the more advanced features of Python.
- -
- -**Rubrics:** This course contains no rubrics since these differ
- -greatly. At SkilStak we prefer to simply check for completion and
- -supplement this course with a
- -[certification](http://github.com/skilstak/course-pyfun-certification). In
- -fact, not unlike learning martial arts, many students may need to
- -repeat these assignments a few times to gain full mastery sufficient
- -to certify.
- -
- -**Resources and Requirements:** Students need access to a Bash
- -command-line on a computer that has had `python3` installed. Usually
- -this will be through an `ssh` connection to a Linux account on a
- -central school server but could equally be done with
- -[codeanywhere.com](http://codeanywhere.com), individual Raspberry
- -Pi computers, personal Linux laptops, virtual machines, or a remote
- -virtual host such as [Digital Ocean](http://digitalocean.com).
- -
- -Students should be setup with `ssh` access to GitHub and minimally
- -familiar with GitHub and understand how to make changes and commit
- -them. The included [`bin/save`](bin/save) command can be used to help
- -simplify this process from the command line.
- -
- -We have tried to keep everything needed for this course (except
- -Python3 itself and the Bash command line) included in the course repo.
- -This sometimes means some redundancy in each assignment directory but
- -felt it worth it to help students explore in those files as well. This
- -makes each assignment subdirectory as autonomous as possible.
- -
- -We also assume students have been setup with `vim` and any system
- -settings for editing have been added to the system. The editor in
- -[codeanywhere.com](http://codeanywhere.com) is also very good for
- -those not wanting to hassle with `vim` setup and instruction.
- -
- -**GitHub Classroom:** This course is setup to work well with
- -`classroom.github.com` and we encourage it. Because everything in
- -this repo is released to the public domain you should have no problem
- -setting up an "assignment" as follows for use with your own students.
- -
- -![classroom](assets/classroom.png)
- -
- -Using GitHub classroom with private repos allows students to work
- -without the worry of being scrutinized by peers and the public. (We
- -don't worry about cheating so much—especially since the solutions
- -are all in `.solutions` of every assignment). This also keeps
- -students personal GitHub repos uncluttered with educational repos
- -that might dissuade a potential employer or school admission leaving
- -only the student's individual creations in their repos.
- -
- -**Follow Up Possibilities:** This course is designed to prepare students to be proficient with
- -Raspberry Pi programming in Python later. Specifically the [*Blinky
- -Lib*](blinky) created can be modified to work with simple LED lights
- -from a basic breadboard connected to it.
- -
- -Many of the command line skills also build into server-side scripting
- -from the command line in the Linux course where basic Ethical Hacking
- -is also introduced.
- -
- -Go lang programming usually comes after this course as well since
- -students become familiar with command-line programming in Python
- -before moving on.
+The content is designed with students ages 8 to 18 in mind but has
+been completed by college age students and adults as well.
+
+## Time
+
+Students stay in this course until they are
+[*certified*](http://certify.skilstak.io).  Our experience has shown
+the average student can certify after about 100 total hours of time
+invested in learning and practicing. The amount of time required
+to certify will vary dramatically between individuals and has more
+to do with the amount of practice students get outside of class
+than aptitude or age.
+
+There are only 16 weeks of 90-minute classes in a semester totally
+24 classroom hours 4 of which are *digital recess* time. It is
+important to be realistic about how much mastery can be learned in
+only 20 total hours of class time, yet this is still 20 times more
+than most students get anywhere else.
+
+Therefore, it should take students who do not do any work outside of
+class five semesters (that’s two years if then enroll in all three
+semesters). If a student spends 90 minutes at home working on stuff
+outside of class that reduces the time in half, about one year. And if
+the student spends three hours outside of class (and many spend *way*
+more than that) it is realistic to see them certify in one semester.
+
+We recommend focusing on incentives and motivation for students to work
+on course projects or their own spin offs to maintain what they
+learn through the week to get them as many hours as possible outside
+of class.
+
+## Rubrics
+
+There are no rubrics other than instructor review of completed
+course projects. All the solutions are available in the textbook
+so [certification](http://certify.skilstak.io) is the main assessment
+tool.
+
+## Resources
+
+Students need access to a **Bash command-line** on a computer that has
+had **`python3`** installed. Usually this will be through an **`ssh`**
+connection to a Linux account on a central school server but could
+equally be done with [codeanywhere.com](http://codeanywhere.com),
+individual Raspberry Pi computers, personal Linux laptops, virtual
+machines, or a remote virtual host such as [Digital
+Ocean](http://digitalocean.com).
+
+## Other
+
+Fundamentals is just that, fundamentals. Python comprehensions are
+not a fundamental. Avoid the tendency to lose focus on the advanced
+elements of Python at the expense of the fundamentals. There will
+be plenty of time to explore the rest in
+[Project](http://project.skilstak.io) after they certify.
+
+## Next
+
+After [certifying](http://certify.skilstak.io) students move to
+[Project](http://project.skilstak.io) where they are prepared to
+do learning modules from the [Engineering](http://eng.skilstak.io),
+[Linux](http://linux.skilstak.io), [Data Science](http://data.skilstak.io),
+and [Languages](http://lang.skilstak.io) focus categories.
+
+## Copyright
+
+![oer](/assets/oer.png)
+
+This course is copyright [SkilStak, Inc.][skilstak] and released
+under the Creative Commons Attribution-ShareAlike 4.0 International
+License. You [should have received a copy of the license](LICENSE.md)
+with this work. If not, see
+[http://creativecommons.org/licenses/by-sa/4.0/][cc-by-sa].
+
+We believe strongly in the *Open Educational Resources* (OER)
+movement as promoted by [UNESCO](http://www.unesco.org), [OER
+Commons](https://www.oercommons.org/), [MIT](http://ocw.mit.edu),
+and others. Educators and course creators are encouraged to contribute
+or modify this course under the terms of this license.
+
+Students need not worry about copyright and licensing unless they
+plan on publishing their own modifications or derived versions of
+this course. Specifically they can use code created in their courses
+in their own projects without fear of copyright infringement or
+license violation. Student contributions to this or any other
+SkilStak™ course are on behalf of SkilStak™ and become a part of
+this copyright and license.
+
+ 
+---
+[![home](/assets/home-bw.png)](/README.md)
+[![cc-by-sa](/assets/cc-by-sa.png)][cc-by-sa]
+[![skilstak](/assets/skilstak-logo-bw.png)][skilstak]
+[cc-by-sa]: https://creativecommons.org/licenses/by-sa/4.0/
+[skilstak]: http://skilstak.io
+
