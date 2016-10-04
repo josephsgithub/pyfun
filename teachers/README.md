@@ -26,7 +26,7 @@
 
 ## Prerequisites
 
-* Completed [Prep](http://prep.skilstak.io)
+* Complete [Prep](http://prep.skilstak.io)
 
 ## Age
 
