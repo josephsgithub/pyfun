@@ -50,7 +50,7 @@ only 20 total hours of class time, yet this is still 20 times more
 than most students get anywhere else.
 
 Therefore, it should take students who do not do any work outside of
-class five semesters (that’s two years if they enroll in all three
+class five semesters (that’s two years if they attend all three
 semesters). If a student spends 90 minutes at home working on stuff
 outside of class that reduces the time in half, about one year. And if
 the student spends three hours outside of class (and many spend *way*
