@@ -43,7 +43,7 @@ to certify will vary dramatically between individuals and has more
 to do with the amount of practice students get outside of class
 than aptitude or age.
 
-There are only 16 weeks of 90-minute classes in a semester totally
+There are only 16 weeks of 90-minute classes in a semester totaling
 24 classroom hours 4 of which are *digital recess* time. It is
 important to be realistic about how much mastery can be learned in
 only 20 total hours of class time, yet this is still 20 times more
