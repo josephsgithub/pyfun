@@ -13,7 +13,7 @@ is working. In this case, if Python is installed and setup correctly
 and you know how to use it. Unlike other lessons we will cover some of
 those things as well as the actually programming part.
 
-> Concept: helloworld
+> Concepts: helloworld
 
 TODO
  

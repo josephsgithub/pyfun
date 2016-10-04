@@ -22,6 +22,8 @@ classroom textbook][text-work].***
 >  Teachers and parents are encouraged to
 >  read [*Welcome Teachers!*](teachers/README.md)
 
+## Summary
+
 **Welcome to Python!** In this course you will learn the fundamentals
 of programming in Python. Concepts include variables, operators,
 blocks, logic, loops, data types, lists, dictionaries, functions,
@@ -29,35 +31,31 @@ exceptions, unit testing, classes, files, json, web api consumption,
 and basic code organization. This course covers Python 3, the most
 recent version of Python.
 
-Read these first before jumping off into the projects:
-
+## Table of Contents
 1. [Why Python?](/why/README.md)
 1. [Short History of Python](/history/README.md)
-
-## Projects
-
 1. [Hello World!](hello/README.md)
-2. [Hi There!](hi/README.md)
-3. [Nyan, Nyan, STOP!](nyan/README.md)
-4. [Do You Like Waffles?](waffles/README.md)
-5. [Badgers, Badgers, Badgers](badgers/README.md)
-6. [Magic Eightball](eightball/README.md)
-7. [Bridge Keeper](bridge/README.md)
-8. [Rock, Paper, Scissors](rps/README.md)
-9. [Arrrgs](arrrgs/README.md)
-10. [Dice Roll](roll/README.md)
-11. [Multiplication Tables](mtable/README.md)
-12. [Mad Forms](madforms/README.md)
-13. [Binary Counter](bincount/README.md)
-14. [Character Generator](gen/README.md)
-15. [Quiz Game](quiz/README.md)
-16. [Lights](lights/README.md)
-17. [MyLights](mylights/README.md)
-18. [Guess](guess/README.md)
-19. [Arena](arena/README.md)
-20. [Battleship](battleship/README.md)
-21. [PokeAPI](pokeapi/README.md)
-22. [Story](story/README.md)
+1. [Hi There!](hi/README.md)
+1. [Nyan, Nyan, STOP!](nyan/README.md)
+1. [Do You Like Waffles?](waffles/README.md)
+1. [Badgers, Badgers, Badgers](badgers/README.md)
+1. [Magic Eightball](eightball/README.md)
+1. [Bridge Keeper](bridge/README.md)
+1. [Rock, Paper, Scissors](rps/README.md)
+1. [Arrrgs](arrrgs/README.md)
+1. [Dice Roll](roll/README.md)
+1. [Multiplication Tables](mtable/README.md)
+1. [Mad Forms](madforms/README.md)
+1. [Binary Counter](bincount/README.md)
+1. [Character Generator](gen/README.md)
+1. [Quiz Game](quiz/README.md)
+1. [Lights](lights/README.md)
+1. [MyLights](mylights/README.md)
+1. [Guess](guess/README.md)
+1. [Arena](arena/README.md)
+1. [Battleship](battleship/README.md)
+1. [PokeAPI](pokeapi/README.md)
+1. [Story](story/README.md)
  
 ## More Python 3 Learning Resources
 
@@ -67,30 +65,7 @@ resources to keep you going.
 * [Dive Into Python 3](http://www.diveintopython3.net)
 * Do NOT use codeacademy.com to learn Python since it is Python 2.
 
-## Copyright and License
-
-![oer](/assets/oer.png)
-
-This course is copyright [SkilStak, Inc.][skilstak] and released
-under the Creative Commons Attribution-ShareAlike 4.0 International
-License. You [should have received a copy of the license](LICENSE.md)
-with this work. If not, see
-[http://creativecommons.org/licenses/by-sa/4.0/][cc-by-sa].
-
-We believe strongly in the *Open Educational Resources* (OER)
-movement as promoted by [UNESCO](http://www.unesco.org), [OER
-Commons](https://www.oercommons.org/), [MIT](http://ocw.mit.edu),
-and others. Educators and course creators are encouraged to contribute
-or modify this course under the terms of this license.
-
-Students need not worry about copyright and licensing unless they
-plan on publishing their own modifications or derived versions of
-this course. Specifically they can use code created in their courses
-in their own projects without fear of copyright infringement or
-license violation. Student contributions to this or any other
-SkilStak™ course are on behalf of SkilStak™ and become a part of
-this copyright and license.
-
+## Concepts
 
 ---
 [![home](/assets/home-bw.png)](/README.md)
