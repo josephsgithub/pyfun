@@ -6,8 +6,13 @@ classroom textbook][text-work].***
 # [Fundamentals in Python][work]
 [work]: https://github.com/skilstak/pyfun-work/blob/gh-pages/README.md
 
-*Teachers are encouraged to read the [Teachers'
-Welcome](teachers/README.md)*
+>  This textbook repo is where you read about the work you will do in
+>  your personal workbook repo, which you should create by accepting
+>  the invite from your instructor. If you catch spelling issues or
+>  other error please submit an issue on this textbook repo to have
+>  it corrected. For questions about the assignments and work you are
+>  doing you can open issues on your personal workbook repo. Teachers
+> are encouraged to read the [Teachers' Welcome](teachers/README.md)
 
 **Welcome to Python!** In this course you will learn the fundamentals
 of programming in Python. Concepts include variables, operators,
