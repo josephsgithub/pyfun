@@ -1,10 +1,10 @@
 # Hello World!
 
-'''python
+```python
 #!/usr/bin/env python3
 
 print("Hello world!")
-'''
+```
 
 Hello world is an long-standing tradition in programming. It has been
 written by billions of people soon to include you. As simple as it is,
