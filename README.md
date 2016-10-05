@@ -1,7 +1,3 @@
----
-order: "something"
----
-
 # [Fundamentals in Python][work]
 [work]: https://github.com/skilstak/pyfun-work/blob/gh-pages/README.md
 
