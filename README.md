@@ -32,7 +32,29 @@ recent version of Python.
 
 ## Table of Contents
 1. [Why Python? (`why`)](why/README.md)
-
+2. [Short History of Python (`history`)](history/README.md)
+3. [Hello World! (`hello`)](hello/README.md)
+4. [Hi There! (`hi`)](hi/README.md)
+5. [Nyan, Nyan, STOP! (`nyan`)](nyan/README.md)
+6. [Do You Like Waffles? (`waffles`)](waffles/README.md)
+7. [Badgers, Badgers, Badgers (`badgers`)](badgers/README.md)
+8. [Magic Eightball (`eightball`)](eightball/README.md)
+9. [Bridge Keeper (`bridge`)](bridge/README.md)
+10. [Rock, Paper, Scissors (`rps`)](rps/README.md)
+11. [Arrrgs (`arrrgs`)](arrrgs/README.md)
+12. [Dice Roll (`roll`)](roll/README.md)
+13. [Multiplication Tables (`mtable`)](mtable/README.md)
+14. [Mad Forms (`madforms`)](madforms/README.md)
+15. [Binary Counter (`bincount`)](bincount/README.md)
+16. [Character Generator (`gen`)](gen/README.md)
+17. [Quiz Game (`quiz`)](quiz/README.md)
+18. [Holiday Lights (`lights`)](lights/README.md)
+19. [My Lights Lib (`mylights`)](mylights/README.md)
+20. [Word Bomb (`wordbomb`)](wordbomb/README.md)
+21. [Arena (`arena`)](arena/README.md)
+22. [Hi There! (`battleship`)](battleship/README.md)
+23. [Pokemon API (`pokeapi`)](pokeapi/README.md)
+24. [Story (`story`)](story/README.md)
 
 somethign · else · here
 
