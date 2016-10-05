@@ -32,53 +32,53 @@ recent version of Python.
 
 ## Table of Contents
 1. [Why Python? (`why`)](why/README.md)
-  * somethign ◦ else ◦ here
+  somethign ◦ else ◦ here
 2. [Short History of Python (`history`)](history/README.md)
-  * somethign ◦ else ◦ here
+  somethign ◦ else ◦ here
 3. [Hello World! (`hello`)](hello/README.md)
-  * somethign ◦ else ◦ here
+  somethign ◦ else ◦ here
 4. [Hi There! (`hi`)](hi/README.md)
-  * somethign ◦ else ◦ here
+  somethign ◦ else ◦ here
 5. [Nyan, Nyan, STOP! (`nyan`)](nyan/README.md)
-  * somethign ◦ else ◦ here
+  somethign ◦ else ◦ here
 6. [Do You Like Waffles? (`waffles`)](waffles/README.md)
-  * somethign ◦ else ◦ here
+  somethign ◦ else ◦ here
 7. [Badgers, Badgers, Badgers (`badgers`)](badgers/README.md)
-  * somethign ◦ else ◦ here
+  somethign ◦ else ◦ here
 8. [Magic Eightball (`eightball`)](eightball/README.md)
-  * somethign ◦ else ◦ here
+  somethign ◦ else ◦ here
 9. [Bridge Keeper (`bridge`)](bridge/README.md)
-  * somethign ◦ else ◦ here
+  somethign ◦ else ◦ here
 10. [Rock, Paper, Scissors (`rps`)](rps/README.md)
-  * somethign ◦ else ◦ here
+  somethign ◦ else ◦ here
 11. [Arrrgs (`arrrgs`)](arrrgs/README.md)
-  * somethign ◦ else ◦ here
+  somethign ◦ else ◦ here
 12. [Dice Roll (`roll`)](roll/README.md)
-  * somethign ◦ else ◦ here
+  somethign ◦ else ◦ here
 13. [Multiplication Tables (`mtable`)](mtable/README.md)
-  * somethign ◦ else ◦ here
+  somethign ◦ else ◦ here
 14. [Mad Forms (`madforms`)](madforms/README.md)
-  * somethign ◦ else ◦ here
+  somethign ◦ else ◦ here
 15. [Binary Counter (`bincount`)](bincount/README.md)
-  * somethign ◦ else ◦ here
+  somethign ◦ else ◦ here
 16. [Character Generator (`gen`)](gen/README.md)
-  * somethign ◦ else ◦ here
+  somethign ◦ else ◦ here
 17. [Quiz Game (`quiz`)](quiz/README.md)
-  * somethign ◦ else ◦ here
+  somethign ◦ else ◦ here
 18. [Holiday Lights (`lights`)](lights/README.md)
-  * somethign ◦ else ◦ here
+  somethign ◦ else ◦ here
 19. [My Lights Lib (`mylights`)](mylights/README.md)
-  * somethign ◦ else ◦ here
+  somethign ◦ else ◦ here
 20. [Word Bomb (`wordbomb`)](wordbomb/README.md)
-  * somethign ◦ else ◦ here
+  somethign ◦ else ◦ here
 21. [Arena (`arena`)](arena/README.md)
-  * somethign ◦ else ◦ here
+  somethign ◦ else ◦ here
 22. [Hi There! (`battleship`)](battleship/README.md)
-  * somethign ◦ else ◦ here
+  somethign ◦ else ◦ here
 23. [Pokemon API (`pokeapi`)](pokeapi/README.md)
-  * somethign ◦ else ◦ here
+  somethign ◦ else ◦ here
 24. [Story (`story`)](story/README.md)
-  * somethign ◦ else ◦ here
+  somethign ◦ else ◦ here
 
 ## More Python 3 Learning Resources
 Wanna take your skills beyond the fundamentals? Here are some
