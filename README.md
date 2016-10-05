@@ -22,6 +22,9 @@ classroom textbook][text-work].***
 >  Teachers and parents are encouraged to
 >  read [*Welcome Teachers!*](teachers/README.md)
 
+[comment]: # This is some sort
+of multiline comment
+
 ## Summary
 **Welcome to Python!** In this course you will learn the fundamentals
 of programming in Python. Concepts include variables, operators,
@@ -64,6 +67,7 @@ resources to keep you going.
 * Do NOT use codeacademy.com to learn Python since it is Python 2.
 
 ## Concepts
+i am a concept
 
 ---
 [![home](/assets/home-bw.png)](/README.md)
