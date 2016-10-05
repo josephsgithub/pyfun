@@ -24,7 +24,7 @@ classroom textbook][text-work].***
 
 [blah][comment]
 
-[comment]: http://blah
+[comment]: #blah
 
 ## Summary
 **Welcome to Python!** In this course you will learn the fundamentals
