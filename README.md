@@ -22,7 +22,8 @@ classroom textbook][text-work].***
 >  Teachers and parents are encouraged to
 >  read [*Welcome Teachers!*](teachers/README.md)
 
-[comment][]
+[][comment]
+
 [comment]: # This is some sort of multiline comment
 
 ## Summary
