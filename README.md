@@ -63,9 +63,6 @@ resources to keep you going.
 * [Dive Into Python 3](http://www.diveintopython3.net)
 * Do NOT use codeacademy.com to learn Python since it is Python 2.
 
-## Concepts
-i am a concept
-
 ---
 [![home](/assets/home-bw.png)](/README.md)
 [![cc-by-sa](/assets/cc-by-sa.png)][cc-by-sa]
