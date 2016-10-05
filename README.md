@@ -1,3 +1,7 @@
+---
+order: "something"
+---
+
 # [Fundamentals in Python][work]
 [work]: https://github.com/skilstak/pyfun-work/blob/gh-pages/README.md
 
@@ -21,10 +25,6 @@ classroom textbook][text-work].***
 >  
 >  Teachers and parents are encouraged to
 >  read [*Welcome Teachers!*](teachers/README.md)
-
-[blah][comment]
-
-[comment]: #This is something 
 
 ## Summary
 **Welcome to Python!** In this course you will learn the fundamentals
