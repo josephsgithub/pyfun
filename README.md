@@ -24,7 +24,7 @@ classroom textbook][text-work].***
 
 [blah][comment]
 
-[comment]: # This is some sort of multiline comment
+[comment]: http://blah
 
 ## Summary
 **Welcome to Python!** In this course you will learn the fundamentals
