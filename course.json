@@ -1,4 +1,184 @@
 {
+  "parts": {
+    "badgers": {
+      "parts": [],
+      "title": "Badgers, Badgers, Badgers"
+    },
+    "teachers": {
+      "parts": [
+        {
+          "title": "Prerequisites",
+          "concepts": [],
+          "short": "prerequisites"
+        },
+        {
+          "title": "Age",
+          "concepts": [],
+          "short": "age"
+        },
+        {
+          "title": "Time",
+          "concepts": [],
+          "short": "time"
+        },
+        {
+          "title": "Rubrics",
+          "concepts": [],
+          "short": "rubrics"
+        },
+        {
+          "title": "Resources",
+          "concepts": [],
+          "short": "resources"
+        },
+        {
+          "title": "Other",
+          "concepts": [],
+          "short": "other"
+        },
+        {
+          "title": "Next",
+          "concepts": [],
+          "short": "next"
+        },
+        {
+          "title": "Contributing",
+          "concepts": [],
+          "short": "contributing"
+        },
+        {
+          "title": "Copyright",
+          "concepts": [],
+          "short": "copyright"
+        }
+      ],
+      "title": "Welcome Teachers!"
+    },
+    "rps": {
+      "parts": [],
+      "title": "Rock, Paper, Scissors"
+    },
+    "wordbomb": {
+      "parts": [],
+      "title": "Word Bomb"
+    },
+    "nyan": {
+      "parts": [],
+      "title": "Nyan, Nyan, STOP!"
+    },
+    "quiz": {
+      "parts": [],
+      "title": "Quiz Game"
+    },
+    "bridge": {
+      "parts": [],
+      "title": "Bridge Keeper"
+    },
+    "arena": {
+      "parts": [],
+      "title": "Arena"
+    },
+    "mylights": {
+      "parts": [],
+      "title": "My Lights Lib"
+    },
+    "arrrgs": {
+      "parts": [],
+      "title": "Arrrgs"
+    },
+    "history": {
+      "parts": [
+        {
+          "title": "Whitespace Novelty",
+          "concepts": [],
+          "short": "whitespace-novelty"
+        },
+        {
+          "title": "Adopted as Best First Language to Learn",
+          "concepts": [],
+          "short": "adopted-as-best-first-language-to-learn"
+        }
+      ],
+      "title": "Short History of Python"
+    },
+    "hi": {
+      "parts": [],
+      "title": "Hi There!"
+    },
+    "hello": {
+      "parts": [
+        {
+          "title": "History",
+          "concepts": [
+            "helloworld"
+          ],
+          "short": "history"
+        }
+      ],
+      "title": "Hello World!"
+    },
+    "waffles": {
+      "parts": [],
+      "title": "Do You Like Waffles?"
+    },
+    "madforms": {
+      "parts": [],
+      "title": "Mad Forms"
+    },
+    "lights": {
+      "parts": [],
+      "title": "Holiday Lights"
+    },
+    "bincount": {
+      "parts": [],
+      "title": "Binary Counter"
+    },
+    "why": {
+      "parts": [
+        {
+          "title": "It is Easy",
+          "concepts": [],
+          "short": "it-is-easy"
+        },
+        {
+          "title": "It is Everywhere",
+          "concepts": [],
+          "short": "it-is-everywhere"
+        }
+      ],
+      "title": "Why Python?"
+    },
+    "mtable": {
+      "parts": [],
+      "title": "Multiplication Tables"
+    },
+    "story": {
+      "parts": [],
+      "title": "Story"
+    },
+    "gen": {
+      "parts": [],
+      "title": "Character Generator"
+    },
+    "battleship": {
+      "parts": [],
+      "title": "Hi There!"
+    },
+    "roll": {
+      "parts": [],
+      "title": "Dice Roll"
+    },
+    "pokeapi": {
+      "parts": [],
+      "title": "Pokemon API"
+    },
+    "eightball": {
+      "parts": [],
+      "title": "Magic Eightball"
+    }
+  },
+  "title": "Fundamentals in Python",
+  "summary": "**Welcome to Python!** In this course you will learn the fundamentals of programming in Python. Concepts include variables, operators, blocks, logic, loops, data types, lists, dictionaries, functions, exceptions, unit testing, classes, files, json, web api consumption, and basic code organization. This course covers Python 3.5+, the most recent version of Python. ",
   "order": [
     "why",
     "history",
@@ -25,185 +205,5 @@
     "pokeapi",
     "story",
     "teachers"
-  ],
-  "parts": {
-    "wordbomb": {
-      "parts": [],
-      "title": "Word Bomb"
-    },
-    "rps": {
-      "parts": [],
-      "title": "Rock, Paper, Scissors"
-    },
-    "lights": {
-      "parts": [],
-      "title": "Holiday Lights"
-    },
-    "quiz": {
-      "parts": [],
-      "title": "Quiz Game"
-    },
-    "bridge": {
-      "parts": [],
-      "title": "Bridge Keeper"
-    },
-    "teachers": {
-      "parts": [
-        {
-          "short": "prerequisites",
-          "concepts": [],
-          "title": "Prerequisites"
-        },
-        {
-          "short": "age",
-          "concepts": [],
-          "title": "Age"
-        },
-        {
-          "short": "time",
-          "concepts": [],
-          "title": "Time"
-        },
-        {
-          "short": "rubrics",
-          "concepts": [],
-          "title": "Rubrics"
-        },
-        {
-          "short": "resources",
-          "concepts": [],
-          "title": "Resources"
-        },
-        {
-          "short": "other",
-          "concepts": [],
-          "title": "Other"
-        },
-        {
-          "short": "next",
-          "concepts": [],
-          "title": "Next"
-        },
-        {
-          "short": "contributing",
-          "concepts": [],
-          "title": "Contributing"
-        },
-        {
-          "short": "copyright",
-          "concepts": [],
-          "title": "Copyright"
-        }
-      ],
-      "title": "Welcome Teachers!"
-    },
-    "pokeapi": {
-      "parts": [],
-      "title": "Pokemon API"
-    },
-    "hello": {
-      "parts": [
-        {
-          "short": "history",
-          "concepts": [
-            "helloworld"
-          ],
-          "title": "History"
-        }
-      ],
-      "title": "Hello World!"
-    },
-    "arrrgs": {
-      "parts": [],
-      "title": "Arrrgs"
-    },
-    "roll": {
-      "parts": [],
-      "title": "Dice Roll"
-    },
-    "waffles": {
-      "parts": [],
-      "title": "Do You Like Waffles?"
-    },
-    "story": {
-      "parts": [],
-      "title": "Story"
-    },
-    "hi": {
-      "parts": [],
-      "title": "Hi There!"
-    },
-    "mtable": {
-      "parts": [],
-      "title": "Multiplication Tables"
-    },
-    "nyan": {
-      "parts": [],
-      "title": "Nyan, Nyan, STOP!"
-    },
-    "arena": {
-      "parts": [],
-      "title": "Arena"
-    },
-    "gen": {
-      "parts": [],
-      "title": "Character Generator"
-    },
-    "badgers": {
-      "parts": [],
-      "title": "Badgers, Badgers, Badgers"
-    },
-    "why": {
-      "parts": [
-        {
-          "short": "it-is-easy",
-          "concepts": [],
-          "title": "It is Easy"
-        },
-        {
-          "short": "it-is-everywhere",
-          "concepts": [],
-          "title": "It is Everywhere"
-        }
-      ],
-      "title": "Why Python?"
-    },
-    "eightball": {
-      "parts": [],
-      "title": "Magic Eightball"
-    },
-    "bincount": {
-      "parts": [],
-      "title": "Binary Counter"
-    },
-    "mylights": {
-      "parts": [],
-      "title": "My Lights Lib"
-    },
-    "madforms": {
-      "parts": [],
-      "title": "Mad Forms"
-    },
-    "history": {
-      "parts": [
-        {
-          "short": "whitespace-novelty",
-          "concepts": [],
-          "title": "Whitespace Novelty"
-        },
-        {
-          "short": "adopted-as-best-first-language-to-learn",
-          "concepts": [],
-          "title": "Adopted as Best First Language to Learn"
-        }
-      ],
-      "title": "Short History of Python"
-    },
-    "battleship": {
-      "parts": [],
-      "title": "Hi There!"
-    }
-  },
-  "title": "Fundamentals in Python",
-  "summary": "**Welcome to Python!** In this course you will learn the fundamentals of programming in Python. Concepts include variables, operators, blocks, logic, loops, data types, lists, dictionaries, functions, exceptions, unit testing, classes, files, json, web api consumption, and basic code organization. This course covers Python 3.5+, the most recent version of Python. "
+  ]
 }
