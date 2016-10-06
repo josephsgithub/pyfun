@@ -31,59 +31,59 @@ and basic code organization. This course covers Python 3.5+, the most
 recent version of Python.
 
 ## Table of Contents
-1. [Why Python? (`why`)](why/README.md)
-  1. [It is Easy](why/README.md#it-is-easy)
->    concept one • concept two
-  2. [It is Everywhere](why/README.md#it-is-everywhere)
->    concept one • concept two
-2. [Short History of Python (`history`)](history/README.md)
-  1. [Whitespace Novelty](history/README.md#whitespace-novelty)
->    concept one • concept two
-  2. [Adopted as Best First Language to Learn](history/README.md#adopted-as-best-first-language-to-learn)
->    concept one • concept two
-3. [Hello World! (`hello`)](hello/README.md)
-  1. [History](hello/README.md#history)
->    concept one • concept two
-4. [Hi There! (`hi`)](hi/README.md)
-5. [Nyan, Nyan, STOP! (`nyan`)](nyan/README.md)
-6. [Do You Like Waffles? (`waffles`)](waffles/README.md)
-7. [Badgers, Badgers, Badgers (`badgers`)](badgers/README.md)
-8. [Magic Eightball (`eightball`)](eightball/README.md)
-9. [Bridge Keeper (`bridge`)](bridge/README.md)
-10. [Rock, Paper, Scissors (`rps`)](rps/README.md)
-11. [Arrrgs (`arrrgs`)](arrrgs/README.md)
-12. [Dice Roll (`roll`)](roll/README.md)
-13. [Multiplication Tables (`mtable`)](mtable/README.md)
-14. [Mad Forms (`madforms`)](madforms/README.md)
-15. [Binary Counter (`bincount`)](bincount/README.md)
-16. [Character Generator (`gen`)](gen/README.md)
-17. [Quiz Game (`quiz`)](quiz/README.md)
-18. [Holiday Lights (`lights`)](lights/README.md)
-19. [My Lights Lib (`mylights`)](mylights/README.md)
-20. [Word Bomb (`wordbomb`)](wordbomb/README.md)
-21. [Arena (`arena`)](arena/README.md)
-22. [Hi There! (`battleship`)](battleship/README.md)
-23. [Pokemon API (`pokeapi`)](pokeapi/README.md)
-24. [Story (`story`)](story/README.md)
-25. [Welcome Teachers! (`teachers`)](teachers/README.md)
-  1. [Prerequisites](teachers/README.md#prerequisites)
->    concept one • concept two
-  2. [Age](teachers/README.md#age)
->    concept one • concept two
-  3. [Time](teachers/README.md#time)
->    concept one • concept two
-  4. [Rubrics](teachers/README.md#rubrics)
->    concept one • concept two
-  5. [Resources](teachers/README.md#resources)
->    concept one • concept two
-  6. [Other](teachers/README.md#other)
->    concept one • concept two
-  7. [Next](teachers/README.md#next)
->    concept one • concept two
-  8. [Contributing](teachers/README.md#contributing)
->    concept one • concept two
-  9. [Copyright](teachers/README.md#copyright)
->    concept one • concept two
+1. [*Why Python?* (`why`)](why/README.md)
+  1. [*It is Easy*](why/README.md#it-is-easy)
+*:* concept one • concept two
+  2. [*It is Everywhere*](why/README.md#it-is-everywhere)
+*:* concept one • concept two
+2. [*Short History of Python* (`history`)](history/README.md)
+  1. [*Whitespace Novelty*](history/README.md#whitespace-novelty)
+*:* concept one • concept two
+  2. [*Adopted as Best First Language to Learn*](history/README.md#adopted-as-best-first-language-to-learn)
+*:* concept one • concept two
+3. [*Hello World!* (`hello`)](hello/README.md)
+  1. [*History*](hello/README.md#history)
+*:* concept one • concept two
+4. [*Hi There!* (`hi`)](hi/README.md)
+5. [*Nyan, Nyan, STOP!* (`nyan`)](nyan/README.md)
+6. [*Do You Like Waffles?* (`waffles`)](waffles/README.md)
+7. [*Badgers, Badgers, Badgers* (`badgers`)](badgers/README.md)
+8. [*Magic Eightball* (`eightball`)](eightball/README.md)
+9. [*Bridge Keeper* (`bridge`)](bridge/README.md)
+10. [*Rock, Paper, Scissors* (`rps`)](rps/README.md)
+11. [*Arrrgs* (`arrrgs`)](arrrgs/README.md)
+12. [*Dice Roll* (`roll`)](roll/README.md)
+13. [*Multiplication Tables* (`mtable`)](mtable/README.md)
+14. [*Mad Forms* (`madforms`)](madforms/README.md)
+15. [*Binary Counter* (`bincount`)](bincount/README.md)
+16. [*Character Generator* (`gen`)](gen/README.md)
+17. [*Quiz Game* (`quiz`)](quiz/README.md)
+18. [*Holiday Lights* (`lights`)](lights/README.md)
+19. [*My Lights Lib* (`mylights`)](mylights/README.md)
+20. [*Word Bomb* (`wordbomb`)](wordbomb/README.md)
+21. [*Arena* (`arena`)](arena/README.md)
+22. [*Hi There!* (`battleship`)](battleship/README.md)
+23. [*Pokemon API* (`pokeapi`)](pokeapi/README.md)
+24. [*Story* (`story`)](story/README.md)
+25. [*Welcome Teachers!* (`teachers`)](teachers/README.md)
+  1. [*Prerequisites*](teachers/README.md#prerequisites)
+*:* concept one • concept two
+  2. [*Age*](teachers/README.md#age)
+*:* concept one • concept two
+  3. [*Time*](teachers/README.md#time)
+*:* concept one • concept two
+  4. [*Rubrics*](teachers/README.md#rubrics)
+*:* concept one • concept two
+  5. [*Resources*](teachers/README.md#resources)
+*:* concept one • concept two
+  6. [*Other*](teachers/README.md#other)
+*:* concept one • concept two
+  7. [*Next*](teachers/README.md#next)
+*:* concept one • concept two
+  8. [*Contributing*](teachers/README.md#contributing)
+*:* concept one • concept two
+  9. [*Copyright*](teachers/README.md#copyright)
+*:* concept one • concept two
 
 
 ## More Python 3 Learning Resources
