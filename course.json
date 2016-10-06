@@ -1,5 +1,4 @@
 {
-  "title": "Fundamentals in Python",
   "summary": "**Welcome to Python!** In this course you will learn the fundamentals of programming in Python. Concepts include variables, operators, blocks, logic, loops, data types, lists, dictionaries, functions, exceptions, unit testing, classes, files, json, web api consumption, and basic code organization. This course covers Python 3.5+, the most recent version of Python. ",
   "order": [
     "why",
@@ -29,31 +28,59 @@
     "more",
     "teachers"
   ],
+  "title": "Fundamentals in Python",
   "parts": {
-    "bridge": {
-      "title": "Bridge Keeper",
+    "mylights": {
+      "title": "My Lights Lib",
       "parts": []
     },
     "waffles": {
       "title": "Do You Like Waffles?",
       "parts": []
     },
-    "lights": {
-      "title": "Holiday Lights",
+    "nyan": {
+      "title": "Nyan, Nyan, STOP!",
+      "parts": []
+    },
+    "bridge": {
+      "title": "Bridge Keeper",
       "parts": []
     },
     "history": {
       "title": "Short History of Python",
       "parts": [
         {
-          "title": "Whitespace Novelty",
           "short": "whitespace-novelty",
-          "concepts": []
+          "concepts": [],
+          "title": "Whitespace Novelty"
         },
         {
-          "title": "Adopted as Best First Language to Learn",
           "short": "adopted-as-best-first-language-to-learn",
-          "concepts": []
+          "concepts": [],
+          "title": "Adopted as Best First Language to Learn"
+        }
+      ]
+    },
+    "mtable": {
+      "title": "Multiplication Tables",
+      "parts": []
+    },
+    "hi": {
+      "title": "Hi There!",
+      "parts": []
+    },
+    "why": {
+      "title": "Why Python?",
+      "parts": [
+        {
+          "short": "it-is-easy",
+          "concepts": [],
+          "title": "It is Easy"
+        },
+        {
+          "short": "it-is-everywhere",
+          "concepts": [],
+          "title": "It is Everywhere"
         }
       ]
     },
@@ -61,91 +88,76 @@
       "title": "Arena",
       "parts": []
     },
-    "hi": {
-      "title": "Hi There!",
-      "parts": []
-    },
-    "story": {
-      "title": "Story",
-      "parts": []
-    },
-    "why": {
-      "title": "Why Python?",
-      "parts": [
-        {
-          "title": "It is Easy",
-          "short": "it-is-easy",
-          "concepts": []
-        },
-        {
-          "title": "It is Everywhere",
-          "short": "it-is-everywhere",
-          "concepts": []
-        }
-      ]
-    },
-    "wordbomb": {
-      "title": "Word Bomb",
-      "parts": []
-    },
-    "more": {
-      "title": "More Python3 Learning Resources",
-      "parts": [
-        {
-          "title": "Dive Into Python 3",
-          "short": "dive-into-python-3",
-          "concepts": []
-        },
-        {
-          "title": "Warning",
-          "short": "warning",
-          "concepts": []
-        }
-      ]
-    },
-    "badgers": {
-      "title": "Badgers, Badgers, Badgers",
-      "parts": []
-    },
-    "madforms": {
-      "title": "Mad Forms",
-      "parts": []
-    },
-    "mylights": {
-      "title": "My Lights Lib",
-      "parts": []
-    },
     "quiz": {
       "title": "Quiz Game",
+      "parts": []
+    },
+    "lights": {
+      "title": "Holiday Lights",
+      "parts": []
+    },
+    "gen": {
+      "title": "Character Generator",
+      "parts": []
+    },
+    "roll": {
+      "title": "Dice Roll",
       "parts": []
     },
     "arrrgs": {
       "title": "Arrrgs",
       "parts": []
     },
-    "eightball": {
-      "title": "Magic Eightball",
-      "parts": []
-    },
-    "pokeapi": {
-      "title": "Pokemon API",
-      "parts": []
-    },
-    "mtable": {
-      "title": "Multiplication Tables",
-      "parts": []
-    },
     "hello": {
       "title": "Hello World!",
       "parts": [
         {
-          "title": "History",
           "short": "history",
           "concepts": [
             "helloworld",
             "another",
             "one"
-          ]
+          ],
+          "title": "History"
+        }
+      ]
+    },
+    "pokeapi": {
+      "title": "Pokemon API",
+      "parts": []
+    },
+    "badgers": {
+      "title": "Badgers, Badgers, Badgers",
+      "parts": []
+    },
+    "bincount": {
+      "title": "Binary Counter",
+      "parts": []
+    },
+    "eightball": {
+      "title": "Magic Eightball",
+      "parts": []
+    },
+    "story": {
+      "title": "Story",
+      "parts": []
+    },
+    "battleship": {
+      "title": "Hi There!",
+      "parts": []
+    },
+    "more": {
+      "title": "More Python3 Learning Resources",
+      "parts": [
+        {
+          "short": "dive-into-python-3",
+          "concepts": [],
+          "title": "Dive Into Python 3"
+        },
+        {
+          "short": "warning",
+          "concepts": [],
+          "title": "Warning"
         }
       ]
     },
@@ -153,74 +165,62 @@
       "title": "Welcome Teachers!",
       "parts": [
         {
-          "title": "Prerequisites",
           "short": "prerequisites",
-          "concepts": []
+          "concepts": [],
+          "title": "Prerequisites"
         },
         {
-          "title": "Age",
           "short": "age",
-          "concepts": []
+          "concepts": [],
+          "title": "Age"
         },
         {
-          "title": "Time",
           "short": "time",
-          "concepts": []
+          "concepts": [],
+          "title": "Time"
         },
         {
-          "title": "Rubrics",
           "short": "rubrics",
-          "concepts": []
+          "concepts": [],
+          "title": "Rubrics"
         },
         {
-          "title": "Resources",
           "short": "resources",
-          "concepts": []
+          "concepts": [],
+          "title": "Resources"
         },
         {
-          "title": "Other",
           "short": "other",
-          "concepts": []
+          "concepts": [],
+          "title": "Other"
         },
         {
-          "title": "Next",
           "short": "next",
-          "concepts": []
+          "concepts": [],
+          "title": "Next"
         },
         {
-          "title": "Contributing",
           "short": "contributing",
-          "concepts": []
+          "concepts": [],
+          "title": "Contributing"
         },
         {
-          "title": "Copyright",
           "short": "copyright",
-          "concepts": []
+          "concepts": [],
+          "title": "Copyright"
         }
       ]
     },
-    "battleship": {
-      "title": "Hi There!",
-      "parts": []
-    },
-    "gen": {
-      "title": "Character Generator",
+    "wordbomb": {
+      "title": "Word Bomb",
       "parts": []
     },
     "rps": {
       "title": "Rock, Paper, Scissors",
       "parts": []
     },
-    "roll": {
-      "title": "Dice Roll",
-      "parts": []
-    },
-    "nyan": {
-      "title": "Nyan, Nyan, STOP!",
-      "parts": []
-    },
-    "bincount": {
-      "title": "Binary Counter",
+    "madforms": {
+      "title": "Mad Forms",
       "parts": []
     }
   }
