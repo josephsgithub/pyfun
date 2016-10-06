@@ -1,35 +1,30 @@
 {
-  "title": "Fundamentals in Python",
-  "order": [
-    "why",
-    "history",
-    "hello",
-    "hi",
-    "nyan",
-    "waffles",
-    "badgers",
-    "eightball",
-    "bridge",
-    "rps",
-    "arrrgs",
-    "roll",
-    "mtable",
-    "madforms",
-    "bincount",
-    "gen",
-    "quiz",
-    "lights",
-    "mylights",
-    "wordbomb",
-    "arena",
-    "battleship",
-    "pokeapi",
-    "story",
-    "teachers"
-  ],
   "parts": {
+    "mylights": {
+      "parts": [],
+      "title": "My Lights Lib"
+    },
+    "badgers": {
+      "parts": [],
+      "title": "Badgers, Badgers, Badgers"
+    },
+    "mtable": {
+      "parts": [],
+      "title": "Multiplication Tables"
+    },
+    "bincount": {
+      "parts": [],
+      "title": "Binary Counter"
+    },
+    "rps": {
+      "parts": [],
+      "title": "Rock, Paper, Scissors"
+    },
+    "nyan": {
+      "parts": [],
+      "title": "Nyan, Nyan, STOP!"
+    },
     "teachers": {
-      "title": "Welcome Teachers!",
       "parts": [
         {
           "title": "Prerequisites",
@@ -76,26 +71,22 @@
           "concepts": [],
           "short": "copyright"
         }
-      ]
+      ],
+      "title": "Welcome Teachers!"
     },
-    "arrrgs": {
-      "title": "Arrrgs",
-      "parts": []
+    "bridge": {
+      "parts": [],
+      "title": "Bridge Keeper"
     },
-    "bincount": {
-      "title": "Binary Counter",
-      "parts": []
+    "story": {
+      "parts": [],
+      "title": "Story"
     },
     "quiz": {
-      "title": "Quiz Game",
-      "parts": []
-    },
-    "badgers": {
-      "title": "Badgers, Badgers, Badgers",
-      "parts": []
+      "parts": [],
+      "title": "Quiz Game"
     },
     "history": {
-      "title": "Short History of Python",
       "parts": [
         {
           "title": "Whitespace Novelty",
@@ -107,54 +98,64 @@
           "concepts": [],
           "short": "adopted-as-best-first-language-to-learn"
         }
-      ]
-    },
-    "story": {
-      "title": "Story",
-      "parts": []
+      ],
+      "title": "Short History of Python"
     },
     "gen": {
-      "title": "Character Generator",
-      "parts": []
+      "parts": [],
+      "title": "Character Generator"
+    },
+    "madforms": {
+      "parts": [],
+      "title": "Mad Forms"
     },
     "eightball": {
-      "title": "Magic Eightball",
-      "parts": []
-    },
-    "rps": {
-      "title": "Rock, Paper, Scissors",
-      "parts": []
-    },
-    "roll": {
-      "title": "Dice Roll",
-      "parts": []
-    },
-    "lights": {
-      "title": "Holiday Lights",
-      "parts": []
-    },
-    "waffles": {
-      "title": "Do You Like Waffles?",
-      "parts": []
+      "parts": [],
+      "title": "Magic Eightball"
     },
     "hello": {
-      "title": "Hello World!",
       "parts": [
         {
           "title": "History",
           "concepts": [
-            "helloworld"
+            "helloworld",
+            "another",
+            "one"
           ],
           "short": "history"
         }
-      ]
+      ],
+      "title": "Hello World!"
     },
-    "nyan": {
-      "title": "Nyan, Nyan, STOP!",
-      "parts": []
+    "waffles": {
+      "parts": [],
+      "title": "Do You Like Waffles?"
+    },
+    "roll": {
+      "parts": [],
+      "title": "Dice Roll"
+    },
+    "battleship": {
+      "parts": [],
+      "title": "Hi There!"
+    },
+    "pokeapi": {
+      "parts": [],
+      "title": "Pokemon API"
+    },
+    "arrrgs": {
+      "parts": [],
+      "title": "Arrrgs"
+    },
+    "arena": {
+      "parts": [],
+      "title": "Arena"
+    },
+    "hi": {
+      "parts": [],
+      "title": "Hi There!"
     },
     "why": {
-      "title": "Why Python?",
       "parts": [
         {
           "title": "It is Easy",
@@ -166,44 +167,45 @@
           "concepts": [],
           "short": "it-is-everywhere"
         }
-      ]
-    },
-    "arena": {
-      "title": "Arena",
-      "parts": []
-    },
-    "pokeapi": {
-      "title": "Pokemon API",
-      "parts": []
+      ],
+      "title": "Why Python?"
     },
     "wordbomb": {
-      "title": "Word Bomb",
-      "parts": []
+      "parts": [],
+      "title": "Word Bomb"
     },
-    "battleship": {
-      "title": "Hi There!",
-      "parts": []
-    },
-    "mtable": {
-      "title": "Multiplication Tables",
-      "parts": []
-    },
-    "mylights": {
-      "title": "My Lights Lib",
-      "parts": []
-    },
-    "bridge": {
-      "title": "Bridge Keeper",
-      "parts": []
-    },
-    "hi": {
-      "title": "Hi There!",
-      "parts": []
-    },
-    "madforms": {
-      "title": "Mad Forms",
-      "parts": []
+    "lights": {
+      "parts": [],
+      "title": "Holiday Lights"
     }
   },
-  "summary": "**Welcome to Python!** In this course you will learn the fundamentals of programming in Python. Concepts include variables, operators, blocks, logic, loops, data types, lists, dictionaries, functions, exceptions, unit testing, classes, files, json, web api consumption, and basic code organization. This course covers Python 3.5+, the most recent version of Python. "
+  "order": [
+    "why",
+    "history",
+    "hello",
+    "hi",
+    "nyan",
+    "waffles",
+    "badgers",
+    "eightball",
+    "bridge",
+    "rps",
+    "arrrgs",
+    "roll",
+    "mtable",
+    "madforms",
+    "bincount",
+    "gen",
+    "quiz",
+    "lights",
+    "mylights",
+    "wordbomb",
+    "arena",
+    "battleship",
+    "pokeapi",
+    "story",
+    "teachers"
+  ],
+  "summary": "**Welcome to Python!** In this course you will learn the fundamentals of programming in Python. Concepts include variables, operators, blocks, logic, loops, data types, lists, dictionaries, functions, exceptions, unit testing, classes, files, json, web api consumption, and basic code organization. This course covers Python 3.5+, the most recent version of Python. ",
+  "title": "Fundamentals in Python"
 }
