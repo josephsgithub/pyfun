@@ -19,6 +19,7 @@
 1. [Resources](#resources)
 1. [Other](#other)
 1. [Next](#next)
+1. [Contributing](#contributing)
 1. [Copyright](#copyright)
 
 [classroom]: http://classroom.github.com
@@ -94,6 +95,17 @@ do learning modules from the [Engineering](http://eng.skilstak.io),
 [Linux](http://linux.skilstak.io), [Data Science](http://data.skilstak.io),
 and [Languages](http://lang.skilstak.io) focus categories.
 
+## Contributing
+
+We welcome any contributions or corrections to this material. If
+you find a mistake or suggestion the easiest way is to submit an
+issue on this textbook repo. However, if you would like to make a
+more substantial addition consider forking this repo, making your
+changes, and submitting a pull request to us. Any and all contributions
+fall under the copyright license below ensuring all contributions
+remain under the original copyright of this material such that they
+can be enjoyed by all without fear or copyright violation.
+
 ## Copyright
 
 ![oer](/assets/oer.png)
@@ -117,7 +129,6 @@ in their own projects without fear of copyright infringement or
 license violation. Student contributions to this or any other
 SkilStak™ course are on behalf of SkilStak™ and become a part of
 this copyright and license.
-
  
 ---
 [![home](/assets/home-bw.png)](/README.md)
