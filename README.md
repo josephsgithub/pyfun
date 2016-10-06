@@ -76,7 +76,6 @@ recent version of Python.
   9. [**Copyright**](teachers/README.md#copyright)
 
 
-
 ---
 [![home](/assets/home-bw.png)](/README.md)
 [![cc-by-sa](/assets/cc-by-sa.png)][cc-by-sa]
