@@ -62,6 +62,8 @@ recent version of Python.
 23. [**Pokemon API** (`pokeapi`)](pokeapi/README.md)
 24. [**Story** (`story`)](story/README.md)
 25. [**More Python3 Learning Resources** (`more`)](more/README.md)
+  1. [**[Dive Into Python 3](http://www.diveintopython3.net)**](more/README.md#dive-into-python-3httpwwwdiveintopython3net)
+  2. [**Warning**](more/README.md#warning)
 26. [**Welcome Teachers!** (`teachers`)](teachers/README.md)
   1. [**Prerequisites**](teachers/README.md#prerequisites)
   2. [**Age**](teachers/README.md#age)
