@@ -1,4 +1,124 @@
 {
+  "parts": {
+    "pokeapi": {
+      "parts": {},
+      "title": "Pokemon API"
+    },
+    "nyan": {
+      "parts": {},
+      "title": "Nyan, Nyan, STOP!"
+    },
+    "mtable": {
+      "parts": {},
+      "title": "Multiplication Tables"
+    },
+    "quiz": {
+      "parts": {},
+      "title": "Quiz Game"
+    },
+    "mylights": {
+      "parts": {},
+      "title": "My Lights Lib"
+    },
+    "bridge": {
+      "parts": {},
+      "title": "Bridge Keeper"
+    },
+    "bincount": {
+      "parts": {},
+      "title": "Binary Counter"
+    },
+    "madforms": {
+      "parts": {},
+      "title": "Mad Forms"
+    },
+    "why": {
+      "parts": {
+        "it-is-easy": {
+          "concepts": [],
+          "title": "It is Easy",
+          "short": "it-is-easy"
+        },
+        "it-is-everywhere": {
+          "concepts": [],
+          "title": "It is Everywhere",
+          "short": "it-is-everywhere"
+        }
+      },
+      "title": "Why Python?"
+    },
+    "gen": {
+      "parts": {},
+      "title": "Character Generator"
+    },
+    "story": {
+      "parts": {},
+      "title": "Story"
+    },
+    "arena": {
+      "parts": {},
+      "title": "Arena"
+    },
+    "wordbomb": {
+      "parts": {},
+      "title": "Word Bomb"
+    },
+    "hi": {
+      "parts": {},
+      "title": "Hi There!"
+    },
+    "eightball": {
+      "parts": {},
+      "title": "Magic Eightball"
+    },
+    "lights": {
+      "parts": {},
+      "title": "Holiday Lights"
+    },
+    "roll": {
+      "parts": {},
+      "title": "Dice Roll"
+    },
+    "history": {
+      "parts": {
+        "adopted-as-best-first-language-to-learn": {
+          "concepts": [],
+          "title": "Adopted as Best First Language to Learn",
+          "short": "adopted-as-best-first-language-to-learn"
+        },
+        "whitespace-novelty": {
+          "concepts": [],
+          "title": "Whitespace Novelty",
+          "short": "whitespace-novelty"
+        }
+      },
+      "title": "Short History of Python"
+    },
+    "badgers": {
+      "parts": {},
+      "title": "Badgers, Badgers, Badgers"
+    },
+    "battleship": {
+      "parts": {},
+      "title": "Hi There!"
+    },
+    "hello": {
+      "parts": {},
+      "title": "Hello World!"
+    },
+    "waffles": {
+      "parts": {},
+      "title": "Do You Like Waffles?"
+    },
+    "rps": {
+      "parts": {},
+      "title": "Rock, Paper, Scissors"
+    },
+    "arrrgs": {
+      "parts": {},
+      "title": "Arrrgs"
+    }
+  },
   "order": [
     "why",
     "history",
@@ -24,5 +144,7 @@
     "battleship",
     "pokeapi",
     "story"
-  ]
+  ],
+  "title": "Fundamentals in Python",
+  "summary": "**Welcome to Python!** In this course you will learn the fundamentals of programming in Python. Concepts include variables, operators, blocks, logic, loops, data types, lists, dictionaries, functions, exceptions, unit testing, classes, files, json, web api consumption, and basic code organization. This course covers Python 3, the most recent version of Python. "
 }

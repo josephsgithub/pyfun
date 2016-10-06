@@ -7,7 +7,7 @@ server-side engineering. It is great for writing systems that test
 other systems. It is also one of the top languages used in data
 sciences.
 
-## It is Easy!
+## It is Easy
 
 Python is hands down the simplest language to learn of all the modern
 main stream languages. This is why it is the first language students

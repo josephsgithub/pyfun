@@ -32,8 +32,8 @@ recent version of Python.
 
 ## Table of Contents
 1. [Why Python? (`why`)](why/README.md)
-  1. [It is Everywhere](why/README.md#it-is-everywhere)
-  2. [It is Easy!](why/README.md#it-is-easy)
+  1. [It is Easy](why/README.md#it-is-easy)
+  2. [It is Everywhere](why/README.md#it-is-everywhere)
 2. [Short History of Python (`history`)](history/README.md)
   1. [Adopted as Best First Language to Learn](history/README.md#adopted-as-best-first-language-to-learn)
   2. [Whitespace Novelty](history/README.md#whitespace-novelty)
