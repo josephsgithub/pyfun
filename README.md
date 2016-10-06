@@ -32,8 +32,8 @@ recent version of Python.
 
 ## Table of Contents
 1. [Why Python? (`why`)](why/README.md)
-  1. [It is Everywhere](why/README.md#it-is-everywhere)
-  2. [It is Easy](why/README.md#it-is-easy)
+  1. [It is Easy](why/README.md#it-is-easy)
+  2. [It is Everywhere](why/README.md#it-is-everywhere)
 2. [Short History of Python (`history`)](history/README.md)
   1. [Whitespace Novelty](history/README.md#whitespace-novelty)
   2. [Adopted as Best First Language to Learn](history/README.md#adopted-as-best-first-language-to-learn)
@@ -60,14 +60,14 @@ recent version of Python.
 23. [Pokemon API (`pokeapi`)](pokeapi/README.md)
 24. [Story (`story`)](story/README.md)
 25. [Welcome Teachers! (`teachers`)](teachers/README.md)
-  1. [Age](teachers/README.md#age)
-  2. [Resources](teachers/README.md#resources)
-  3. [Contributing](teachers/README.md#contributing)
-  4. [Other](teachers/README.md#other)
-  5. [Rubrics](teachers/README.md#rubrics)
-  6. [Time](teachers/README.md#time)
-  7. [Prerequisites](teachers/README.md#prerequisites)
-  8. [Next](teachers/README.md#next)
+  1. [Prerequisites](teachers/README.md#prerequisites)
+  2. [Age](teachers/README.md#age)
+  3. [Time](teachers/README.md#time)
+  4. [Rubrics](teachers/README.md#rubrics)
+  5. [Resources](teachers/README.md#resources)
+  6. [Other](teachers/README.md#other)
+  7. [Next](teachers/README.md#next)
+  8. [Contributing](teachers/README.md#contributing)
   9. [Copyright](teachers/README.md#copyright)
 
 
