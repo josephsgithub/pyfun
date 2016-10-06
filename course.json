@@ -1,5 +1,5 @@
 {
-  "summary": "**Welcome to Python!** In this course you will learn the fundamentals of programming in Python. Concepts include variables, operators, blocks, logic, loops, data types, lists, dictionaries, functions, exceptions, unit testing, classes, files, json, web api consumption, and basic code organization. This course covers Python 3.5+, the most recent version of Python. ",
+  "title": "Fundamentals in Python",
   "order": [
     "why",
     "history",
@@ -27,10 +27,75 @@
     "story",
     "teachers"
   ],
-  "title": "Fundamentals in Python",
   "parts": {
+    "badgers": {
+      "title": "Badgers, Badgers, Badgers",
+      "parts": []
+    },
+    "battleship": {
+      "title": "Hi There!",
+      "parts": []
+    },
+    "quiz": {
+      "title": "Quiz Game",
+      "parts": []
+    },
+    "bridge": {
+      "title": "Bridge Keeper",
+      "parts": []
+    },
+    "hello": {
+      "title": "Hello World!",
+      "parts": [
+        {
+          "concepts": [
+            "helloworld"
+          ],
+          "title": "History",
+          "short": "history"
+        }
+      ]
+    },
+    "history": {
+      "title": "Short History of Python",
+      "parts": [
+        {
+          "concepts": [],
+          "title": "Whitespace Novelty",
+          "short": "whitespace-novelty"
+        },
+        {
+          "concepts": [],
+          "title": "Adopted as Best First Language to Learn",
+          "short": "adopted-as-best-first-language-to-learn"
+        }
+      ]
+    },
+    "why": {
+      "title": "Why Python?",
+      "parts": [
+        {
+          "concepts": [],
+          "title": "It is Easy",
+          "short": "it-is-easy"
+        },
+        {
+          "concepts": [],
+          "title": "It is Everywhere",
+          "short": "it-is-everywhere"
+        }
+      ]
+    },
+    "lights": {
+      "title": "Holiday Lights",
+      "parts": []
+    },
     "mylights": {
       "title": "My Lights Lib",
+      "parts": []
+    },
+    "roll": {
+      "title": "Dice Roll",
       "parts": []
     },
     "arena": {
@@ -41,24 +106,24 @@
       "title": "Binary Counter",
       "parts": []
     },
-    "roll": {
-      "title": "Dice Roll",
-      "parts": []
-    },
-    "story": {
-      "title": "Story",
-      "parts": []
-    },
     "waffles": {
       "title": "Do You Like Waffles?",
       "parts": []
     },
-    "badgers": {
-      "title": "Badgers, Badgers, Badgers",
+    "gen": {
+      "title": "Character Generator",
       "parts": []
     },
-    "lights": {
-      "title": "Holiday Lights",
+    "mtable": {
+      "title": "Multiplication Tables",
+      "parts": []
+    },
+    "wordbomb": {
+      "title": "Word Bomb",
+      "parts": []
+    },
+    "eightball": {
+      "title": "Magic Eightball",
       "parts": []
     },
     "teachers": {
@@ -115,95 +180,30 @@
       "title": "Arrrgs",
       "parts": []
     },
-    "rps": {
-      "title": "Rock, Paper, Scissors",
-      "parts": []
-    },
-    "quiz": {
-      "title": "Quiz Game",
-      "parts": []
-    },
-    "history": {
-      "title": "Short History of Python",
-      "parts": [
-        {
-          "concepts": [],
-          "title": "Whitespace Novelty",
-          "short": "whitespace-novelty"
-        },
-        {
-          "concepts": [],
-          "title": "Adopted as Best First Language to Learn",
-          "short": "adopted-as-best-first-language-to-learn"
-        }
-      ]
-    },
-    "battleship": {
-      "title": "Hi There!",
-      "parts": []
-    },
-    "why": {
-      "title": "Why Python?",
-      "parts": [
-        {
-          "concepts": [],
-          "title": "It is Easy",
-          "short": "it-is-easy"
-        },
-        {
-          "concepts": [],
-          "title": "It is Everywhere",
-          "short": "it-is-everywhere"
-        }
-      ]
-    },
-    "hello": {
-      "title": "Hello World!",
-      "parts": [
-        {
-          "concepts": [
-            "helloworld"
-          ],
-          "title": "History",
-          "short": "history"
-        }
-      ]
-    },
-    "hi": {
-      "title": "Hi There!",
-      "parts": []
-    },
-    "gen": {
-      "title": "Character Generator",
-      "parts": []
-    },
-    "nyan": {
-      "title": "Nyan, Nyan, STOP!",
-      "parts": []
-    },
     "madforms": {
       "title": "Mad Forms",
       "parts": []
     },
-    "mtable": {
-      "title": "Multiplication Tables",
+    "story": {
+      "title": "Story",
       "parts": []
     },
-    "wordbomb": {
-      "title": "Word Bomb",
-      "parts": []
-    },
-    "bridge": {
-      "title": "Bridge Keeper",
-      "parts": []
-    },
-    "eightball": {
-      "title": "Magic Eightball",
+    "rps": {
+      "title": "Rock, Paper, Scissors",
       "parts": []
     },
     "pokeapi": {
       "title": "Pokemon API",
       "parts": []
+    },
+    "hi": {
+      "title": "Hi There!",
+      "parts": []
+    },
+    "nyan": {
+      "title": "Nyan, Nyan, STOP!",
+      "parts": []
     }
-  }
+  },
+  "summary": "**Welcome to Python!** In this course you will learn the fundamentals of programming in Python. Concepts include variables, operators, blocks, logic, loops, data types, lists, dictionaries, functions, exceptions, unit testing, classes, files, json, web api consumption, and basic code organization. This course covers Python 3.5+, the most recent version of Python. "
 }
