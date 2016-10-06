@@ -6,6 +6,8 @@
 print("Hello world!")
 ```
 
+## History
+
 Hello world is an long-standing tradition in programming. It has been
 written by billions of people soon to include you. As simple as it is,
 it still gets used by professionals as a way to make sure everything
@@ -14,8 +16,6 @@ and you know how to use it. Unlike other lessons we will cover some of
 those things as well as the actually programming part.
 
 > Concepts: helloworld
-
-TODO
  
 ---
 [![home](/assets/home-bw.png)](/README.md)
