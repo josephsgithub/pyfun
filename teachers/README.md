@@ -79,6 +79,15 @@ individual Raspberry Pi computers, personal Linux laptops, virtual
 machines, or a remote virtual host such as [Digital
 Ocean](http://digitalocean.com).
 
+The `lib/.lib` and `bin/.bin` directories contain libraries and
+executables used by the lessons that the students need not understand
+but can explore. Be sure to add these to the PATH as used by students.
+The easiest way is to have them all using the same central, multiuser
+Linux server with shell access and then add them to the system PATH.
+The dotted, hidden directories are so that beginning students will not
+see them with the `ls` or even the `ls -l` commands and be distracted.
+Eventually, in more advanced classes the other version can be used.
+
 ## Other
 
 Fundamentals is just that, fundamentals. Python comprehensions are
