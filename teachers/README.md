@@ -17,7 +17,7 @@
 
 ## Table of Contents
 
-1. [**Prerequisites **](#prerequisites)
+1. [**Prerequisites**](#prerequisites)
 2. [**Age**](#age)
 3. [**Time**](#time)
 4. [**Rubrics**](#rubrics)
@@ -27,7 +27,7 @@
 8. [**Contributing**](#contributing)
 9. [**Copyright**](#copyright)
 
-## [Prerequisites ](#table-of-contents)
+## [Prerequisites](#table-of-contents)
 
 * Complete Prep
 
