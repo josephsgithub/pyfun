@@ -7,7 +7,6 @@ print("Hello world!")
 ```
 
 ## Table of Contents
-
 blah
 
 ## History
