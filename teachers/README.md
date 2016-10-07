@@ -1,4 +1,4 @@
-# [[[[[Welcome Teachers!](./README.md)](./README.md)](./README.md)
+# [Welcome Teachers!](/README.md)
 
 > Whether you are a SkilStak™ senior student who has become a student
 > instructor, a teacher from a public or private school, a university
@@ -12,27 +12,32 @@
 > We believe it is the future of all textbooks in education as the
 > OER movement continues and classrooms become more digital.
 
-1. [Prerequisites](#prerequisites)
-1. [Age](#age)
-1. [Time](#time)
-1. [Rubrics](#rubrics)
-1. [Resources](#resources)
-1. [Other](#other)
-1. [Next](#next)
-1. [Contributing](#contributing)
-1. [Copyright](#copyright)
-
 [classroom]: http://classroom.github.com
 [text-work]: https://blog.skilstak.io/github-as-text-book-and-work-book-828ffada9542#.etr9ts7me
 
-## [Prerequisites
-* Complete [Prep
+## Table of Contents
 
-## [[Age
+1. [**Prerequisites**](#prerequisites)
+2. [**Age**](#age)
+3. [**Time**](#time)
+4. [**Rubrics**](#rubrics)
+5. [**Resources**](#resources)
+6. [**Other**](#other)
+7. [**Next**](#next)
+8. [**Contributing**](#contributing)
+9. [**Copyright**](#copyright)
+
+## [Prerequisites ](#table-of-contents)
+
+* Complete Prep
+
+## [Age](#table-of-contents)
+
 The content is designed with students ages 8 to 18 in mind but has
 been completed by college age students and adults as well.
 
-## [[Time
+## [Time](#table-of-contents)
+
 Students stay in this course until they are
 [*certified*](http://certify.skilstak.io).  Our experience has shown
 the average student can certify after about 100 total hours of time
@@ -59,13 +64,15 @@ on course projects or their own spin offs to maintain what they
 learn through the week to get them as many hours as possible outside
 of class.
 
-## [[Rubrics
+## [Rubrics](#table-of-contents)
+
 There are no rubrics other than instructor review of completed
 course projects. All the solutions are available in the textbook
 so [certification](http://certify.skilstak.io) is the main assessment
 tool.
 
-## [[Resources
+## [Resources](#table-of-contents)
+
 Students need access to a **Bash command-line** on a computer that has
 had **`python3`** installed. Usually this will be through an **`ssh`**
 connection to a Linux account on a central school server but could
@@ -83,21 +90,24 @@ The dotted, hidden directories are so that beginning students will not
 see them with the `ls` or even the `ls -l` commands and be distracted.
 Eventually, in more advanced classes the other version can be used.
 
-## [[Other
+## [Other](#table-of-contents)
+
 Fundamentals is just that, fundamentals. Python comprehensions are
 not a fundamental. Avoid the tendency to lose focus on the advanced
 elements of Python at the expense of the fundamentals. There will
 be plenty of time to explore the rest in
 [Project](http://project.skilstak.io) after they certify.
 
-## [[Next
+## [Next](#table-of-contents)
+
 After [certifying](http://certify.skilstak.io) students move to
 [Project](http://project.skilstak.io) where they are prepared to
 do learning modules from the [Engineering](http://eng.skilstak.io),
 [Linux](http://linux.skilstak.io), [Data Science](http://data.skilstak.io),
 and [Languages](http://lang.skilstak.io) focus categories.
 
-## [Contributing
+## [Contributing](#table-of-contents)
+
 We welcome any contributions or corrections to this material. If
 you find a mistake or suggestion the easiest way is to submit an
 issue on this textbook repo. However, if you would like to make a
@@ -107,8 +117,9 @@ fall under the copyright license below ensuring all contributions
 remain under the original copyright of this material such that they
 can be enjoyed by all without fear or copyright violation.
 
-## [[Copyright
-![oer
+## [Copyright](#table-of-contents)
+
+![oer](/assets/oer.png)
 
 This course is copyright [SkilStak, Inc.][skilstak] and released
 under the Creative Commons Attribution-ShareAlike 4.0 International

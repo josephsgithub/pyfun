@@ -1,4 +1,4 @@
-# [[[[[Hi There!](./README.md)](./README.md)](./README.md)
+# [Hi There!](/README.md)
 
 *Work in progress as we port content into GitHub Classroom*
 

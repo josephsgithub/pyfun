@@ -1,4 +1,4 @@
-# [[[[[Pokemon API](./README.md)](./README.md)](./README.md)
+# [Pokemon API](/README.md)
 
 *Work in progress as we port content into GitHub Classroom*
 

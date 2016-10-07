@@ -1,4 +1,4 @@
-# [[[[[Do You Like Waffles?](./README.md)](./README.md)](./README.md)
+# [Do You Like Waffles?](/README.md)
 
 *Work in progress as we port content into GitHub Classroom*
 

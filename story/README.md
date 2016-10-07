@@ -1,4 +1,4 @@
-# [[[[[Story](./README.md)](./README.md)](./README.md)
+# [Story](/README.md)
 
 *Work in progress as we port content into GitHub Classroom*
 

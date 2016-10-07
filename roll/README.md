@@ -1,4 +1,4 @@
-# [[[[[Dice Roll](./README.md)](./README.md)](./README.md)
+# [Dice Roll](/README.md)
 
 *Work in progress as we port content into GitHub Classroom*
 

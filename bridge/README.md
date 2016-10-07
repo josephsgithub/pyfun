@@ -1,4 +1,4 @@
-# [[[[[Bridge Keeper](./README.md)](./README.md)](./README.md)
+# [Bridge Keeper](/README.md)
 
 *Work in progress as we port content into GitHub Classroom*
 

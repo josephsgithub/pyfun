@@ -1,4 +1,4 @@
-# [[[[[More Python3 Learning Resources](./README.md)](./README.md)](./README.md)
+# [More Python3 Learning Resources](/README.md)
 
 Wanna take your skills beyond the fundamentals? Here are some
 resources to keep you going.

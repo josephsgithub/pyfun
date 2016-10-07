@@ -1,4 +1,4 @@
-# [[[[[Rock, Paper, Scissors](./README.md)](./README.md)](./README.md)
+# [Rock, Paper, Scissors](/README.md)
 
 *Work in progress as we port content into GitHub Classroom*
 

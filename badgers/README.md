@@ -1,4 +1,4 @@
-# [[[[[Badgers, Badgers, Badgers](./README.md)](./README.md)](./README.md)
+# [Badgers, Badgers, Badgers](/README.md)
 
 *Work in progress as we port content into GitHub Classroom*
 

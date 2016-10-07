@@ -1,4 +1,4 @@
-# [[[[[My Lights Lib](./README.md)](./README.md)](./README.md)
+# [My Lights Lib](/README.md)
 
 *Work in progress as we port content into GitHub Classroom*
 

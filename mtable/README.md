@@ -1,4 +1,4 @@
-# [[[[[Multiplication Tables](./README.md)](./README.md)](./README.md)
+# [Multiplication Tables](/README.md)
 
 *Work in progress as we port content into GitHub Classroom*
 

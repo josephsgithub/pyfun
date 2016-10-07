@@ -1,4 +1,4 @@
-# [[[[[Magic Eightball](./README.md)](./README.md)](./README.md)
+# [Magic Eightball](/README.md)
 
 *Work in progress as we port content into GitHub Classroom*
 

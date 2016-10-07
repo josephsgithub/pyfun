@@ -1,4 +1,4 @@
-# [[[[[Mad Forms](./README.md)](./README.md)](./README.md)
+# [Mad Forms](/README.md)
 
 *Work in progress as we port content into GitHub Classroom*
 
