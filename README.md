@@ -42,7 +42,7 @@ recent version of Python.
 3. [**Hello World!** (`hello`)](hello/README.md)
   1. [**Table of Contents**](hello/README.md#table-of-contents)
   2. [**History**](hello/README.md#history)
-    <br>💡 helloworld ◦ another ◦ one
+      <br>💡 helloworld ◦ another ◦ one
 4. [**Hi There!** (`hi`)](hi/README.md)
 5. [**Nyan, Nyan, STOP!** (`nyan`)](nyan/README.md)
 6. [**Do You Like Waffles?** (`waffles`)](waffles/README.md)
