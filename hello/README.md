@@ -1,4 +1,4 @@
-# [Hello World!](./README.md)
+# Hello World!
 
 ```python
 #!/usr/bin/env python3
