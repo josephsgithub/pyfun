@@ -7,7 +7,8 @@ print("Hello world!")
 ```
 
 ## Table of Contents
-blah
+1. [**Table of Contents**](#table-of-contents)
+2. [**History**](#history)
 
 
 ## History
