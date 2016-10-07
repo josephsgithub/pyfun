@@ -8,7 +8,7 @@ This is an entire book available for free online, even as a GitHub
 repo. This is an excellent continuation into topics beyond the
 fundamentals.
 
-## [Warning
+## Warning
 * Do NOT use codeacademy.com to learn Python since it is currently
   only Python 2.
  
