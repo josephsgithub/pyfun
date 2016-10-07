@@ -1,4 +1,6 @@
 {
+  "title": "Fundamentals in Python",
+  "summary": "**Welcome to Python!** In this course you will learn the fundamentals of programming in Python. Concepts include variables, operators, blocks, logic, loops, data types, lists, dictionaries, functions, exceptions, unit testing, classes, files, json, web api consumption, and basic code organization. This course covers Python 3.5+, the most recent version of Python. ",
   "order": [
     "why",
     "history",
@@ -27,85 +29,13 @@
     "more",
     "teachers"
   ],
-  "title": "Fundamentals in Python",
-  "summary": "**Welcome to Python!** In this course you will learn the fundamentals of programming in Python. Concepts include variables, operators, blocks, logic, loops, data types, lists, dictionaries, functions, exceptions, unit testing, classes, files, json, web api consumption, and basic code organization. This course covers Python 3.5+, the most recent version of Python. ",
   "parts": {
-    "roll": {
-      "title": "Dice Roll",
-      "parts": []
-    },
-    "quiz": {
-      "title": "Quiz Game",
-      "parts": []
-    },
-    "arrrgs": {
-      "title": "Arrrgs",
-      "parts": []
-    },
-    "hi": {
-      "title": "Hi There!",
-      "parts": []
-    },
-    "history": {
-      "title": "Short History of Python",
-      "parts": [
-        {
-          "title": "Whitespace Novelty",
-          "concepts": [],
-          "short": "whitespace-novelty"
-        },
-        {
-          "title": "Adopted as Best First Language to Learn",
-          "concepts": [],
-          "short": "adopted-as-best-first-language-to-learn"
-        }
-      ]
-    },
-    "badgers": {
-      "title": "Badgers, Badgers, Badgers",
-      "parts": []
-    },
-    "more": {
-      "title": "More Python3 Learning Resources",
-      "parts": [
-        {
-          "title": "Dive Into Python 3",
-          "concepts": [],
-          "short": "dive-into-python-3"
-        },
-        {
-          "title": "Warning",
-          "concepts": [],
-          "short": "warning"
-        }
-      ]
-    },
-    "mtable": {
-      "title": "Multiplication Tables",
-      "parts": []
-    },
-    "gen": {
-      "title": "Character Generator",
-      "parts": []
-    },
-    "nyan": {
-      "title": "Nyan, Nyan, STOP!",
+    "lights": {
+      "title": "Holiday Lights",
       "parts": []
     },
     "bridge": {
       "title": "Bridge Keeper",
-      "parts": []
-    },
-    "eightball": {
-      "title": "Magic Eightball",
-      "parts": []
-    },
-    "arena": {
-      "title": "Arena",
-      "parts": []
-    },
-    "waffles": {
-      "title": "Do You Like Waffles?",
       "parts": []
     },
     "hello": {
@@ -127,55 +57,35 @@
         }
       ]
     },
-    "madforms": {
-      "title": "Mad Forms",
+    "nyan": {
+      "title": "Nyan, Nyan, STOP!",
       "parts": []
     },
-    "story": {
-      "title": "Story",
-      "parts": []
-    },
-    "mylights": {
-      "title": "My Lights Lib",
-      "parts": []
-    },
-    "battleship": {
-      "title": "Hi There!",
-      "parts": []
-    },
-    "why": {
-      "title": "Why Python?",
+    "more": {
+      "title": "More Python3 Learning Resources",
       "parts": [
         {
-          "title": "It is Easy",
+          "title": "Dive Into Python 3",
           "concepts": [],
-          "short": "it-is-easy"
+          "short": "dive-into-python-3"
         },
         {
-          "title": "It is Everywhere",
+          "title": "Warning",
           "concepts": [],
-          "short": "it-is-everywhere"
+          "short": "warning"
         }
       ]
     },
-    "lights": {
-      "title": "Holiday Lights",
-      "parts": []
-    },
-    "pokeapi": {
-      "title": "Pokemon API",
-      "parts": []
-    },
-    "bincount": {
-      "title": "Binary Counter",
-      "parts": []
-    },
-    "rps": {
-      "title": "Rock, Paper, Scissors",
+    "waffles": {
+      "title": "Do You Like Waffles?",
       "parts": []
     },
     "wordbomb": {
       "title": "Word Bomb",
+      "parts": []
+    },
+    "arrrgs": {
+      "title": "Arrrgs",
       "parts": []
     },
     "teachers": {
@@ -227,6 +137,96 @@
           "short": "copyright"
         }
       ]
+    },
+    "hi": {
+      "title": "Hi There!",
+      "parts": []
+    },
+    "story": {
+      "title": "Story",
+      "parts": []
+    },
+    "mtable": {
+      "title": "Multiplication Tables",
+      "parts": []
+    },
+    "why": {
+      "title": "Why Python?",
+      "parts": [
+        {
+          "title": "It is Easy",
+          "concepts": [],
+          "short": "it-is-easy"
+        },
+        {
+          "title": "It is Everywhere",
+          "concepts": [],
+          "short": "it-is-everywhere"
+        }
+      ]
+    },
+    "mylights": {
+      "title": "My Lights Lib",
+      "parts": []
+    },
+    "quiz": {
+      "title": "Quiz Game",
+      "parts": []
+    },
+    "roll": {
+      "title": "Dice Roll",
+      "parts": []
+    },
+    "bincount": {
+      "title": "Binary Counter",
+      "parts": []
+    },
+    "madforms": {
+      "title": "Mad Forms",
+      "parts": []
+    },
+    "gen": {
+      "title": "Character Generator",
+      "parts": []
+    },
+    "pokeapi": {
+      "title": "Pokemon API",
+      "parts": []
+    },
+    "arena": {
+      "title": "Arena",
+      "parts": []
+    },
+    "history": {
+      "title": "Short History of Python",
+      "parts": [
+        {
+          "title": "Whitespace Novelty",
+          "concepts": [],
+          "short": "whitespace-novelty"
+        },
+        {
+          "title": "Adopted as Best First Language to Learn",
+          "concepts": [],
+          "short": "adopted-as-best-first-language-to-learn"
+        }
+      ]
+    },
+    "badgers": {
+      "title": "Badgers, Badgers, Badgers",
+      "parts": []
+    },
+    "battleship": {
+      "title": "Hi There!",
+      "parts": []
+    },
+    "eightball": {
+      "title": "Magic Eightball",
+      "parts": []
+    },
+    "rps": {
+      "title": "Rock, Paper, Scissors",
+      "parts": []
     }
   }
 }
