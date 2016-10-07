@@ -38,7 +38,8 @@ recent version of Python.
   1. [**Whitespace Novelty**](history/README.md#whitespace-novelty)
   2. [**Adopted as Best First Language to Learn**](history/README.md#adopted-as-best-first-language-to-learn)
 3. [**Hello World!** (`hello`)](hello/README.md)
-  1. [**History**](hello/README.md#history)
+  1. [**Table of Contents**](hello/README.md#table-of-contents)
+  2. [**History**](hello/README.md#history)
 <br>💡 helloworld ◦ another ◦ one
 4. [**Hi There!** (`hi`)](hi/README.md)
 5. [**Nyan, Nyan, STOP!** (`nyan`)](nyan/README.md)
