@@ -23,6 +23,7 @@ classroom textbook][text-work].***
 >  read [*Welcome Teachers!*](teachers/README.md)
 
 ## Summary
+
 **Welcome to Python!** In this course you will learn the fundamentals
 of programming in Python. Concepts include variables, operators,
 blocks, logic, loops, data types, lists, dictionaries, functions,
@@ -31,6 +32,7 @@ and basic code organization. This course covers Python 3.5+, the most
 recent version of Python.
 
 ## Table of Contents
+
 1. [**Why Python?** (`why`)](why/README.md)
   1. [**It is Easy**](why/README.md#it-is-easy)
   2. [**It is Everywhere**](why/README.md#it-is-everywhere)
@@ -75,7 +77,6 @@ recent version of Python.
   7. [**Next**](teachers/README.md#next)
   8. [**Contributing**](teachers/README.md#contributing)
   9. [**Copyright**](teachers/README.md#copyright)
-
 
 ---
 [![home](/assets/home-bw.png)](/README.md)
