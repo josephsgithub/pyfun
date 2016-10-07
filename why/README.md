@@ -20,6 +20,40 @@ Well not *everywhere*. But anywhere there is a server there is
 generally Python. One place it is not is in the web browser. Those
 sites that have Python on the web are either using an interpreter
 written in 
+
+## It is Powerful
+
+Python might not enjoy the raw execution speed of C or Go but the
+reason it is a favorite among data analysts, physicists, and other
+scientists is the ease with which core parts of the language,
+modules, can be written in C++ or C and used just like any other
+module. This allows bottlenecks created in prototype code (remember
+the mantra *premature optimization is the root of all evil*) to be
+addressed later allowing developers to create and design unfettered
+from performance fears.
+
+## It is Versatile
+
+Although Python won out over Perl for its one-best-way approach
+over Perl's more-than-one-way-to-do-it artistic approach there is
+still a lot of flexibility in the language. 
+
+One of the most interesting areas is traditional object-oriented
+programming and function programming. The two are alive and well in
+the same language. This allows either design approach. 
+
+## It is Mature
+
+Python has been around since the 90s and only gotten better. Unlike
+other languages Python survived a full port from 2 to 3 with a lot of
+“breaking changes.” It has taken literally years for people to adopt
+3 and port important libraries to it but for the most part this is now
+complete. The amount of existing libraries to about anything you can
+imagine is astounding.
+
+This level of maturity is somewhat rare in the tech world
+and the value can’t be overstated. Python is hear to stay for a long
+time to come.
  
 ---
 [![home](/assets/home-bw.png)](/README.md)
