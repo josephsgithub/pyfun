@@ -6,6 +6,10 @@
 print("Hello world!")
 ```
 
+## Table of Contents
+
+blah
+
 ## History
 
 Hello world is an long-standing tradition in programming. It has been

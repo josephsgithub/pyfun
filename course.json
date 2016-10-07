@@ -1,104 +1,27 @@
 {
-  "title": "Fundamentals in Python",
-  "summary": "**Welcome to Python!** In this course you will learn the fundamentals of programming in Python. Concepts include variables, operators, blocks, logic, loops, data types, lists, dictionaries, functions, exceptions, unit testing, classes, files, json, web api consumption, and basic code organization. This course covers Python 3.5+, the most recent version of Python. ",
-  "order": [
-    "why",
-    "history",
-    "hello",
-    "hi",
-    "nyan",
-    "waffles",
-    "badgers",
-    "eightball",
-    "bridge",
-    "rps",
-    "arrrgs",
-    "roll",
-    "mtable",
-    "madforms",
-    "bincount",
-    "gen",
-    "quiz",
-    "lights",
-    "mylights",
-    "wordbomb",
-    "arena",
-    "battleship",
-    "pokeapi",
-    "story",
-    "more",
-    "teachers"
-  ],
   "parts": {
-    "nyan": {
-      "title": "Nyan, Nyan, STOP!",
-      "parts": []
-    },
-    "arena": {
-      "title": "Arena",
-      "parts": []
-    },
-    "wordbomb": {
-      "title": "Word Bomb",
-      "parts": []
-    },
-    "mtable": {
-      "title": "Multiplication Tables",
-      "parts": []
-    },
-    "eightball": {
-      "title": "Magic Eightball",
-      "parts": []
-    },
-    "arrrgs": {
-      "title": "Arrrgs",
-      "parts": []
-    },
-    "bridge": {
-      "title": "Bridge Keeper",
-      "parts": []
-    },
-    "hello": {
-      "title": "Hello World!",
-      "parts": [
-        {
-          "title": "History",
-          "short": "history",
-          "concepts": [
-            "helloworld",
-            "another",
-            "one"
-          ]
-        }
-      ]
-    },
-    "badgers": {
-      "title": "Badgers, Badgers, Badgers",
-      "parts": []
-    },
-    "quiz": {
-      "title": "Quiz Game",
-      "parts": []
-    },
-    "hi": {
-      "title": "Hi There!",
-      "parts": []
-    },
-    "gen": {
-      "title": "Character Generator",
-      "parts": []
-    },
-    "madforms": {
-      "title": "Mad Forms",
-      "parts": []
-    },
     "mylights": {
       "title": "My Lights Lib",
       "parts": []
     },
-    "story": {
-      "title": "Story",
+    "lights": {
+      "title": "Holiday Lights",
       "parts": []
+    },
+    "more": {
+      "title": "More Python3 Learning Resources",
+      "parts": [
+        {
+          "title": "Dive Into Python 3",
+          "short": "dive-into-python-3",
+          "concepts": []
+        },
+        {
+          "title": "Warning",
+          "short": "warning",
+          "concepts": []
+        }
+      ]
     },
     "why": {
       "title": "Why Python?",
@@ -115,9 +38,19 @@
         }
       ]
     },
-    "pokeapi": {
-      "title": "Pokemon API",
-      "parts": []
+    "hello": {
+      "title": "Hello World!",
+      "parts": [
+        {
+          "title": "History",
+          "short": "history",
+          "concepts": [
+            "helloworld",
+            "another",
+            "one"
+          ]
+        }
+      ]
     },
     "history": {
       "title": "Short History of Python",
@@ -133,6 +66,70 @@
           "concepts": []
         }
       ]
+    },
+    "madforms": {
+      "title": "Mad Forms",
+      "parts": []
+    },
+    "rps": {
+      "title": "Rock, Paper, Scissors",
+      "parts": []
+    },
+    "roll": {
+      "title": "Dice Roll",
+      "parts": []
+    },
+    "bincount": {
+      "title": "Binary Counter",
+      "parts": []
+    },
+    "hi": {
+      "title": "Hi There!",
+      "parts": []
+    },
+    "nyan": {
+      "title": "Nyan, Nyan, STOP!",
+      "parts": []
+    },
+    "quiz": {
+      "title": "Quiz Game",
+      "parts": []
+    },
+    "gen": {
+      "title": "Character Generator",
+      "parts": []
+    },
+    "bridge": {
+      "title": "Bridge Keeper",
+      "parts": []
+    },
+    "mtable": {
+      "title": "Multiplication Tables",
+      "parts": []
+    },
+    "arena": {
+      "title": "Arena",
+      "parts": []
+    },
+    "badgers": {
+      "title": "Badgers, Badgers, Badgers",
+      "parts": []
+    },
+    "wordbomb": {
+      "title": "Word Bomb",
+      "parts": []
+    },
+    "eightball": {
+      "title": "Magic Eightball",
+      "parts": []
+    },
+    "story": {
+      "title": "Story",
+      "parts": []
+    },
+    "battleship": {
+      "title": "Hi There!",
+      "parts": []
     },
     "teachers": {
       "title": "Welcome Teachers!",
@@ -184,44 +181,47 @@
         }
       ]
     },
-    "more": {
-      "title": "More Python3 Learning Resources",
-      "parts": [
-        {
-          "title": "Dive Into Python 3",
-          "short": "dive-into-python-3",
-          "concepts": []
-        },
-        {
-          "title": "Warning",
-          "short": "warning",
-          "concepts": []
-        }
-      ]
-    },
-    "roll": {
-      "title": "Dice Roll",
-      "parts": []
-    },
     "waffles": {
       "title": "Do You Like Waffles?",
       "parts": []
     },
-    "battleship": {
-      "title": "Hi There!",
+    "pokeapi": {
+      "title": "Pokemon API",
       "parts": []
     },
-    "lights": {
-      "title": "Holiday Lights",
-      "parts": []
-    },
-    "bincount": {
-      "title": "Binary Counter",
-      "parts": []
-    },
-    "rps": {
-      "title": "Rock, Paper, Scissors",
+    "arrrgs": {
+      "title": "Arrrgs",
       "parts": []
     }
-  }
+  },
+  "title": "Fundamentals in Python",
+  "summary": "**Welcome to Python!** In this course you will learn the fundamentals of programming in Python. Concepts include variables, operators, blocks, logic, loops, data types, lists, dictionaries, functions, exceptions, unit testing, classes, files, json, web api consumption, and basic code organization. This course covers Python 3.5+, the most recent version of Python. ",
+  "order": [
+    "why",
+    "history",
+    "hello",
+    "hi",
+    "nyan",
+    "waffles",
+    "badgers",
+    "eightball",
+    "bridge",
+    "rps",
+    "arrrgs",
+    "roll",
+    "mtable",
+    "madforms",
+    "bincount",
+    "gen",
+    "quiz",
+    "lights",
+    "mylights",
+    "wordbomb",
+    "arena",
+    "battleship",
+    "pokeapi",
+    "story",
+    "more",
+    "teachers"
+  ]
 }
