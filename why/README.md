@@ -1,4 +1,4 @@
-# Why Python?
+# [[[[[Why Python?](./README.md)](./README.md)](./README.md)
 
 ![bloomberg](/assets/bloomberg.png)
 
@@ -7,14 +7,14 @@ server-side engineering. It is great for writing systems that test
 other systems. It is also one of the top languages used in data
 sciences.
 
-## It is Easy
+## [[[It is Easy](#table-of-contents)](#table-of-contents)](#table-of-contents)
 
 Python is hands down the simplest language to learn of all the modern
 main stream languages. This is why it is the first language students
 at MIT learn and many other schools. The code looks a lot like how you
 would write it out in simple English.
 
-## It is Everywhere
+## [[[It is Everywhere](#table-of-contents)](#table-of-contents)](#table-of-contents)
 
 Well not *everywhere*. But anywhere there is a server there is
 generally Python. One place it is not is in the web browser. Those

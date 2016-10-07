@@ -37,7 +37,7 @@ recent version of Python.
   1. [**It is Easy**](why/README.md#it-is-easy)
   2. [**It is Everywhere**](why/README.md#it-is-everywhere)
 2. [**Short History of Python** (`history`)](history/README.md)
-  1. [**Whitespace Novelty**](history/README.md#whitespace-novelty)
+  1. [**Whitespace Novelty **](history/README.md#whitespace-novelty)
   2. [**Adopted as Best First Language to Learn**](history/README.md#adopted-as-best-first-language-to-learn)
 3. [**Hello World!** (`hello`)](hello/README.md)
   1. [**History**](hello/README.md#history)

@@ -1,4 +1,4 @@
-# Binary Counter
+# [[[[[Binary Counter](./README.md)](./README.md)](./README.md)
 
 *Work in progress as we port content into GitHub Classroom*
 

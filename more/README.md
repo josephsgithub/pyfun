@@ -1,15 +1,15 @@
-# More Python3 Learning Resources
+# [[[[[More Python3 Learning Resources](./README.md)](./README.md)](./README.md)
 
 Wanna take your skills beyond the fundamentals? Here are some
 resources to keep you going.
 
-## [Dive Into Python 3](http://www.diveintopython3.net)
+## [[[[Dive Into Python 3](http://www.diveintopython3.net)](#table-of-contents)](#table-of-contents)](#table-of-contents)
 
 This is an entire book available for free online, even as a GitHub
 repo. This is an excellent continuation into topics beyond the
 fundamentals.
 
-## Warning
+## [[[Warning](#table-of-contents)](#table-of-contents)](#table-of-contents)
 
 * Do NOT use codeacademy.com to learn Python since it is currently
   only Python 2.

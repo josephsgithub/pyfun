@@ -1,4 +1,4 @@
-# Short History of Python
+# [[[[[Short History of Python](./README.md)](./README.md)](./README.md)
 
 This summary of Python history is by no means complete, just an
 overview.
@@ -17,14 +17,14 @@ shell programming language, however, with a much better syntax for
 shell one-liners much like the `sed` and `awk` equivalents `perl` was
 originally designed to replace.
 
-## Whitespace Novelty 
+## [[[Whitespace Novelty ](#table-of-contents)](#table-of-contents)](#table-of-contents)
 
 Python was really the first language to use whitespace as a part
 of the language.  This was really jarring and unheard of at the
 time. Today whitespace is commonly accepted as a part of syntax by
 many other languages.
 
-## Adopted as Best First Language to Learn
+## [[[Adopted as Best First Language to Learn](#table-of-contents)](#table-of-contents)](#table-of-contents)
 
 Around 2010 MIT decided to make Python the first language to learn.
 Previously it had been Java. They are not the only ones. Many

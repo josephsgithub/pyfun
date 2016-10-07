@@ -1,4 +1,4 @@
-# Welcome Teachers!
+# [[[[[Welcome Teachers!](./README.md)](./README.md)](./README.md)
 
 > Whether you are a SkilStak™ senior student who has become a student
 > instructor, a teacher from a public or private school, a university
@@ -25,16 +25,16 @@
 [classroom]: http://classroom.github.com
 [text-work]: https://blog.skilstak.io/github-as-text-book-and-work-book-828ffada9542#.etr9ts7me
 
-## Prerequisites
+## [[[Prerequisites](#table-of-contents)](#table-of-contents)](#table-of-contents)
 
 * Complete [Prep](http://prep.skilstak.io)
 
-## Age
+## [[[Age](#table-of-contents)](#table-of-contents)](#table-of-contents)
 
 The content is designed with students ages 8 to 18 in mind but has
 been completed by college age students and adults as well.
 
-## Time
+## [[[Time](#table-of-contents)](#table-of-contents)](#table-of-contents)
 
 Students stay in this course until they are
 [*certified*](http://certify.skilstak.io).  Our experience has shown
@@ -62,14 +62,14 @@ on course projects or their own spin offs to maintain what they
 learn through the week to get them as many hours as possible outside
 of class.
 
-## Rubrics
+## [[[Rubrics](#table-of-contents)](#table-of-contents)](#table-of-contents)
 
 There are no rubrics other than instructor review of completed
 course projects. All the solutions are available in the textbook
 so [certification](http://certify.skilstak.io) is the main assessment
 tool.
 
-## Resources
+## [[[Resources](#table-of-contents)](#table-of-contents)](#table-of-contents)
 
 Students need access to a **Bash command-line** on a computer that has
 had **`python3`** installed. Usually this will be through an **`ssh`**
@@ -88,7 +88,7 @@ The dotted, hidden directories are so that beginning students will not
 see them with the `ls` or even the `ls -l` commands and be distracted.
 Eventually, in more advanced classes the other version can be used.
 
-## Other
+## [[[Other](#table-of-contents)](#table-of-contents)](#table-of-contents)
 
 Fundamentals is just that, fundamentals. Python comprehensions are
 not a fundamental. Avoid the tendency to lose focus on the advanced
@@ -96,7 +96,7 @@ elements of Python at the expense of the fundamentals. There will
 be plenty of time to explore the rest in
 [Project](http://project.skilstak.io) after they certify.
 
-## Next
+## [[[Next](#table-of-contents)](#table-of-contents)](#table-of-contents)
 
 After [certifying](http://certify.skilstak.io) students move to
 [Project](http://project.skilstak.io) where they are prepared to
@@ -104,7 +104,7 @@ do learning modules from the [Engineering](http://eng.skilstak.io),
 [Linux](http://linux.skilstak.io), [Data Science](http://data.skilstak.io),
 and [Languages](http://lang.skilstak.io) focus categories.
 
-## Contributing
+## [[[Contributing](#table-of-contents)](#table-of-contents)](#table-of-contents)
 
 We welcome any contributions or corrections to this material. If
 you find a mistake or suggestion the easiest way is to submit an
@@ -115,7 +115,7 @@ fall under the copyright license below ensuring all contributions
 remain under the original copyright of this material such that they
 can be enjoyed by all without fear or copyright violation.
 
-## Copyright
+## [[[Copyright](#table-of-contents)](#table-of-contents)](#table-of-contents)
 
 ![oer](/assets/oer.png)
 

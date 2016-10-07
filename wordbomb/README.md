@@ -1,4 +1,4 @@
-# Word Bomb
+# [[[[[Word Bomb](./README.md)](./README.md)](./README.md)
 
 *Work in progress as we port content into GitHub Classroom*
 
