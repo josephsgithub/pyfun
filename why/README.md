@@ -7,21 +7,21 @@ server-side engineering. It is great for writing systems that test
 other systems. It is also one of the top languages used in data
 sciences.
 
-## It is Easy
+## Easy
 
 Python is hands down the simplest language to learn of all the modern
 main stream languages. This is why it is the first language students
 at MIT learn and many other schools. The code looks a lot like how you
 would write it out in simple English.
 
-## It is Everywhere
+## Everywhere
 
 Well not *everywhere*. But anywhere there is a server there is
 generally Python. One place it is not is in the web browser. Those
 sites that have Python on the web are either using an interpreter
 written in 
 
-## It is Powerful
+## Powerful
 
 Python might not enjoy the raw execution speed of C or Go but the
 reason it is a favorite among data analysts, physicists, and other
@@ -32,7 +32,7 @@ the mantra *premature optimization is the root of all evil*) to be
 addressed later allowing developers to create and design unfettered
 from performance fears.
 
-## It is Versatile
+## Versatile
 
 Although Python won out over Perl for its one-best-way approach
 over Perl's more-than-one-way-to-do-it artistic approach there is
@@ -42,7 +42,7 @@ One of the most interesting areas is traditional object-oriented
 programming and function programming. The two are alive and well in
 the same language. This allows either design approach. 
 
-## It is Mature
+## Mature
 
 Python has been around since the 90s and only gotten better. Unlike
 other languages Python survived a full port from 2 to 3 with a lot of

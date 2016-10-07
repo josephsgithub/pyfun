@@ -34,11 +34,11 @@ recent version of Python.
 ## Table of Contents
 
 1. [**Why Python?** (`why`)](why/README.md)
-  1. [**It is Easy**](why/README.md#it-is-easy)
-  2. [**It is Everywhere**](why/README.md#it-is-everywhere)
-  3. [**It is Powerful**](why/README.md#it-is-powerful)
-  4. [**It is Versatile**](why/README.md#it-is-versatile)
-  5. [**It is Mature**](why/README.md#it-is-mature)
+  1. [**Easy**](why/README.md#easy)
+  2. [**Everywhere**](why/README.md#everywhere)
+  3. [**Powerful**](why/README.md#powerful)
+  4. [**Versatile**](why/README.md#versatile)
+  5. [**Mature**](why/README.md#mature)
 2. [**When Not to Pick Python** (`not`)](not/README.md)
   1. [**Concurrency**](not/README.md#concurrency)
   2. [**Not a Web Language**](not/README.md#not-a-web-language)
