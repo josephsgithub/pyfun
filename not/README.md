@@ -8,7 +8,7 @@ Python but let's talk about the square pegs for a bit.
 
 Python shows its age a bit on this front. While there are a lot of add
 ons good concurrency is not fundamentally built into the language.
-’Dems fightin’ words to a log of Python supports but it is simply
+’Dems fightin’ words to a lot of Python supports but it is simply
 true. JavaScript gets around this in its own asynchronous way, which
 can be added onto Python as well. Go has perhaps one of the best
 concurrency models that is abstracted from the underlying operating
