@@ -14,6 +14,15 @@ main stream languages. This is why it is the first language students
 at MIT learn and many other schools. The code looks a lot like how you
 would write it out in simple English.
 
+This ease makes Python extremely fast to program in, much faster
+than most other languages. This makes Python the easy pick when
+prototyping server-side applications and doing systems testing. The
+[utility to generate this GitHub course text book][ghc] is a good
+example, a little sloppy but coded in a matter of hours where other
+languages would take longer.
+
+[ghc]: https://github.com/skilstak/ghc/blob/master/lib/ghc.py
+
 ## Everywhere
 
 Well not *everywhere*. But anywhere there is a server there is
