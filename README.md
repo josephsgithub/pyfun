@@ -50,12 +50,12 @@ recent version of Python.
   2. [**Whitespace Novelty**](history/README.md#whitespace-novelty)
   3. [**Best First Language to Learn**](history/README.md#best-first-language-to-learn)
 4. [**Hello World** (`hello`)](hello/README.md)
-  1. [**⏫ History**](hello/README.md#-history)
-  2. [**⏫ Touch and Chmod**](hello/README.md#-touch-and-chmod)
+  1. [**History**](hello/README.md#history)
+  2. [**Touch and Chmod**](hello/README.md#touch-and-chmod)
       <br>💡 `touch` ◦ `chmod +x` ◦ Shell ◦ Bash ◦ Command Line ◦ Permissions ◦ Executable ◦ Runnable ◦ File ◦ Script
-  3. [**⏫ Printing Text to the Screen**](hello/README.md#-printing-text-to-the-screen)
+  3. [**Printing Text to the Screen**](hello/README.md#printing-text-to-the-screen)
       <br>💡 `print()` ◦ Strings ◦ Quotes ◦ `vim` ◦ `vi` ◦ Code Birthday
-  4. [**⏫ Shuh to the Bang**](hello/README.md#-shuh-to-the-bang)
+  4. [**Shuh to the Bang**](hello/README.md#shuh-to-the-bang)
 5. [**Hi There!** (`hi`)](hi/README.md)
 6. [**Nyan, Nyan, STOP!** (`nyan`)](nyan/README.md)
 7. [**Do You Like Waffles?** (`waffles`)](waffles/README.md)
