@@ -13,12 +13,16 @@ the rest of the world would eventually agree. For that time Python
 was the new kid on the block.  Where Perl took the creative
 there-is-more-than-one-way-to-do-it approach Python took the
 enterprise-friendly, there-is-one-best-way-to-do-it approach. The
-rivalry was fierce but in the end most would agree Python won. Perl
-is still a fantastic *shell* programming language–particularly for
-one-liners much like the `sed` and `awk` equivalents `perl` was
-originally designed to replace, but Python has garnered the trust
-enterprises that have even replaced the much more formal Java with
-Python.
+rivalry was fierce but in the end most would agree Python won.
+Google loved Python so much they hired Guido for a time. (Some even
+say Go lang, another language from Google, was created as a sort
+of compiled Python.)
+
+> Perl is still a fantastic *shell* programming language–particularly
+> for one-liners much like the `sed` and `awk` equivalents `perl` was
+> originally designed to replace, but Python has garnered the trust
+> enterprises that have even replaced the much more formal Java with
+> Python.
 
 ## Whitespace Novelty
 
