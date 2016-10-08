@@ -42,6 +42,7 @@ recent version of Python.
 2. [**When Not to Pick Python** (`not`)](not/README.md)
   1. [**Concurrency**](not/README.md#concurrency)
   2. [**Not a Web Language**](not/README.md#not-a-web-language)
+  3. [**Slow**](not/README.md#slow)
 3. [**Short History of Python** (`history`)](history/README.md)
   1. [**Whitespace Novelty**](history/README.md#whitespace-novelty)
   2. [**Adopted as Best First Language to Learn**](history/README.md#adopted-as-best-first-language-to-learn)
