@@ -22,6 +22,8 @@ suggesting corrections.
 Teachers and parents are encouraged to
 read [*Welcome Teachers!*](teachers/README.md)
 
+![](/assets/python.png)
+
 ## Summary
 
 **Welcome to Python!** In this course you will learn the fundamentals
