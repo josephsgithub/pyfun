@@ -1,5 +1,5 @@
 # [Fundamentals in Python][work]
-[work]: https://github.com/skilstak/pyfun-work/blob/gh-pages/README.md
+[work]: https://github.com/skilstak/pyfun-work/blob/master/README.md
 
 ***Currently a work in progress as we port our content to this [GitHub
 classroom textbook][text-work].***
