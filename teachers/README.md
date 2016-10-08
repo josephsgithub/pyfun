@@ -1,4 +1,4 @@
-# [Welcome Teachers!](/README.md)
+# [🍎 Welcome Teachers!](/README.md)
 
 > Whether you are a SkilStak™ senior student who has become a student
 > instructor, a teacher from a public or private school, a university

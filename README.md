@@ -78,7 +78,7 @@ recent version of Python.
 26. [**More Python3 Learning Resources** (`more`)](more/README.md)
   1. [**Dive Into Python 3**](more/README.md#dive-into-python-3)
   2. [**Warning**](more/README.md#warning)
-27. [**Welcome Teachers!** (`teachers`)](teachers/README.md)
+27. [**🍎 Welcome Teachers!** (`teachers`)](teachers/README.md)
   1. [**Prerequisites**](teachers/README.md#prerequisites)
   2. [**Age**](teachers/README.md#age)
   3. [**Time**](teachers/README.md#time)
