@@ -30,16 +30,16 @@ OER movement continues and classrooms become more digital.
 9. [**Contributing**](#contributing)
 10. [**Copyright**](#copyright)
 
-## [Prerequisites](#table-of-contents)
+## [⏫ Prerequisites](#table-of-contents)
 
 * Complete Prep
 
-## [Age](#table-of-contents)
+## [⏫ Age](#table-of-contents)
 
 The content is designed with students ages 8 to 18 in mind but has
 been completed by college age students and adults as well.
 
-## [Time](#table-of-contents)
+## [⏫ Time](#table-of-contents)
 
 Students stay in this course until they are
 [*certified*](http://certify.skilstak.io).  Our experience has shown
@@ -67,14 +67,14 @@ on course projects or their own spin offs to maintain what they
 learn through the week to get them as many hours as possible outside
 of class.
 
-## [Rubrics](#table-of-contents)
+## [⏫ Rubrics](#table-of-contents)
 
 There are no rubrics other than instructor review of completed
 course projects. All the solutions are available in the textbook
 so [certification](http://certify.skilstak.io) is the main assessment
 tool.
 
-## [Resources](#table-of-contents)
+## [⏫ Resources](#table-of-contents)
 
 Students need access to a **Bash command-line** on a computer that has
 had **`python3`** installed. Usually this will be through an **`ssh`**
@@ -93,7 +93,7 @@ The dotted, hidden directories are so that beginning students will not
 see them with the `ls` or even the `ls -l` commands and be distracted.
 Eventually, in more advanced classes the other version can be used.
 
-## [Encrypted Solutions](#table-of-contents)
+## [⏫ Encrypted Solutions](#table-of-contents)
 
 Fully coded solutions to each exercise have been included as [GnuPG][]
 encrypted files. These solutions can–and should–be created by
@@ -107,7 +107,7 @@ requires them to actually cheat if they want to get around actually
 
 [GnuPG]: https://www.gnupg.org/
 
-### [Requesting Course Keys](#table-of-contents)
+### [⏫ Requesting Course Keys](#table-of-contents)
 
 If you are an instructor or parent you can request the current
 passphrase by emailing [learn@skilstak.com](mailto:learn@skilstak.com)
@@ -128,7 +128,7 @@ a `hello` file that can be `chmod +x`-ed, edited, and executed.
 > the unencrypted solutions. It is more of a practical matter than
 > a legal one.**
 
-### [Alternatives](#table-of-contents)
+### [⏫ Alternatives](#table-of-contents)
 
 Of course as the instructor you can complete the assignments yourself
 to produce your own solutions. This is actually optimal because it
@@ -137,7 +137,7 @@ help us improve it by opening an issue. However, we do understand not
 all instructors and parents have this possibility and have therefore
 made the encrypted solutions available.
 
-## [Other](#table-of-contents)
+## [⏫ Other](#table-of-contents)
 
 Fundamentals is just that, fundamentals. Python comprehensions are
 not a fundamental. Avoid the tendency to lose focus on the advanced
@@ -145,7 +145,7 @@ elements of Python at the expense of the fundamentals. There will
 be plenty of time to explore the rest in
 [Project](http://project.skilstak.io) after they certify.
 
-## [Next](#table-of-contents)
+## [⏫ Next](#table-of-contents)
 
 After [certifying](http://certify.skilstak.io) students move to
 [Project](http://project.skilstak.io) where they are prepared to
@@ -153,7 +153,7 @@ do learning modules from the [Engineering](http://eng.skilstak.io),
 [Linux](http://linux.skilstak.io), [Data Science](http://data.skilstak.io),
 and [Languages](http://lang.skilstak.io) focus categories.
 
-## [Contributing](#table-of-contents)
+## [⏫ Contributing](#table-of-contents)
 
 We welcome any contributions or corrections to this material. If
 you find a mistake or suggestion the easiest way is to submit an
@@ -164,7 +164,7 @@ fall under the copyright license below ensuring all contributions
 remain under the original copyright of this material such that they
 can be enjoyed by all without fear or copyright violation.
 
-## [Copyright](#table-of-contents)
+## [⏫ Copyright](#table-of-contents)
 
 ![oer](/assets/oer.png)
 
