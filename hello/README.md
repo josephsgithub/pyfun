@@ -21,7 +21,7 @@ say_colorful_hello()
 1. [**History**](#history)
 2. [**Touch and Chmod**](#touch-and-chmod)
  1. [**Why not just start editing the file?**](#why-not-just-start-editing-the-file)
-3. [**Printing Text to the Screen**](#printing-text-to-the-screen)
+3. [**Printing Text to the Screen **](#printing-text-to-the-screen)
 4. [**Shuh to the Bang**](#shuh-to-the-bang)
 
 ## [History](#table-of-contents)
@@ -37,6 +37,8 @@ those things as well as the actually programming part.
 
 > Concepts: `touch`, `chmod +x`, Shell, Bash, Command Line,
 > Permissions, Executable, Runnable, File, Script
+
+![](/assets/hello-touch-chmod.gif)
 
 Sounds like a band name. As cool as they are these two commands are
 they would have trouble getting gigs, too nerdy. But they are

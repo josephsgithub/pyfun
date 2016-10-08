@@ -51,7 +51,7 @@ recent version of Python.
   1. [**History**](hello/README.md#history)
   2. [**Touch and Chmod**](hello/README.md#touch-and-chmod)
       <br>💡 `touch` ◦ `chmod +x` ◦ Shell ◦ Bash ◦ Command Line ◦ Permissions ◦ Executable ◦ Runnable ◦ File ◦ Script
-  3. [**Printing Text to the Screen**](hello/README.md#printing-text-to-the-screen)
+  3. [**Printing Text to the Screen **](hello/README.md#printing-text-to-the-screen)
       <br>💡 `print()` ◦ Strings ◦ Quotes ◦ `vim` ◦ `vi` ◦ Code Birthday
   4. [**Shuh to the Bang**](hello/README.md#shuh-to-the-bang)
 5. [**Hi There!** (`hi`)](hi/README.md)
