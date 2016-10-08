@@ -44,8 +44,9 @@ recent version of Python.
   2. [**Not a Web Language**](not/README.md#not-a-web-language)
   3. [**Slow**](not/README.md#slow)
 3. [**Short History of Python** (`history`)](history/README.md)
-  1. [**Whitespace Novelty**](history/README.md#whitespace-novelty)
-  2. [**Best First Language to Learn**](history/README.md#best-first-language-to-learn)
+  1. [**Guido's Christmas Present Named After Monty Python**](history/README.md#guidos-christmas-present-named-after-monty-python)
+  2. [**Whitespace Novelty**](history/README.md#whitespace-novelty)
+  3. [**Best First Language to Learn**](history/README.md#best-first-language-to-learn)
 4. [**Hello World** (`hello`)](hello/README.md)
   1. [**History**](hello/README.md#history)
       <br>💡 helloworld ◦ another ◦ one
