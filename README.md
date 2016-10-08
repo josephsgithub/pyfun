@@ -45,7 +45,7 @@ recent version of Python.
   3. [**Slow**](not/README.md#slow)
 3. [**Short History of Python** (`history`)](history/README.md)
   1. [**Whitespace Novelty**](history/README.md#whitespace-novelty)
-  2. [**Adopted as Best First Language to Learn**](history/README.md#adopted-as-best-first-language-to-learn)
+  2. [**Best First Language to Learn**](history/README.md#best-first-language-to-learn)
 4. [**Hello World** (`hello`)](hello/README.md)
   1. [**History**](hello/README.md#history)
       <br>💡 helloworld ◦ another ◦ one

@@ -1,21 +1,24 @@
 # [Short History of Python](/README.md)
 
-This summary of Python history is by no means complete, just an
-overview.
+> This summary of Python history is by no means complete, just an
+> overview.
 
-Most Python usage was server-side including stuff in connection
-with web servers (not browsers). This is why we say “back end”
-language.
-
-Perl was Python’s main competitor and predecessor, which dominated
-server-side programming for years in the late 90s and early 2000s.
-For that time Python was the new kid on the block.  Where Perl took
-the creative “there is more than one way to do it” Python took the
-“there is only one way to do it” approach. The rivalry was fierce but
-in the end most would agree Python won. Perl is still a fantastic
-shell programming language, however, with a much better syntax for
-shell one-liners much like the `sed` and `awk` equivalents `perl` was
-originally designed to replace.
+Python was created in 1989 over Christmas when Guido van Rossum
+wanted something fun to do. A Monty Python fan (aren’t we all), he
+decided to give his “hobby” language the namesake. He states he
+specifically wanted to “appeal to UNIX/C hackers” and given that
+Perl was the dominate server-side web programming language probably
+wanted something a bit more robust for larger projects. Turns out
+the rest of the world would eventually agree. For that time Python
+was the new kid on the block.  Where Perl took the creative
+there-is-more-than-one-way-to-do-it approach Python took the
+enterprise-friendly, there-is-one-best-way-to-do-it approach. The
+rivalry was fierce but in the end most would agree Python won. Perl
+is still a fantastic *shell* programming language–particularly for
+one-liners much like the `sed` and `awk` equivalents `perl` was
+originally designed to replace, but Python has garnered the trust
+enterprises that have even replaced the much more formal Java with
+Python.
 
 ## Whitespace Novelty
 
@@ -24,15 +27,20 @@ of the language.  This was really jarring and unheard of at the
 time. Today whitespace is commonly accepted as a part of syntax by
 many other languages.
 
-## Adopted as Best First Language to Learn
+## Best First Language to Learn
 
-Around 2010 MIT decided to make Python the first language to learn.
-Previously it had been Java. They are not the only ones. Many
-educational institutions have adopted Python as the first language
-any programming student learns.
+Many blogs and articles have been written confirming this but perhaps
+the biggest example was when MIT dropped Java for Python for
+beginners.  Around 2010 MIT decided to make Python the first language
+to learn.  They are not the only ones. Many educational institutions
+have adopted Python as the first language any programming student
+learns.
 
-Unfortunately the makers of the AP Computer Science exam still fail to
-see Python as an alternative to Java for all their material and test.
+It is really unfortunate the makers of the AP Computer Science exam
+have not yet seen the practicality of moving as well. The awkward
+subset of Java remains the basis for all APCS material and test as
+does the now very outdated emphasis on single-inheritance over
+composition, but that is a conversation for another day.
 
 ---
 [![home](/assets/home-bw.png)](/README.md)
