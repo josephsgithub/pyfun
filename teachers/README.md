@@ -109,12 +109,13 @@ requires them to actually cheat if they want to get around actually
 
 ### [Requesting Course Keys](#table-of-contents)
 
-Instructors and parents can request the current passphrase by emailing
-[learn@skilstak.com](mailto:learn@skilstak.com) with “Request Course
-Key” in the subject line and a summary of who you are and how you are
-using the material. Normally such things would not be sent over email,
-but in this case we feel it is ok. Your email will be added to
-a mailing list to which updated course keys will be regularly sent.
+If you are an instructor or parent you can request the current
+passphrase by emailing [learn@skilstak.com](mailto:learn@skilstak.com)
+with “Request Course Key” in the subject line and a summary of who
+you are and how you are using the material. Normally such things
+would not be sent over email, but in this case we feel it is ok.
+Your email will be added to a mailing list to which updated course
+keys will be regularly sent.
 
 ```sh
 gpg hello.gpg
