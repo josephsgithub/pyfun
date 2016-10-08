@@ -1,5 +1,7 @@
 # [Hello World](/README.md)
 
+![](/assets/hello.gif)
+
 ```python
 #!/usr/bin/env python3
 '''A simple program to print a colorful greeting'''
