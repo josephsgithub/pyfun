@@ -45,11 +45,10 @@ from performance fears.
 
 Although Python won out over Perl for its one-best-way approach
 over Perl's more-than-one-way-to-do-it artistic approach there is
-still a lot of flexibility in the language. 
-
-One of the most interesting areas is traditional object-oriented
-programming and function programming. The two are alive and well in
-the same language. This allows either design approach. 
+still a lot of flexibility in the language. One of the most interesting
+areas is traditional object-oriented programming and function
+programming. The two are alive and well in the same language. This
+allows either design approach.
 
 ## Mature
 
