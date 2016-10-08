@@ -4,7 +4,7 @@
 > overview.
 
 Python was created in 1989 over Christmas when Guido van Rossum
-wanted something fun to do. A Monty Python fan (aren’t we all), he
+wanted something fun to do. A Monty Python fan, (aren’t we all), he
 decided to give his “hobby” language the namesake. He states he
 specifically wanted to “appeal to UNIX/C hackers” and given that
 Perl was the dominate server-side web programming language probably
@@ -21,8 +21,8 @@ of compiled Python.)
 > Perl is still a fantastic *shell* programming language–particularly
 > for one-liners much like the `sed` and `awk` equivalents `perl` was
 > originally designed to replace, but Python has garnered the trust
-> enterprises that have even replaced the much more formal Java with
-> Python.
+> of many enterprises so much that they have even replaced the much
+> more formal Java with Python.
 
 ## Whitespace Novelty
 
