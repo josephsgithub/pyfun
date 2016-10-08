@@ -22,10 +22,13 @@
 3. [**Time**](#time)
 4. [**Rubrics**](#rubrics)
 5. [**Resources**](#resources)
-6. [**Other**](#other)
-7. [**Next**](#next)
-8. [**Contributing**](#contributing)
-9. [**Copyright**](#copyright)
+6. [**Encrypted Solutions**](#encrypted-solutions)
+ 1. [**Requesting Course Keys**](#requesting-course-keys)
+ 2. [**Alternatives**](#alternatives)
+7. [**Other**](#other)
+8. [**Next**](#next)
+9. [**Contributing**](#contributing)
+10. [**Copyright**](#copyright)
 
 ## [Prerequisites](#table-of-contents)
 
@@ -90,7 +93,7 @@ The dotted, hidden directories are so that beginning students will not
 see them with the `ls` or even the `ls -l` commands and be distracted.
 Eventually, in more advanced classes the other version can be used.
 
-## Encrypted Solutions
+## [Encrypted Solutions](#table-of-contents)
 
 Fully coded solutions to each exercise have been included as [GnuPG][]
 encrypted files. These solutions can–and should–be created by
@@ -104,7 +107,7 @@ requires them to actually cheat if they want to get around actually
 
 [GnuPG]: https://www.gnupg.org/
 
-### Requesting Course Keys
+### [Requesting Course Keys](#table-of-contents)
 
 Instructors and parents can request the current passphrase by emailing
 [learn@skilstak.com](mailto:learn@skilstak.com) with “Request Course
@@ -124,7 +127,7 @@ a `hello` file that can be `chmod +x`-ed, edited, and executed.
 > the unencrypted solutions. It is more of a practical matter than
 > a legal one.**
 
-### Alternatives
+### [Alternatives](#table-of-contents)
 
 Of course as the instructor you can complete the assignments yourself
 to produce your own solutions. This is actually optimal because it

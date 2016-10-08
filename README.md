@@ -84,10 +84,11 @@ recent version of Python.
   3. [**Time**](teachers/README.md#time)
   4. [**Rubrics**](teachers/README.md#rubrics)
   5. [**Resources**](teachers/README.md#resources)
-  6. [**Other**](teachers/README.md#other)
-  7. [**Next**](teachers/README.md#next)
-  8. [**Contributing**](teachers/README.md#contributing)
-  9. [**Copyright**](teachers/README.md#copyright)
+  6. [**Encrypted Solutions**](teachers/README.md#encrypted-solutions)
+  7. [**Other**](teachers/README.md#other)
+  8. [**Next**](teachers/README.md#next)
+  9. [**Contributing**](teachers/README.md#contributing)
+  10. [**Copyright**](teachers/README.md#copyright)
 
 ---
 [![home](/assets/home-bw.png)](/README.md)
