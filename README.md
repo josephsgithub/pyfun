@@ -6,23 +6,23 @@ classroom textbook][text-work].***
 
 [text-work]: https://blog.skilstak.io/github-as-text-book-and-work-book-828ffada9542#.etr9ts7me
 
-This *text*book goes with a *work*book. To get your workbook ask your
-instructor for an invite or find it in your course chat room.
-When you accept the invite GitHub Classrooms will create your 
-personal, private workbook by copying the workbook starter repo.
-
-For questions about anything in the course including your projects
-and assignments you can create an issue on your workbook and your
-instructor will see it. You can also ask in the course chat.
-
-If you catch spelling issues or other errors with either this textbook
-or the starter workbook (click title) please open issues on them
-suggesting corrections.
- 
-Teachers and parents are encouraged to
-read [*Welcome Teachers!*](teachers/README.md)
-
 ![](/assets/python.png)
+
+> This *text*book goes with a *work*book. To get your workbook ask your
+> instructor for an invite or find it in your course chat room.
+> When you accept the invite GitHub Classrooms will create your 
+> personal, private workbook by copying the workbook starter repo.
+> 
+> For questions about anything in the course including your projects
+> and assignments you can create an issue on your workbook and your
+> instructor will see it. You can also ask in the course chat.
+> 
+> If you catch spelling issues or other errors with either this textbook
+> or the starter workbook (click title) please open issues on them
+> suggesting corrections.
+> 
+> Teachers and parents are encouraged to
+> read [*Welcome Teachers!*](teachers/README.md)
 
 ## Summary
 
