@@ -1,4 +1,4 @@
-# [Why Python?](/README.md)
+# [⏪ Why Python?](/README.md)
 
 ![bloomberg](/assets/bloomberg.png)
 

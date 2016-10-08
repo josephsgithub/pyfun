@@ -1,28 +1,12 @@
 #!/usr/bin/env python3
-'''Prints an annoying amount of "nyan" to the screen'''
+'''An extremely annoying program modeled after the meme'''
 
-import skilstak.colors as c
-import time
-
-f1 =  (c.clear +
-    c.r + ' - - - - - - - - - - - - - - - -' + c.m + ' ,------,\n' + 
-    c.o + '- - - - - - - - - - - - - - - - ' + c.m + '|       |\n' +
-    c.y + ' - - - - - - - - - - - - - - - -' + c.m + '|    ' + c.b00 + '/\_/\\\n' +
-    c.g + '- - - - - - - - - - - - - - - -' + c.b00 + '~' + c.m + "|___" + c.b00 + '(_^_.^)\n' +
-    c.b + ' - - - - - - - - - - - - - - - -' + c.b00 + ' "  "\n' +
-    c.v + '- - - - - - - - - - - - - - - - '
-)
+import colors as c
 
 try:
-    while True:
-        print("Nyan", end=" ")
-except KeyboardInterrupt:
-    print("But I really wanna ...")
-    time.sleep(2)
-    try: 
-        while True:
-            print("The Nyan CANNOT BE STOPPED!", end=" ")
-    except KeyboardInterrupt:
-        print("Aw, man.")
-        print(f1)
 
+    while True:
+        print(c.random() + "🐱 Nyan" + c.x, end=" " )
+
+except KeyboardInterrupt:
+    print("Awwww man. 🎩")

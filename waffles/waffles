@@ -1,22 +1,12 @@
 #!/usr/bin/env python3
 
-import sys
 import colors as c
 
-# this is a tuple, (an unchangable list)
-negative = ("no", "nuhuh","i don't like")
+print(c.base01 + "Do you like waffles?")
+answer = input(c.cyan + "> " + c.base3)
 
-def assert_likes(food="pizza rolls"):
-    print(c.clear + c.random() + "Do you like " + food + "?" + c.x)
-    answer = input(c.base00 + "> " + c.base3)
-    answer = answer.lower().strip()
-    if answer.startswith(negative): 
-        print(c.red + "Well fine." + c.x)
-        sys.exit()
-
-for this in ["waffles", "pancakes", "french toast"]:
-    assert_likes(this)
-
-print(c.clear + "♫ Doo, doo doo doot ♫")
-print(c.clear + "♫ Can't wait to get a mouthful! ♫")
-
+if "yes" in answer.lower().strip():
+    print(c.base01 + "Do you like pancakes?")
+else:
+    print("Fine, but I do.")
+    exit()

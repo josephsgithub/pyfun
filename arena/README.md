@@ -1,4 +1,4 @@
-# [Arena](/README.md)
+# [⏪ Arena](/README.md)
 
 *Work in progress as we port content into GitHub Classroom*
 

@@ -1,0 +1,28 @@
+#!/usr/bin/env python3
+'''Prints an annoying amount of "nyan" to the screen'''
+
+import skilstak.colors as c
+import time
+
+f1 =  (c.clear +
+    c.r + ' - - - - - - - - - - - - - - - -' + c.m + ' ,------,\n' + 
+    c.o + '- - - - - - - - - - - - - - - - ' + c.m + '|       |\n' +
+    c.y + ' - - - - - - - - - - - - - - - -' + c.m + '|    ' + c.b00 + '/\_/\\\n' +
+    c.g + '- - - - - - - - - - - - - - - -' + c.b00 + '~' + c.m + "|___" + c.b00 + '(_^_.^)\n' +
+    c.b + ' - - - - - - - - - - - - - - - -' + c.b00 + ' "  "\n' +
+    c.v + '- - - - - - - - - - - - - - - - '
+)
+
+try:
+    while True:
+        print("Nyan", end=" ")
+except KeyboardInterrupt:
+    print("But I really wanna ...")
+    time.sleep(2)
+    try: 
+        while True:
+            print("The Nyan CANNOT BE STOPPED!", end=" ")
+    except KeyboardInterrupt:
+        print("Aw, man.")
+        print(f1)
+

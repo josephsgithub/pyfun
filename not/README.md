@@ -1,4 +1,4 @@
-# [When Not to Pick Python](/README.md)
+# [⏪ When Not to Pick Python](/README.md)
 
 Like any technology Python has its sweet spots and square peg
 challenges. The [sweet spots](/why/README.md) convince many to use

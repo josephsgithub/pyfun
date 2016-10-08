@@ -1,4 +1,4 @@
-# [Short History of Python](/README.md)
+# [⏪ Short History of Python](/README.md)
 
 > This summary of Python history is by no means complete, just an
 > overview.
