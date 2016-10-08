@@ -90,6 +90,49 @@ The dotted, hidden directories are so that beginning students will not
 see them with the `ls` or even the `ls -l` commands and be distracted.
 Eventually, in more advanced classes the other version can be used.
 
+## Encrypted Solutions
+
+Fully coded solutions to each exercise have been included as [GnuPG][]
+encrypted files. These solutions can–and should–be created by
+following the steps of each lesson–even by potential teachers. This
+encryption is mostly to keep extremely lazy students–and perhaps
+even teachers who do not understand the material enough to teach
+it–from simply copying and pasting code into their workbooks to
+appear to have completed the assignment. Getting around the encryption
+requires them to actually cheat if they want to get around actually
+*doing* their work. Those that do will likely not pass certification.
+
+[GnuPG]: https://www.gnupg.org/
+
+### Requesting Course Keys
+
+Instructors and parents can request the current passphrase by emailing
+[learn@skilstak.com](mailto:learn@skilstak.com) with “Request Course
+Key” in the subject line and a summary of who you are and how you are
+using the material. Normally such things would not be sent over email,
+but in this case we feel it is ok. Your email will be added to
+a mailing list to which updated course keys will be regularly sent.
+
+```sh
+gpg hello.gpg
+```
+
+After typing in the passphrase key when prompted this will produce
+a `hello` file that can be `chmod +x`-ed, edited, and executed.
+
+> ⛔ **For obvious reasons we ask that teachers not publicly distribute
+> the unencrypted solutions. It is more of a practical matter than
+> a legal one.**
+
+### Alternatives
+
+Of course as the instructor you can complete the assignments yourself
+to produce your own solutions. This is actually optimal because it
+ensures you understand the material and if you identify a problem can
+help us improve it by opening an issue. However, we do understand not
+all instructors and parents have this possibility and have therefore
+made the encrypted solutions available.
+
 ## [Other](#table-of-contents)
 
 Fundamentals is just that, fundamentals. Python comprehensions are
