@@ -1,16 +1,16 @@
 # [🍎 Welcome Teachers!](/README.md)
 
-> Whether you are a SkilStak™ senior student who has become a student
-> instructor, a teacher from a public or private school, a university
-> adjunct, or even from a corporate organization we welcome you and
-> hope you find this material useful. Like all courses and
-> learning modules at SkilStak™ each has a ***textbook*** and ***workbook***
-> GitHub repo. The *textbook* is for reference. The *workbook* is to be
-> used as a starter “assignment” repo for [GitHub Classroom][classroom].
-> You may wish to read more about using [*GitHub Classroom as Textbook
-> and Workbook*][text-work] to familiarize yourself with this approach.
-> We believe it is the future of all textbooks in education as the
-> OER movement continues and classrooms become more digital.
+Whether you are a SkilStak™ senior student who has become a student
+instructor, a teacher from a public or private school, a university
+adjunct, or even from a corporate organization we welcome you and
+hope you find this material useful. Like all courses and
+learning modules at SkilStak™ each has a ***textbook*** and ***workbook***
+GitHub repo. The *textbook* is for reference. The *workbook* is to be
+used as a starter “assignment” repo for [GitHub Classroom][classroom].
+You may wish to read more about using [*GitHub Classroom as Textbook
+and Workbook*][text-work] to familiarize yourself with this approach.
+We believe it is the future of all textbooks in education as the
+OER movement continues and classrooms become more digital.
 
 [classroom]: http://classroom.github.com
 [text-work]: https://blog.skilstak.io/github-as-text-book-and-work-book-828ffada9542#.etr9ts7me
