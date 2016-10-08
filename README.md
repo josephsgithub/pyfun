@@ -49,7 +49,6 @@ recent version of Python.
   3. [**Best First Language to Learn**](history/README.md#best-first-language-to-learn)
 4. [**Hello World** (`hello`)](hello/README.md)
   1. [**History**](hello/README.md#history)
-      <br>💡 helloworld ◦ another ◦ one
 5. [**Hi There!** (`hi`)](hi/README.md)
 6. [**Nyan, Nyan, STOP!** (`nyan`)](nyan/README.md)
 7. [**Do You Like Waffles?** (`waffles`)](waffles/README.md)
