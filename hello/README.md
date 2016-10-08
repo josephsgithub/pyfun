@@ -2,22 +2,6 @@
 
 ![](/assets/hello.gif)
 
-```python
-#!/usr/bin/env python3
-'''A simple program to print a colorful greeting'''
-
-import colors as c 
-
-def say_hello():
-    print(c.clear + c.Y + "Hello " + c.O + "world!" + c.X)
-
-def say_colorful_hello():
-    print(c.clear + c.multi("Hello world!") + c.X)
-
-#say_hello()
-say_colorful_hello()
-```
-
 ## Table of Contents
 
 1. [**History**](#history)
@@ -26,7 +10,7 @@ say_colorful_hello()
 3. [**Printing Text to the Screen**](#printing-text-to-the-screen)
 4. [**Shuh to the Bang**](#shuh-to-the-bang)
 
-## [History](#table-of-contents)
+## [⏫ History](#table-of-contents)
 
 Hello world is an long-standing tradition in programming. It has been
 written by billions of people soon to include you. As simple as it is,
@@ -35,7 +19,7 @@ is working. In this case, if Python is installed and setup correctly
 and you know how to use it. Unlike other lessons we will cover some of
 those things as well as the actually programming part.
 
-## [Touch and Chmod](#table-of-contents)
+## [⏫ Touch and Chmod](#table-of-contents)
 
 > Concepts: `touch`, `chmod +x`, Shell, Bash, Command Line,
 > Permissions, Executable, Runnable, File, Script
@@ -89,14 +73,14 @@ python3 hello
 Again, not very exciting, but it works! Now let’s put something in
 that file.
 
-### [Why not just start editing the file?](#table-of-contents)
+### [⏫ Why not just start editing the file?](#table-of-contents)
 
 You could do that and a lot of people do. But it saves a step or two
 when you forget to `chmod +x` the file later and try to run it. For
 some reason getting all that out of the way early on flows better for
 this author.
 
-## [Printing Text to the Screen](#table-of-contents)
+## [⏫ Printing Text to the Screen](#table-of-contents)
 
 > Concepts: `print()`, Strings, Quotes, `vim`, `vi`, Code Birthday
 
@@ -123,7 +107,7 @@ Woot! Houston, we have code!! (Google it if you are too young.)
 > friend will be like, “Woahhh.” And you will be all nodding your head
 > with a sly grin.
 
-## [Shuh to the Bang](#table-of-contents)
+## [⏫ Shuh to the Bang](#table-of-contents)
 
 > Concept: Shebang Line, `#!`, `env`
 
