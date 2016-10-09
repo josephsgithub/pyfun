@@ -47,7 +47,6 @@ have not yet seen the practicality of moving as well. The awkward
 subset of Java remains the basis for all APCS material and test as
 does the now very outdated emphasis on single-inheritance over
 composition, but that is a conversation for another day.
-
 ---
 [![home](/assets/home-bw.png)](/README.md)
 [![cc-by-sa](/assets/cc-by-sa.png)][cc-by-sa]

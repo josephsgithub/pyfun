@@ -5,12 +5,12 @@
 ## Table of Contents
 
 1. [**History**](#-history)
-2. [**How the Shell Works**](#-how-the-shell-works)
-3. [**Touch and Chmod**](#-touch-and-chmod)
+2. [**Touch and Chmod**](#-touch-and-chmod)
  1. [**Why not just start editing the file?**](#-why-not-just-start-editing-the-file)
-4. [**Printing Text to the Screen**](#-printing-text-to-the-screen)
-5. [**Intro to Files and `PATH`**](#-intro-to-files-and-path)
+3. [**Printing Text to the Screen**](#-printing-text-to-the-screen)
+4. [**Files and `PATH`**](#-files-and-path)
  1. [**What does the `PATH` have to do with `python3`?**](#-what-does-the-path-have-to-do-with-python3)
+5. [**How the Shell Works**](#-how-the-shell-works)
 
 ## [⏫ History](#table-of-contents)
 
@@ -20,14 +20,6 @@ it still gets used by professionals as a way to make sure everything
 is working. In this case, if Python is installed and setup correctly
 and you know how to use it. Unlike other lessons we will cover some of
 those things as well as the actually programming part.
-
-## [⏫ How the Shell Works](#table-of-contents)
-
-> Concepts: Shell, Bash, Command Line
-
-You already learned a little about the ***Bash Shell*** in [Prep][]
-
-[Prep]: http://prep.skilstak.io
 
 ## [⏫ Touch and Chmod](#table-of-contents)
 
@@ -121,7 +113,7 @@ Seems simple enough but what is going on? The script you wrote,
 `hello` is actually not running. It is `python3` that is running that
 opens your script, compiles it, and then runs it.
 
-## [⏫ Intro to Files and `PATH`](#table-of-contents)
+## [⏫ Files and `PATH`](#table-of-contents)
 
 > Concepts: Files, `$PATH`, `path`, `which`, `echo`
 
@@ -179,7 +171,25 @@ path*** because they show how to get to the from from the base or
 Now is a good time to remind you of some special filesystem symbols:
 
 | Symbol | Meaning |
-| :---
+| :----: | ------- |
+| `.` or `./` | Current Directory |
+| `..` or `../` | Parent Directory (One Up) |
+| `~` or `~user` | User Home Directory |
+| `/` | Root Directory |
+
+You will use these a lot on the command line as well as in your
+`$PATH` environment variable.
+
+## [⏫ How the Shell Works](#table-of-contents)
+
+> Concepts: Shell, Bash, Command Line
+
+You already learned a little about the ***Bash Shell*** in [Prep][]
+
+TODO
+
+[Prep]: http://prep.skilstak.io
+---
 [![home](/assets/home-bw.png)](/README.md)
 [![cc-by-sa](/assets/cc-by-sa.png)][cc-by-sa]
 [![skilstak](/assets/skilstak-logo-bw.png)][skilstak]

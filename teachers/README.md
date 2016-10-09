@@ -187,8 +187,7 @@ in their own projects without fear of copyright infringement or
 license violation. Student contributions to this or any other
 SkilStak™ course are on behalf of SkilStak™ and become a part of
 this copyright and license.
- 
----
+ ---
 [![home](/assets/home-bw.png)](/README.md)
 [![cc-by-sa](/assets/cc-by-sa.png)][cc-by-sa]
 [![skilstak](/assets/skilstak-logo-bw.png)][skilstak]

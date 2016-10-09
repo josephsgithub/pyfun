@@ -62,8 +62,7 @@ imagine is astounding.
 This level of maturity is somewhat rare in the tech world
 and the value can’t be overstated. Python is hear to stay for a long
 time to come.
- 
----
+ ---
 [![home](/assets/home-bw.png)](/README.md)
 [![cc-by-sa](/assets/cc-by-sa.png)][cc-by-sa]
 [![skilstak](/assets/skilstak-logo-bw.png)][skilstak]

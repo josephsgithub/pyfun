@@ -1,7 +1,6 @@
 # [⏪ My Lights Lib](/README.md)
 
 *Work in progress as we port content into GitHub Classroom*
-
 ---
 [![home](/assets/home-bw.png)](/README.md)
 [![cc-by-sa](/assets/cc-by-sa.png)][cc-by-sa]

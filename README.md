@@ -51,15 +51,14 @@ recent version of Python.
   3. [**Best First Language to Learn**](history/README.md#best-first-language-to-learn)
 4. [**Hello World** (`hello`)](hello/README.md)
   1. [**History**](hello/README.md#history)
-  2. [**How the Shell Works**](hello/README.md#how-the-shell-works)
-      <br>💡 Shell ◦ Bash ◦ Command Line
-  3. [**Touch and Chmod**](hello/README.md#touch-and-chmod)
+  2. [**Touch and Chmod**](hello/README.md#touch-and-chmod)
       <br>💡 `touch` ◦ `chmod +x` ◦ Permissions ◦ Executable ◦ Runnable ◦ File ◦ Script
-  4. [**Printing Text to the Screen**](hello/README.md#printing-text-to-the-screen)
+  3. [**Printing Text to the Screen**](hello/README.md#printing-text-to-the-screen)
       <br>💡 `print()` ◦ Strings ◦ Quotes ◦ `vim` ◦ `vi` ◦ Code Birthday
-  5. [**Intro to Files and `PATH`**](hello/README.md#intro-to-files-and-path)
+  4. [**Files and `PATH`**](hello/README.md#files-and-path)
       <br>💡 Files ◦ `$PATH` ◦ `path` ◦ `which` ◦ `echo`
-  6. [**Shuh to the Bang**](hello/README.md#shuh-to-the-bang)
+  5. [**How the Shell Works**](hello/README.md#how-the-shell-works)
+      <br>💡 Shell ◦ Bash ◦ Command Line
 5. [**Hi There!** (`hi`)](hi/README.md)
 6. [**Nyan, Nyan, STOP!** (`nyan`)](nyan/README.md)
 7. [**Do You Like Waffles?** (`waffles`)](waffles/README.md)

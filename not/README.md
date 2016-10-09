@@ -37,7 +37,6 @@ for web services the lost speed is negligible once the program is
 running since the biggest hit is in the startup, but speed comparisons
 still show dramatic differences, differences that have caught the
 attention of many in the industry.
-
 ---
 [![home](/assets/home-bw.png)](/README.md)
 [![cc-by-sa](/assets/cc-by-sa.png)][cc-by-sa]
