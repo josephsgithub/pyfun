@@ -101,6 +101,8 @@ script. Do not forget the `3` in `python3`.
 python3 hello
 ```
 
+![](/assets/hello.gif)
+
 Woot! Houston, we have code!! (Google it if you are too young.)
 
 > If that was your first command line code congratulations today
