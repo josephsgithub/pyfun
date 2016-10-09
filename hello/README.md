@@ -19,9 +19,17 @@ is working. In this case, if Python is installed and setup correctly
 and you know how to use it. Unlike other lessons we will cover some of
 those things as well as the actually programming part.
 
+## How the Shell Works
+
+> Concepts: Shell, Bash, Command Line
+
+You already learned a little about the ***Bash Shell*** in [Prep][]
+
+[Prep]: http://prep.skilstak.io
+
 ## [⏫ Touch and Chmod](#table-of-contents)
 
-> Concepts: `touch`, `chmod +x`, Shell, Bash, Command Line,
+> Concepts: `touch`, `chmod +x`
 > Permissions, Executable, Runnable, File, Script
 
 ![](/assets/hello-touch-chmod-ls.gif)
@@ -107,11 +115,91 @@ Woot! Houston, we have code!! (Google it if you are too young.)
 > friend will be like, “Woahhh.” And you will be all nodding your head
 > with a sly grin.
 
+Seems simple enough but what is going on? The script you wrote,
+`hello` is actually not running. It is `python3` that is running that
+opens your script, compiles it, and then runs it.
+
+## Intro to Files and `PATH`
+
+> Concepts: Files, `$PATH`, `path`, `which`, `echo`
+
+You learned about creating files and directories in [Prep][] but now
+we are seeing that programs (`python3`) can be located and run
+from the shell without telling the computer exactly where they are.
+They don’t even have to be in the same directory. That’s because when
+the shell cannot find what you typed it goes looking in all the
+directories listed in the `PATH`, an ***environment variable*** that
+contains them all separated by a colon. We will talk more about
+*variables* later. The basically contain stuff like a box that can
+only hold one thing at a time. You can see your path with
+this:
+
+```sh
+echo $PATH
+```
+
+The `echo` command simply prints to the screen. And if that is too
+hard to read we have added a version that splits it up so you can
+read it better:
+
+```sh
+path
+```
+
+![](/assets/path.gif)
+
+All operating systems have a `PATH` of some kind. Mac and Linux are
+the same. Windows does it slightly differently. 
+
+The `which` command tells you where the program is that you want to
+run, if the shell can find it at all.
+
+```sh
+which python3
+```
+
+> It might seem like a lot to introduce and try to understand this
+> much about the filesystem and how your computer runs your code
+> but now is as good a time as any.
+
+### What does the `PATH` have to do with `python3`?
+
+When you enter `python3 hello` you are telling the shell to find
+`python3` using the path, run it, and then read your `hello` script
+to run the code.
+
+You could also type `/usr/bin/python3 hello` or `/usr/local/bin/python3
+hello` depending on where `python3` is on your system. These longer
+versions are called the ***fully qualified path*** or just ***full
+path*** because they show how to get to the from from the base or
+***root*** of the filesystem, which is the initial slash `/`.
+
+Now is a good time to remind you of some special filesystem symbols:
+
+| Symbol | Meaning |
+| :---:  | ------- |
+| `.` or `./` | Current Directory |
+| `..` or `../` | Parent Directory (one up) |
+| `/` | Root Directory |
+| `~` | User Home Directory
+
 ## [⏫ Shuh to the Bang](#table-of-contents)
 
-> Concept: Shebang Line, `#!`, `env`
+> Concept: Shebang Line, `#!`, `env`, File System, Path 
 
-TODO
+**Good programmers are lazy in the best way.** Nature is too.  Both go
+with the simplest path that works. Typing `python3` to run your
+script every time is way too much work. Let’s simplify with a thing
+coder’s call ***the shebang line***, *she* for *hashtag* and *bang*
+for *exclamation point*.
+
+![](/assets/shebang.png)
+
+```python3
+
+```
+
+
 
 ---
 [![home](/assets/home-bw.png)](/README.md)
