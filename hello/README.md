@@ -177,15 +177,25 @@ Now is a good time to remind you of some special filesystem symbols:
 You will use these a lot on the command line as well as in your
 `$PATH` environment variable.
 
-## [⏫ How the Shell Works](#table-of-contents)
+## [⏫ Shuh to the Bang](#table-of-contents)
 
-> Concepts: Shell, Bash, Command Line
+> Concept: Shebang Line, `#!`, `env`, File System, Path 
 
-You already learned a little about the ***Bash Shell*** in [Prep][]
+![](/assets/shebang.png)
 
-TODO
+**Good programmers are lazy in the best way.** Nature is too.  Both go
+with the simplest path that works. Typing `python3` to run your
+script every time is way too much work. Let’s simplify with a thing
+coder’s call ***the shebang line***, *she* for *hashtag* and *bang*
+for *exclamation point*.
 
-[Prep]: http://prep.skilstak.io---
+```python3
+
+```
+
+[Prep]: http://prep.skilstak.io
+
+---
 [![home](/assets/home-bw.png)](/README.md)
 [![cc-by-sa](/assets/cc-by-sa.png)][cc-by-sa]
 [![skilstak](/assets/skilstak-logo-bw.png)][skilstak]
