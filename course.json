@@ -29,80 +29,140 @@
     "teachers"
   ],
   "summary": "**Welcome to Python!** In this course you will learn the fundamentals of programming in Python. Concepts include variables, operators, blocks, logic, loops, data types, lists, dictionaries, functions, exceptions, unit testing, classes, files, json, web api consumption, and basic code organization. This course covers Python 3.5+, the most recent version of Python. ",
+  "title": "Fundamentals in Python",
   "parts": {
-    "bincount": {
-      "title": "Binary Counter",
+    "arrrgs": {
+      "title": "\u23ea Arrrgs",
       "parts": []
     },
-    "arrrgs": {
-      "title": "Arrrgs",
+    "eightball": {
+      "title": "\u23ea Magic Eightball",
       "parts": []
     },
     "hi": {
-      "title": "Hi There!",
+      "title": "\u23ea Hi There!",
       "parts": []
     },
-    "wordbomb": {
-      "title": "Word Bomb",
+    "bincount": {
+      "title": "\u23ea Binary Counter",
       "parts": []
     },
-    "quiz": {
-      "title": "Quiz Game",
+    "rps": {
+      "title": "\u23ea Rock, Paper, Scissors",
       "parts": []
     },
-    "pokeapi": {
-      "title": "Pokemon API",
-      "parts": []
-    },
-    "battleship": {
-      "title": "Hi There!",
-      "parts": []
-    },
-    "gen": {
-      "title": "Character Generator",
-      "parts": []
-    },
-    "story": {
-      "title": "Story",
-      "parts": []
-    },
-    "lights": {
-      "title": "Holiday Lights",
-      "parts": []
-    },
-    "more": {
-      "title": "More Python3 Learning Resources",
+    "teachers": {
+      "title": "\ud83c\udf4e Welcome Teachers!",
       "parts": [
         {
-          "short": "dive-into-python-3",
-          "title": "Dive Into Python 3",
-          "concepts": []
+          "title": "Prerequisites",
+          "concepts": [],
+          "short": "prerequisites"
         },
         {
-          "short": "warning",
-          "title": "Warning",
-          "concepts": []
+          "title": "Age",
+          "concepts": [],
+          "short": "age"
+        },
+        {
+          "title": "Time",
+          "concepts": [],
+          "short": "time"
+        },
+        {
+          "title": "Rubrics",
+          "concepts": [],
+          "short": "rubrics"
+        },
+        {
+          "title": "Resources",
+          "concepts": [],
+          "short": "resources"
+        },
+        {
+          "title": "Encrypted Solutions",
+          "concepts": [],
+          "short": "encrypted-solutions"
+        },
+        {
+          "title": "Other",
+          "concepts": [],
+          "short": "other"
+        },
+        {
+          "title": "Next",
+          "concepts": [],
+          "short": "next"
+        },
+        {
+          "title": "Contributing",
+          "concepts": [],
+          "short": "contributing"
+        },
+        {
+          "title": "Copyright",
+          "concepts": [],
+          "short": "copyright"
         }
       ]
     },
-    "bridge": {
-      "title": "Bridge Keeper",
+    "roll": {
+      "title": "\u23ea Dice Roll",
       "parts": []
     },
-    "badgers": {
-      "title": "Badgers, Badgers, Badgers",
+    "mylights": {
+      "title": "\u23ea My Lights Lib",
+      "parts": []
+    },
+    "history": {
+      "title": "\u23ea Short History of Python",
+      "parts": [
+        {
+          "title": "Guido's Christmas Present Named After Monty Python",
+          "concepts": [],
+          "short": "guidos-christmas-present-named-after-monty-python"
+        },
+        {
+          "title": "Whitespace Novelty",
+          "concepts": [],
+          "short": "whitespace-novelty"
+        },
+        {
+          "title": "Best First Language to Learn",
+          "concepts": [],
+          "short": "best-first-language-to-learn"
+        }
+      ]
+    },
+    "waffles": {
+      "title": "\u23ea Do You Like Waffles?",
+      "parts": []
+    },
+    "madforms": {
+      "title": "\u23ea Mad Forms",
+      "parts": []
+    },
+    "lights": {
+      "title": "\u23ea Holiday Lights",
+      "parts": []
+    },
+    "gen": {
+      "title": "\u23ea Character Generator",
+      "parts": []
+    },
+    "wordbomb": {
+      "title": "\u23ea Word Bomb",
       "parts": []
     },
     "hello": {
-      "title": "Hello World",
+      "title": "\u23ea Hello World",
       "parts": [
         {
-          "short": "history",
           "title": "History",
-          "concepts": []
+          "concepts": [],
+          "short": "history"
         },
         {
-          "short": "touch-and-chmod",
           "title": "Touch and Chmod",
           "concepts": [
             "`touch`",
@@ -115,10 +175,10 @@
             "Runnable",
             "File",
             "Script"
-          ]
+          ],
+          "short": "touch-and-chmod"
         },
         {
-          "short": "printing-text-to-the-screen",
           "title": "Printing Text to the Screen",
           "concepts": [
             "`print()`",
@@ -127,176 +187,116 @@
             "`vim`",
             "`vi`",
             "Code Birthday"
-          ]
+          ],
+          "short": "printing-text-to-the-screen"
         },
         {
-          "short": "shuh-to-the-bang",
           "title": "Shuh to the Bang",
-          "concepts": []
+          "concepts": [],
+          "short": "shuh-to-the-bang"
         }
       ]
     },
-    "nyan": {
-      "title": "Nyan, Nyan, STOP!",
+    "quiz": {
+      "title": "\u23ea Quiz Game",
       "parts": []
     },
-    "history": {
-      "title": "Short History of Python",
-      "parts": [
-        {
-          "short": "guidos-christmas-present-named-after-monty-python",
-          "title": "Guido's Christmas Present Named After Monty Python",
-          "concepts": []
-        },
-        {
-          "short": "whitespace-novelty",
-          "title": "Whitespace Novelty",
-          "concepts": []
-        },
-        {
-          "short": "best-first-language-to-learn",
-          "title": "Best First Language to Learn",
-          "concepts": []
-        }
-      ]
-    },
-    "rps": {
-      "title": "Rock, Paper, Scissors",
-      "parts": []
-    },
-    "roll": {
-      "title": "Dice Roll",
-      "parts": []
-    },
-    "teachers": {
-      "title": "\ud83c\udf4e Welcome Teachers!",
-      "parts": [
-        {
-          "short": "prerequisites",
-          "title": "Prerequisites",
-          "concepts": []
-        },
-        {
-          "short": "age",
-          "title": "Age",
-          "concepts": []
-        },
-        {
-          "short": "time",
-          "title": "Time",
-          "concepts": []
-        },
-        {
-          "short": "rubrics",
-          "title": "Rubrics",
-          "concepts": []
-        },
-        {
-          "short": "resources",
-          "title": "Resources",
-          "concepts": []
-        },
-        {
-          "short": "encrypted-solutions",
-          "title": "Encrypted Solutions",
-          "concepts": []
-        },
-        {
-          "short": "other",
-          "title": "Other",
-          "concepts": []
-        },
-        {
-          "short": "next",
-          "title": "Next",
-          "concepts": []
-        },
-        {
-          "short": "contributing",
-          "title": "Contributing",
-          "concepts": []
-        },
-        {
-          "short": "copyright",
-          "title": "Copyright",
-          "concepts": []
-        }
-      ]
-    },
-    "eightball": {
-      "title": "Magic Eightball",
-      "parts": []
-    },
-    "madforms": {
-      "title": "Mad Forms",
-      "parts": []
-    },
-    "not": {
-      "title": "When Not to Pick Python",
-      "parts": [
-        {
-          "short": "concurrency",
-          "title": "Concurrency",
-          "concepts": []
-        },
-        {
-          "short": "not-a-web-language",
-          "title": "Not a Web Language",
-          "concepts": []
-        },
-        {
-          "short": "slow",
-          "title": "Slow",
-          "concepts": []
-        }
-      ]
-    },
-    "waffles": {
-      "title": "Do You Like Waffles?",
-      "parts": []
-    },
-    "arena": {
-      "title": "Arena",
-      "parts": []
-    },
-    "mtable": {
-      "title": "Multiplication Tables",
-      "parts": []
-    },
-    "mylights": {
-      "title": "My Lights Lib",
+    "badgers": {
+      "title": "\u23ea Badgers, Badgers, Badgers",
       "parts": []
     },
     "why": {
-      "title": "Why Python?",
+      "title": "\u23ea Why Python?",
       "parts": [
         {
-          "short": "easy",
           "title": "Easy",
-          "concepts": []
+          "concepts": [],
+          "short": "easy"
         },
         {
-          "short": "everywhere",
           "title": "Everywhere",
-          "concepts": []
+          "concepts": [],
+          "short": "everywhere"
         },
         {
-          "short": "powerful",
           "title": "Powerful",
-          "concepts": []
+          "concepts": [],
+          "short": "powerful"
         },
         {
-          "short": "versatile",
           "title": "Versatile",
-          "concepts": []
+          "concepts": [],
+          "short": "versatile"
         },
         {
-          "short": "mature",
           "title": "Mature",
-          "concepts": []
+          "concepts": [],
+          "short": "mature"
         }
       ]
+    },
+    "bridge": {
+      "title": "\u23ea Bridge Keeper",
+      "parts": []
+    },
+    "story": {
+      "title": "\u23ea Story",
+      "parts": []
+    },
+    "not": {
+      "title": "\u23ea When Not to Pick Python",
+      "parts": [
+        {
+          "title": "Concurrency",
+          "concepts": [],
+          "short": "concurrency"
+        },
+        {
+          "title": "Not a Web Language",
+          "concepts": [],
+          "short": "not-a-web-language"
+        },
+        {
+          "title": "Slow",
+          "concepts": [],
+          "short": "slow"
+        }
+      ]
+    },
+    "more": {
+      "title": "\u23ea More Python3 Learning Resources",
+      "parts": [
+        {
+          "title": "Dive Into Python 3",
+          "concepts": [],
+          "short": "dive-into-python-3"
+        },
+        {
+          "title": "Warning",
+          "concepts": [],
+          "short": "warning"
+        }
+      ]
+    },
+    "mtable": {
+      "title": "\u23ea Multiplication Tables",
+      "parts": []
+    },
+    "nyan": {
+      "title": "\u23ea Nyan, Nyan, STOP!",
+      "parts": []
+    },
+    "pokeapi": {
+      "title": "\u23ea Pokemon API",
+      "parts": []
+    },
+    "battleship": {
+      "title": "\u23ea Hi There!",
+      "parts": []
+    },
+    "arena": {
+      "title": "\u23ea Arena",
+      "parts": []
     }
-  },
-  "title": "Fundamentals in Python"
+  }
 }
