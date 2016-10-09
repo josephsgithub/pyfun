@@ -168,7 +168,7 @@ slash `/`.
 Now is a good time to remind you of some special filesystem symbols:
 
 | Symbol | Meaning |
-| :----: | ------- |
+| :----: | :-------: |
 | `.` or `./` | Current Directory |
 | `..` or `../` | Parent Directory (One Up) |
 | `~` or `~user` | User Home Directory |
