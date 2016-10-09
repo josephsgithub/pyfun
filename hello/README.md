@@ -161,8 +161,9 @@ to run the code.
 You could also type `/usr/bin/python3 hello` or `/usr/local/bin/python3
 hello` depending on where `python3` is on your system. These longer
 versions are called the ***fully qualified path*** or just ***full
-path*** because they show how to get to the from from the base or
-***root*** of the filesystem, which is the initial slash `/`.
+path*** because they show how to get to the `python3` program from
+from the base or ***root*** of the filesystem, which is the initial
+slash `/`.
 
 Now is a good time to remind you of some special filesystem symbols:
 
