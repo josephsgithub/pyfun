@@ -325,8 +325,7 @@ of the parentheses `()`.
 
 ## [⏫ Actions and Functions](#table-of-contents)
 
-#TODO
----
+#TODO---
 [![home](/assets/home-bw.png)](/README.md)
 [![cc-by-sa](/assets/cc-by-sa.png)][cc-by-sa]
 [![skilstak](/assets/skilstak-logo-bw.png)][skilstak]
