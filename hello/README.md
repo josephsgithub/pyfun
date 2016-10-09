@@ -101,8 +101,6 @@ script. Do not forget the `3` in `python3`.
 python3 hello
 ```
 
-![](/assets/hello.gif)
-
 Woot! Houston, we have code!! (Google it if you are too young.)
 
 > If that was your first command line code congratulations today
@@ -118,6 +116,8 @@ opens your script, compiles it, and then runs it.
 ## [⏫ Files and `PATH`](#table-of-contents)
 
 > Concepts: Files, `$PATH`, `path`, `which`, `echo`
+
+![](/assets/path.gif)
 
 You learned about creating files and directories in [Prep][] but now
 we are seeing that programs (`python3`) can be located and run
@@ -142,8 +142,6 @@ read it better:
 path
 ```
 
-![](/assets/path.gif)
-
 All operating systems have a `PATH` of some kind. Mac and Linux are
 the same. Windows does it slightly differently. 
 
@@ -153,10 +151,6 @@ run, if the shell can find it at all.
 ```sh
 which python3
 ```
-
-> It might seem like a lot to introduce and try to understand this
-> much about the filesystem and how your computer runs your code
-> but now is as good a time as any.
 
 ### [⏫ What does the `PATH` have to do with `python3`?](#table-of-contents)
 
@@ -190,8 +184,7 @@ You already learned a little about the ***Bash Shell*** in [Prep][]
 
 TODO
 
-[Prep]: http://prep.skilstak.io
----
+[Prep]: http://prep.skilstak.io---
 [![home](/assets/home-bw.png)](/README.md)
 [![cc-by-sa](/assets/cc-by-sa.png)][cc-by-sa]
 [![skilstak](/assets/skilstak-logo-bw.png)][skilstak]

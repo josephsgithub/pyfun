@@ -16,8 +16,7 @@ while True:
     lights.color = c.blue
     lights[2].color = c.random()
     lights.update(0.5)
-```
----
+```---
 [![home](/assets/home-bw.png)](/README.md)
 [![cc-by-sa](/assets/cc-by-sa.png)][cc-by-sa]
 [![skilstak](/assets/skilstak-logo-bw.png)][skilstak]
