@@ -5,10 +5,12 @@
 ## Table of Contents
 
 1. [**History**](#-history)
-2. [**Touch and Chmod**](#-touch-and-chmod)
+2. [**How the Shell Works**](#-how-the-shell-works)
+3. [**Touch and Chmod**](#-touch-and-chmod)
  1. [**Why not just start editing the file?**](#-why-not-just-start-editing-the-file)
-3. [**Printing Text to the Screen**](#-printing-text-to-the-screen)
-4. [**Shuh to the Bang**](#-shuh-to-the-bang)
+4. [**Printing Text to the Screen**](#-printing-text-to-the-screen)
+5. [**Intro to Files and `PATH`**](#-intro-to-files-and-path)
+ 1. [**What does the `PATH` have to do with `python3`?**](#-what-does-the-path-have-to-do-with-python3)
 
 ## [⏫ History](#table-of-contents)
 
@@ -19,7 +21,7 @@ is working. In this case, if Python is installed and setup correctly
 and you know how to use it. Unlike other lessons we will cover some of
 those things as well as the actually programming part.
 
-## How the Shell Works
+## [⏫ How the Shell Works](#table-of-contents)
 
 > Concepts: Shell, Bash, Command Line
 
@@ -119,7 +121,7 @@ Seems simple enough but what is going on? The script you wrote,
 `hello` is actually not running. It is `python3` that is running that
 opens your script, compiles it, and then runs it.
 
-## Intro to Files and `PATH`
+## [⏫ Intro to Files and `PATH`](#table-of-contents)
 
 > Concepts: Files, `$PATH`, `path`, `which`, `echo`
 
@@ -162,7 +164,7 @@ which python3
 > much about the filesystem and how your computer runs your code
 > but now is as good a time as any.
 
-### What does the `PATH` have to do with `python3`?
+### [⏫ What does the `PATH` have to do with `python3`?](#table-of-contents)
 
 When you enter `python3 hello` you are telling the shell to find
 `python3` using the path, run it, and then read your `hello` script
@@ -177,31 +179,7 @@ path*** because they show how to get to the from from the base or
 Now is a good time to remind you of some special filesystem symbols:
 
 | Symbol | Meaning |
-| :---:  | ------- |
-| `.` or `./` | Current Directory |
-| `..` or `../` | Parent Directory (one up) |
-| `/` | Root Directory |
-| `~` | User Home Directory
-
-## [⏫ Shuh to the Bang](#table-of-contents)
-
-> Concept: Shebang Line, `#!`, `env`, File System, Path 
-
-**Good programmers are lazy in the best way.** Nature is too.  Both go
-with the simplest path that works. Typing `python3` to run your
-script every time is way too much work. Let’s simplify with a thing
-coder’s call ***the shebang line***, *she* for *hashtag* and *bang*
-for *exclamation point*.
-
-![](/assets/shebang.png)
-
-```python3
-
-```
-
-
-
----
+| :---
 [![home](/assets/home-bw.png)](/README.md)
 [![cc-by-sa](/assets/cc-by-sa.png)][cc-by-sa]
 [![skilstak](/assets/skilstak-logo-bw.png)][skilstak]
