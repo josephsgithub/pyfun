@@ -56,8 +56,13 @@ recent version of Python.
   3. [**Printing Text to the Screen**](hello/README.md#printing-text-to-the-screen)
       <br>💡 `print()` ◦ Strings ◦ Quotes ◦ `vim` ◦ `vi` ◦ Code Birthday
   4. [**Files and `PATH`**](hello/README.md#files-and-path)
-      <br>💡 Files ◦ `$PATH` ◦ `path` ◦ `which` ◦ `echo`
+      <br>💡 Files ◦ `$PATH` ◦ `path` ◦ `which` ◦ `echo` ◦ Full Path ◦ Fully ◦ Qualified Path ◦ Root Path ◦ `/` ◦ `.` ◦ `..` ◦ `./` ◦ `../` ◦ `~`
   5. [**Shuh to the Bang**](hello/README.md#shuh-to-the-bang)
+  6. [**Color Things Up**](hello/README.md#color-things-up)
+      <br>💡 `import` ◦ `colors` ◦ `as` ◦ Using Python Modules ◦ Terminal ◦ Escapes ◦ `c.random()` ◦ `c.multi()` ◦ `c.clear`
+  7. [**Joining Strings**](hello/README.md#joining-strings)
+      <br>💡 Strings ◦ Quotes ◦ `Join Operator` ◦ `+`
+  8. [**Actions and Functions**](hello/README.md#actions-and-functions)
 5. [**Hi There!** (`hi`)](hi/README.md)
 6. [**Nyan, Nyan, STOP!** (`nyan`)](nyan/README.md)
 7. [**Do You Like Waffles?** (`waffles`)](waffles/README.md)

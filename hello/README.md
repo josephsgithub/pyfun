@@ -11,6 +11,13 @@
 4. [**Files and `PATH`**](#-files-and-path)
  1. [**What does the `PATH` have to do with `python3`?**](#-what-does-the-path-have-to-do-with-python3)
 5. [**Shuh to the Bang**](#-shuh-to-the-bang)
+6. [**Color Things Up**](#-color-things-up)
+ 1. [**What colors can I use?**](#-what-colors-can-i-use)
+ 2. [**How do I activate them?**](#-how-do-i-activate-them)
+ 3. [**So how do we print in color to the screen?**](#-so-how-do-we-print-in-color-to-the-screen)
+ 4. [**What about clearing the screen and random colors?**](#-what-about-clearing-the-screen-and-random-colors)
+7. [**Joining Strings**](#-joining-strings)
+8. [**Actions and Functions**](#-actions-and-functions)
 
 ## [⏫ History](#table-of-contents)
 
@@ -86,9 +93,11 @@ this author.
 
 > Concepts: `print()`, Strings, Quotes, `vim`, `vi`, Code Birthday
 
-We assume you already learned the essentials of `vim`. If not go back
-and read about it in [Prep](http://prep.skilstak.io). Open the file
-and add the following simple line.
+We assume you already learned the essentials of `vim`. If not go
+back and read about it in [Prep][]. Open the file and add the
+following simple line.
+
+[Prep]: http://prep.skilstak.io
 
 ```python
 print("Hello world!")
@@ -115,7 +124,8 @@ opens your script, compiles it, and then runs it.
 
 ## [⏫ Files and `PATH`](#table-of-contents)
 
-> Concepts: Files, `$PATH`, `path`, `which`, `echo`
+> Concepts: Files, `$PATH`, `path`, `which`, `echo`, Full Path, Fully
+> Qualified Path, Root Path, `/`, `.`, `..`, `./`, `../`, `~`
 
 ![](/assets/path.gif)
 
@@ -181,19 +191,141 @@ You will use these a lot on the command line as well as in your
 
 > Concept: Shebang Line, `#!`, `env`, File System, Path 
 
-![](/assets/shebang.png)
-
 **Good programmers are lazy in the best way.** Nature is too.  Both go
 with the simplest path that works. Typing `python3` to run your
 script every time is way too much work. Let’s simplify with a thing
 coder’s call ***the shebang line***, *she* for *hashtag* and *bang*
 for *exclamation point*.
 
-```python3
+![](/assets/shebang.png)
 
+These two characters tell the shell to use the rest of the line as
+the command you would normally type in but there is a catch. ***The
+shell does not look in the PATH for stuff on the shebang line.***
+This means we have to use the *full path* of `/usr/bin/python3`
+instead of just `python3`. Go ahead and try it by adding the following
+to the very first line of your `hello` script file.
+
+```python3
+#!/usr/bin/python3
+print("Hello world!")
 ```
 
-[Prep]: http://prep.skilstak.io
+Now that we have given the shell this shebang hint and `chmod +x`-ed
+our script we can just run it with the script name dropping the
+`python3`.
+
+```sh
+hello
+Hello world!
+```
+
+There is still a problem though. On other computers `python3` might
+not be at that exact *full path* location, maybe
+`/usr/local/bin/python3`. So to write a shebang line that is more
+flexible we can use the special `env` program, or `/usr/bin/env`. This
+program is pretty much guaranteed to be on any system at exactly that
+spot. It’s job in this case is to return the full path to the first
+`python3` (or whatever) it finds. Rewrite your first line as follows:
+
+```python3
+#!/usr/bin/env python3
+```
+
+**This is the shebang line to memorize.** You will constantly use it
+for Python development and more.
+
+## [⏫ Color Things Up](#table-of-contents)
+
+> Concepts: `import`, `colors`, `as`, Using Python Modules, Terminal
+> Escapes, `c.random()`, `c.multi()`, `c.clear`
+
+Now that we have done a lot of technical stuff to get our `hello`
+script to run let’s have some fun coloring up the output. Terminals
+have become more popular now that we can print all kinds of color
+and symbols to the screen (thanks to UTF-8). We are, however, still
+limited to 16 colors and have to change the theme of our terminal
+to match if we want any kind of consistency. Solarized is the theme
+we use in these courses and at SkilStak™. There are many other
+amazing ones. This is one of the things we spent time setting up
+in [Prep][] so we do not have to do it now.
+
+### [⏫ What colors can I use?](#table-of-contents)
+
+All these terminal screens conform to a standard that sees special,
+non-printable characters as commands to change stuff about the screen.
+These are called ***terminal escapes***. They are complicated little
+buggers so we have put them all into a convenient package to use
+simply. First let’s have a look at them by typing `colors` from the
+command line.
+
+![](/assets/colors.gif)
+
+### [⏫ How do I activate them?](#table-of-contents)
+
+First you have to tell `python3` to use, or ***import*** code in
+another file. Add the following near the top of your code. It has
+to be above any lines that might use it.
+
+```python3
+import colors as c
+```
+
+This brings in all the code in the [`colors.py`](/lib/colors.py)
+as if you had typed it at that exact spot. Anything in that code
+can be used by putting a `c.` in front of it. The `as c` allows us
+to not have to type `colors.` every time.
+
+### [⏫ So how do we print in color to the screen?](#table-of-contents)
+
+Now we just print the color *escapes* before the text. Change your
+code to use `c.red` for example:
+
+```python3
+print(c.red + "Hello world!" + c.x)
+```
+
+Don’t forget to put the `c.reset` or `c.x` at the end. This *escape*
+turns off coloring setting it back. Sometimes if this is forgotten it
+can leave your command line stuck in a given color causing you to
+logout and back in to get it back.
+
+### [⏫ What about clearing the screen and random colors?](#table-of-contents)
+
+Everyone wants to know about these immediately.  Notice there are
+some special entries in the list:
+
+| Command | Action |
+| :-----: | :----: |
+| `c.clear` | Clears the Screen |
+| `c.random()` | Sets Random Color of Text to Follow |
+| `c.multi("MULTI")` | Sets Characters to Random Colors |
+
+These are fun and convenient. Try them out.
+
+## [⏫ Joining Strings](#table-of-contents)
+
+> Concepts: Strings, Quotes, `Join Operator`, `+`
+
+Now that we have had a break printing crazy strings let’s take a
+moment to talk about what strings are and how to join them together.
+**A string is a sequence of characters like beads on a necklace strung
+together with quotes on the ends as nots holding them on.** Leave off
+a quote and the characters spill off causing errors.
+
+![](/assets/string.png)
+
+The ***join operator*** that looks like a plus `+` sign joins together
+the character beads of the string necklace.
+
+Without help see if you can chop your `"Hello world!"` string in half
+and make each a different color by joining in another color code. Keep
+in mind you only need one `print()`. Everything should change inside
+of the parentheses `()`.
+
+## [⏫ Actions and Functions](#table-of-contents)
+
+#TODO
 ---
 [![home](/assets/home-bw.png)](/README.md)
 [![cc-by-sa](/assets/cc-by-sa.png)][cc-by-sa]
