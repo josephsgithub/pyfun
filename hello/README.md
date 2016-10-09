@@ -10,7 +10,7 @@
 3. [**Printing Text to the Screen**](#-printing-text-to-the-screen)
 4. [**Files and `PATH`**](#-files-and-path)
  1. [**What does the `PATH` have to do with `python3`?**](#-what-does-the-path-have-to-do-with-python3)
-5. [**How the Shell Works**](#-how-the-shell-works)
+5. [**Shuh to the Bang**](#-shuh-to-the-bang)
 
 ## [⏫ History](#table-of-contents)
 
@@ -194,7 +194,6 @@ for *exclamation point*.
 ```
 
 [Prep]: http://prep.skilstak.io
-
 ---
 [![home](/assets/home-bw.png)](/README.md)
 [![cc-by-sa](/assets/cc-by-sa.png)][cc-by-sa]

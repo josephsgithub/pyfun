@@ -57,8 +57,7 @@ recent version of Python.
       <br>💡 `print()` ◦ Strings ◦ Quotes ◦ `vim` ◦ `vi` ◦ Code Birthday
   4. [**Files and `PATH`**](hello/README.md#files-and-path)
       <br>💡 Files ◦ `$PATH` ◦ `path` ◦ `which` ◦ `echo`
-  5. [**How the Shell Works**](hello/README.md#how-the-shell-works)
-      <br>💡 Shell ◦ Bash ◦ Command Line
+  5. [**Shuh to the Bang**](hello/README.md#shuh-to-the-bang)
 5. [**Hi There!** (`hi`)](hi/README.md)
 6. [**Nyan, Nyan, STOP!** (`nyan`)](nyan/README.md)
 7. [**Do You Like Waffles?** (`waffles`)](waffles/README.md)
