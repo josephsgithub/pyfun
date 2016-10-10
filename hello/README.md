@@ -434,7 +434,7 @@ difference professionally.
 
 > 💬 Using Python graphically is more popular these days for data
 > science visualization and crunching, but web technology dominates
-> data visualization currently—especially with [D3](http://d3.org). By
+> data visualization currently—especially with [D3](http://d3js.org). By
 > Python’s own mantra, “there is one best way to do something” you
 > should stick with Python on the command line crunching data, testing
 > things, linking them together and the rest of Python’s core
