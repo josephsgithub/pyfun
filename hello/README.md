@@ -233,7 +233,7 @@ program is pretty much guaranteed to be on any system at exactly that
 spot. It’s job in this case is to return the full path to the first
 `python3` (or whatever) it finds. Rewrite your first line as follows:
 
-```python3
+```python
 #!/usr/bin/env python3
 ```
 
@@ -272,7 +272,7 @@ First you have to tell `python3` to use, or ***import*** code in
 another file. Add the following near the top of your code. It has
 to be above any lines that might use it.
 
-```python3
+```python
 import colors as c
 ```
 
