@@ -352,7 +352,7 @@ think about ***parameters*** and ***arguments***.
 > At this point you might be like, “make it stop!” but understanding
 > these terms will help us talk intelligently about this stuff as we go.
 
-Simply put *parameters* are like the slots that you put the money in.
+Simply put, *parameters* are like the slots that you put the money in.
 *Arguments* are like the coins that go into the slots. When you put
 money in something happens. In this case, you get air.
 
