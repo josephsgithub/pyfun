@@ -60,6 +60,7 @@ professionally.
 > things, linking them together and the rest of Python’s core
 > strengths and focus on web technology 
 > for any kind of graphic user experience.
+
 ---
 [![home](/assets/home-bw.png)](/README.md)
 [![cc-by-sa](/assets/cc-by-sa.png)][cc-by-sa]
