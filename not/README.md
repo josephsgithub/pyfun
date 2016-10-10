@@ -44,13 +44,13 @@ We cover a lot of concepts in this course, much more than most
 textbooks would but you are learning it correctly, the way most
 professionals use Python, not the way many traditional educators
 and books would have you learn it, unfortunately. Many would have
-you play around with Python IDLE, Charm, Eclipse or some other mousy
-text editor. While these are better than nothing you really need to
-learn to create Python code with nothing but a command line since
-very often you will be remotely connecting to a Linux/UNIX server
-(as we have) to do something and being able to be productive quickly,
-which is what Python is all about, will make all the difference
-professionally.
+you play around with Python IDLE, Charm, Sublime, Atom, Eclipse or
+some other mousy text editor. While these are better than nothing
+you really need to learn to create Python code with nothing but a
+command line since very often you will be remotely connecting to a
+Linux/UNIX server (as we have) to do something and being able to
+be productive quickly, which is what Python is all about, will make
+all the difference professionally.
 
 > 💬 Using Python graphically is more popular these days for data
 > science visualization and crunching, but web technology dominates
