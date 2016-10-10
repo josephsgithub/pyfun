@@ -70,6 +70,7 @@ recent version of Python.
   10. [**Final Comment**](hello/README.md#final-comment)
       <br>💡 Comments ◦ `'''` ◦ `"""` ◦ `pydoc3` ◦ `pydoc`
   11. [**Do It Again**](hello/README.md#do-it-again)
+      <br>💡 Repetition ◦ Athletic Software Engineering
   12. [**No Python IDLE?**](hello/README.md#no-python-idle)
   13. [**Conclusion**](hello/README.md#conclusion)
 5. [**Hi There!** (`hi`)](hi/README.md)

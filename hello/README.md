@@ -399,10 +399,21 @@ effort.
 
 ## [⏫ Do It Again](#table-of-contents)
 
+> Concepts: Repetition, Athletic Software Engineering
+
+Philip Johnson coined the term [Athletic Software Engineering][]
+in 2013 after realizing many of the skills from athletics are not
+always considered when learning to program. Indeed, today’s hackathons
+and timed interviews where potential employers have you code solutions
+sometimes on paper have reminded everyone that programming well
+includes programming *quickly*. The less you have to look up, the less
+time it takes and the better you have mastered the syntax and
+structure of the language. So let’s do it again.
+
 After you finish all this you should have about five lines of code.
-Not much, but a good start. Now either delete or rename those script
+Not much, but a good start. **Now either delete or rename those script
 and write it all again, and again, and again. Begin to time yourself
-and write your best time in your workbook. A program like this for
+and write your best time in your workbook.** A program like this for
 someone with 30 wpm typing speed should way under a minute to
 complete. Work hard to get there and not have to look up
 anything—particularly the shebang line.
@@ -428,8 +439,7 @@ learn all the stuff you need to do to get a script to run from the
 command line and understand how that works. As you master the exercise
 of writing it don’t forget to remember reviewing this stuff so you
 could explain it to someone you were teaching it to. If you can’t
-explain it, you don’t know it, the saying goes.
----
+explain it, you don’t know it, the saying goes.---
 [![home](/assets/home-bw.png)](/README.md)
 [![cc-by-sa](/assets/cc-by-sa.png)][cc-by-sa]
 [![skilstak](/assets/skilstak-logo-bw.png)][skilstak]
