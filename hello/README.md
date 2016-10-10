@@ -72,7 +72,7 @@ by default the system runs the script with whatever the shell
 language, in this case Bash. When you login to the command line you
 are using a scripting language for every command.
 
-> This concept of using the shell to run the file by default is
+> 💬 This concept of using the shell to run the file by default is
 > important because we are working in Python and have to tell
 > the system so.
 
@@ -117,7 +117,7 @@ python3 hello
 
 Woot! Houston, we have code!! (Google it if you are too young.)
 
-> If that was your first command line code congratulations today
+> 💬 If that was your first command line code congratulations today
 > is, what we call, your ***code birthday***. Write the date down somewhere.
 > Later you will be, like, “I started coding on ______.” And your adult
 > friend will be like, “Woahhh.” And you will be all nodding your head
@@ -349,7 +349,7 @@ Remember those old air pumps that you did not have to put money in?
 Neither do I. But the new ones that require a coin are a good way to
 think about ***parameters*** and ***arguments***.
 
-> At this point you might be like, “make it stop!” but understanding
+> 💬 At this point you might be like, “make it stop!” but understanding
 > these terms will help us talk intelligently about this stuff as we go.
 
 Simply put, *parameters* are like the slots that you put the money in.
@@ -421,7 +421,7 @@ anything—particularly the shebang line.
 ## [⏫ No Python IDLE?](#table-of-contents)
 
 We have covered a lot of concepts in this first lesson, much more
-than more textbooks would for “hello world” but you are learning
+than most textbooks would for “hello world” but you are learning
 it correctly, the way most professionals use Python, not the way
 many traditional educators and books would have you learn it,
 unfortunately. Many would have you play around with Python IDLE
@@ -432,6 +432,15 @@ server (as we have) to do something and being able to be productive
 quickly, which is what Python is all about, will make all the
 difference professionally.
 
+> 💬 Using Python graphically is more popular these days for data
+> science visualization and crunching, but web technology dominates
+> data visualization currently—especially with [D3](http://d3.org). By
+> Python’s own mantra, “there is one best way to do something” you
+> should stick with Python on the command line crunching data, testing
+> things, linking them together and the rest of Python’s core
+> strengths and focus on web technology 
+> for any kind of graphic user experience.
+
 ## [⏫ Conclusion](#table-of-contents)
 
 *Hello World* is a simple program but we’ve used this opportunity to
@@ -439,7 +448,8 @@ learn all the stuff you need to do to get a script to run from the
 command line and understand how that works. As you master the exercise
 of writing it don’t forget to remember reviewing this stuff so you
 could explain it to someone you were teaching it to. If you can’t
-explain it, you don’t know it, the saying goes.---
+explain it, you don’t know it, the saying goes.
+---
 [![home](/assets/home-bw.png)](/README.md)
 [![cc-by-sa](/assets/cc-by-sa.png)][cc-by-sa]
 [![skilstak](/assets/skilstak-logo-bw.png)][skilstak]
