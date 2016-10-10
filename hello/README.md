@@ -377,7 +377,7 @@ the code:
 pydoc3 hello
 ```
 
-![](/assets/pydoc.gif)
+![](/assets/comment.gif)
 
 Now add something like the following line after the shebang line.
 
