@@ -448,7 +448,7 @@ learn all the stuff you need to do to get a script to run from the
 command line and understand how that works. As you master the exercise
 of writing it don’t forget to remember reviewing this stuff so you
 could explain it to someone you were teaching it to. If you can’t
-explain it, you don’t know it, the saying goes.
+explain it, you don’t know it.
 
 ---
 [![home](/assets/home-bw.png)](/README.md)
