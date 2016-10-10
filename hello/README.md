@@ -304,7 +304,7 @@ some special entries in the list:
 
 These are fun and convenient. Try them out.
 
-## [⏫ Joining Strings](#table-of-contents)
+## B[⏫ Beads on a Necklace](#table-of-contents)
 
 > Concepts: Strings, Quotes, `Join Operator`, `+`
 
@@ -324,7 +324,7 @@ and make each a different color by joining in another color code. Keep
 in mind you only need one `print()`. Everything should change inside
 of the parentheses `()`.
 
-## [⏫ Actions and Functions](#table-of-contents)
+## [⏫ Action](#table-of-contents)
 
 > Concepts: Actions, Functions, Function Call
 
@@ -335,7 +335,7 @@ Python3 `print()` is one of these. We will go into functions in
 much more detail later, but it is good to understand the idea now.
 For now just know that `print()` is a ***function call***.
 
-## [⏫ Arguments and Parameters](#table-of-contents)
+## [⏫ Paying for Air](#table-of-contents)
 
 > Concepts: Arguments, Parameters
 
@@ -359,7 +359,73 @@ at least one.
 
 We’ll return to this concept soon.
 
-TODO: Conclusion 
+## Final Comment
+
+> Concepts: Comments, `'''`, `"""`, `pydoc3`, `pydoc`
+
+As simple as our program is it is not complete without a descriptive
+comment. One of Python’s greatest strengths is the ability to create
+amazing documentation right in the code that can be read using the
+`pydoc3` tool. In fact, you can try it now without anything added to
+the code:
+
+```sh
+pydoc3 hello
+```
+
+![](/assets/pydoc.gif)
+
+Now add something like the following line after the shebang line.
+
+```python
+#!/usr/bin/env python3
+
+'''Hello prints a colorful greeting to the screen.'''
+```
+
+When you run `pydoc3` again note the change. We will learn more about
+this as we add more complicated code to other scripts but you can
+never start to early to create good, well-documented code. **Good code
+documentation separates good programmers from great programmers.** It
+might not seem like it now, but programmers spend way more time
+reading other people’s code than writing new code. Never forget that
+even if you are sure you thing no one will ever see your code. The you
+of a year from now will appreciate the you now who takes this extra
+effort.
+
+## Do It Again
+
+After you finish all this you should have about five lines of code.
+Not much, but a good start. Now either delete or rename those script
+and write it all again, and again, and again. Begin to time yourself
+and write your best time in your workbook. A program like this for
+someone with 30 wpm typing speed should way under a minute to
+complete. Work hard to get there and not have to look up
+anything—particularly the shebang line.
+
+## No Python IDLE?
+
+We have covered a lot of concepts in this first lesson, much more
+than more textbooks would for “hello world” but you are learning
+it correctly, the way most professionals use Python, not the way
+many traditional educators and books would have you learn it,
+unfortunately. Many would have you play around with Python IDLE
+with it’s mousy text editor. While this is better than nothing you
+really need to learn to create Python code with nothing but a command
+line since very often you will be remotely connecting to a Linux/UNIX
+server (as we have) to do something and being able to be productive
+quickly, which is what Python is all about, will make all the
+difference professionally.
+
+## Conclusion
+
+*Hello World* is a simple program but we’ve used this opportunity to
+learn all the stuff you need to do to get a script to run from the
+command line and understand how that works. As you master the exercise
+of writing it don’t forget to remember reviewing this stuff so you
+could explain it to someone you were teaching it to. If you can’t
+explain it, you don’t know it, the saying goes.
+
 ---
 [![home](/assets/home-bw.png)](/README.md)
 [![cc-by-sa](/assets/cc-by-sa.png)][cc-by-sa]
