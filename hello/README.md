@@ -449,6 +449,7 @@ command line and understand how that works. As you master the exercise
 of writing it don’t forget to remember reviewing this stuff so you
 could explain it to someone you were teaching it to. If you can’t
 explain it, you don’t know it, the saying goes.
+
 ---
 [![home](/assets/home-bw.png)](/README.md)
 [![cc-by-sa](/assets/cc-by-sa.png)][cc-by-sa]
