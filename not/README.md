@@ -41,14 +41,14 @@ attention of many in the industry.
 ## No Python IDLE?
 
 We cover a lot of concepts in this course, much more than most
-textbooks would for “hello world” but you are learning it correctly,
-the way most professionals use Python, not the way many traditional
-educators and books would have you learn it, unfortunately. Many
-would have you play around with Python IDLE with it’s mousy text
-editor. While this is better than nothing you really need to learn
-to create Python code with nothing but a command line since very
-often you will be remotely connecting to a Linux/UNIX server (as
-we have) to do something and being able to be productive quickly,
+textbooks would but you are learning it correctly, the way most
+professionals use Python, not the way many traditional educators
+and books would have you learn it, unfortunately. Many would have
+you play around with Python IDLE, Charm, Eclipse or some other mousy
+text editor. While these are better than nothing you really need to
+learn to create Python code with nothing but a command line since
+very often you will be remotely connecting to a Linux/UNIX server
+(as we have) to do something and being able to be productive quickly,
 which is what Python is all about, will make all the difference
 professionally.
 
@@ -60,6 +60,8 @@ professionally.
 > things, linking them together and the rest of Python’s core
 > strengths and focus on web technology 
 > for any kind of graphic user experience.
+
+Take the extra time to learn Python right.
 
 ---
 [![home](/assets/home-bw.png)](/README.md)
