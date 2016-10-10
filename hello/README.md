@@ -16,7 +16,7 @@
  2. [**How do I activate them?**](#-how-do-i-activate-them)
  3. [**So how do we print in color to the screen?**](#-so-how-do-we-print-in-color-to-the-screen)
  4. [**What about clearing the screen and random colors?**](#-what-about-clearing-the-screen-and-random-colors)
-7. [**BBeads on a Necklace**](#-bbeads-on-a-necklace)
+7. [**Beads on a Necklace**](#-beads-on-a-necklace)
 8. [**Action**](#-action)
 9. [**Paying for Air**](#-paying-for-air)
 10. [**Final Comment**](#-final-comment)
@@ -308,7 +308,7 @@ some special entries in the list:
 
 These are fun and convenient. Try them out.
 
-## [⏫ B[⏫ Beads on a Necklace](#table-of-contents)](#table-of-contents)
+## [⏫ Beads on a Necklace](#table-of-contents)
 
 > Concepts: Strings, Quotes, `Join Operator`, `+`
 

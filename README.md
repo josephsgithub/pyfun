@@ -61,7 +61,7 @@ recent version of Python.
       <br>💡 Shebang Line ◦ `#!` ◦ `env` ◦ File System ◦ Path
   6. [**Color Things Up**](hello/README.md#color-things-up)
       <br>💡 `import` ◦ `colors` ◦ `as` ◦ Using Python Modules ◦ Terminal ◦ Escapes ◦ `c.random()` ◦ `c.multi()` ◦ `c.clear`
-  7. [**BBeads on a Necklace**](hello/README.md#bbeads-on-a-necklace)
+  7. [**Beads on a Necklace**](hello/README.md#beads-on-a-necklace)
       <br>💡 Strings ◦ Quotes ◦ `Join Operator` ◦ `+`
   8. [**Action**](hello/README.md#action)
       <br>💡 Actions ◦ Functions ◦ Function Call
