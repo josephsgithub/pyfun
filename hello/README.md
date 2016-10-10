@@ -189,7 +189,7 @@ You will use these a lot on the command line as well as in your
 
 ## [⏫ Shuh to the Bang](#table-of-contents)
 
-> Concept: Shebang Line, `#!`, `env`, File System, Path 
+> Concepts: Shebang Line, `#!`, `env`, File System, Path 
 
 **Good programmers are lazy in the best way.** Nature is too.  Both go
 with the simplest path that works. Typing `python3` to run your

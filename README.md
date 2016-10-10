@@ -58,6 +58,7 @@ recent version of Python.
   4. [**Files and `PATH`**](hello/README.md#files-and-path)
       <br>💡 Files ◦ `$PATH` ◦ `path` ◦ `which` ◦ `echo` ◦ Full Path ◦ Fully ◦ Qualified Path ◦ Root Path ◦ `/` ◦ `.` ◦ `..` ◦ `./` ◦ `../` ◦ `~`
   5. [**Shuh to the Bang**](hello/README.md#shuh-to-the-bang)
+      <br>💡 Shebang Line ◦ `#!` ◦ `env` ◦ File System ◦ Path
   6. [**Color Things Up**](hello/README.md#color-things-up)
       <br>💡 `import` ◦ `colors` ◦ `as` ◦ Using Python Modules ◦ Terminal ◦ Escapes ◦ `c.random()` ◦ `c.multi()` ◦ `c.clear`
   7. [**Joining Strings**](hello/README.md#joining-strings)
