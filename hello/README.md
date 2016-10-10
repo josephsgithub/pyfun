@@ -211,7 +211,7 @@ This means we have to use the *full path* of `/usr/bin/python3`
 instead of just `python3`. Go ahead and try it by adding the following
 to the very first line of your `hello` script file.
 
-```python3
+```python
 #!/usr/bin/python3
 print("Hello world!")
 ```
@@ -286,7 +286,7 @@ to not have to type `colors.` every time.
 Now we just print the color *escapes* before the text. Change your
 code to use `c.red` for example:
 
-```python3
+```python
 print(c.red + "Hello world!" + c.x)
 ```
 
