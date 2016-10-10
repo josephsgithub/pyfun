@@ -36,7 +36,31 @@ dominating at the moment even compared to Node). Some would argue that
 for web services the lost speed is negligible once the program is
 running since the biggest hit is in the startup, but speed comparisons
 still show dramatic differences, differences that have caught the
-attention of many in the industry.---
+attention of many in the industry.
+
+## No Python IDLE?
+
+We cover a lot of concepts in this course, much more than most
+textbooks would for “hello world” but you are learning it correctly,
+the way most professionals use Python, not the way many traditional
+educators and books would have you learn it, unfortunately. Many
+would have you play around with Python IDLE with it’s mousy text
+editor. While this is better than nothing you really need to learn
+to create Python code with nothing but a command line since very
+often you will be remotely connecting to a Linux/UNIX server (as
+we have) to do something and being able to be productive quickly,
+which is what Python is all about, will make all the difference
+professionally.
+
+> 💬 Using Python graphically is more popular these days for data
+> science visualization and crunching, but web technology dominates
+> data visualization currently—especially with [D3](http://d3js.org). By
+> Python’s own mantra, “there is one best way to do something” you
+> should stick with Python on the command line crunching data, testing
+> things, linking them together and the rest of Python’s core
+> strengths and focus on web technology 
+> for any kind of graphic user experience.
+---
 [![home](/assets/home-bw.png)](/README.md)
 [![cc-by-sa](/assets/cc-by-sa.png)][cc-by-sa]
 [![skilstak](/assets/skilstak-logo-bw.png)][skilstak]

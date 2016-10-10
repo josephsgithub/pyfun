@@ -45,6 +45,7 @@ recent version of Python.
   1. [**Concurrency**](not/README.md#concurrency)
   2. [**Not a Web Language**](not/README.md#not-a-web-language)
   3. [**Slow**](not/README.md#slow)
+  4. [**No Python IDLE?**](not/README.md#no-python-idle)
 3. [**Short History of Python** (`history`)](history/README.md)
   1. [**Guido's Christmas Present Named After Monty Python**](history/README.md#guidos-christmas-present-named-after-monty-python)
   2. [**Whitespace Novelty**](history/README.md#whitespace-novelty)
@@ -71,8 +72,7 @@ recent version of Python.
       <br>💡 Comments ◦ `'''` ◦ `"""` ◦ `pydoc3` ◦ `pydoc`
   11. [**Do It Again**](hello/README.md#do-it-again)
       <br>💡 Repetition ◦ Athletic Software Engineering
-  12. [**No Python IDLE?**](hello/README.md#no-python-idle)
-  13. [**Conclusion**](hello/README.md#conclusion)
+  12. [**Conclusion**](hello/README.md#conclusion)
 5. [**Hi There!** (`hi`)](hi/README.md)
 6. [**Nyan, Nyan, STOP!** (`nyan`)](nyan/README.md)
 7. [**Do You Like Waffles?** (`waffles`)](waffles/README.md)
