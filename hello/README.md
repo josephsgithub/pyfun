@@ -409,6 +409,8 @@ includes programming *quickly*. The less you have to look up, the less
 time it takes and the better you have mastered the syntax and
 structure of the language. So let’s do it again.
 
+[Athletic Software Engineering]: http://philipmjohnson.org/essays/athletic-software-engineering.html  
+
 After you finish all this you should have about five lines of code.
 Not much, but a good start. **Now either delete or rename those script
 and write it all again, and again, and again. Begin to time yourself
