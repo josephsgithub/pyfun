@@ -16,9 +16,13 @@
  2. [**How do I activate them?**](#-how-do-i-activate-them)
  3. [**So how do we print in color to the screen?**](#-so-how-do-we-print-in-color-to-the-screen)
  4. [**What about clearing the screen and random colors?**](#-what-about-clearing-the-screen-and-random-colors)
-7. [**Joining Strings**](#-joining-strings)
-8. [**Actions and Functions**](#-actions-and-functions)
-9. [**Arguments and Parameters**](#-arguments-and-parameters)
+7. [**BBeads on a Necklace**](#-bbeads-on-a-necklace)
+8. [**Action**](#-action)
+9. [**Paying for Air**](#-paying-for-air)
+10. [**Final Comment**](#-final-comment)
+11. [**Do It Again**](#-do-it-again)
+12. [**No Python IDLE?**](#-no-python-idle)
+13. [**Conclusion**](#-conclusion)
 
 ## [⏫ History](#table-of-contents)
 
@@ -304,7 +308,7 @@ some special entries in the list:
 
 These are fun and convenient. Try them out.
 
-## B[⏫ Beads on a Necklace](#table-of-contents)
+## [⏫ B[⏫ Beads on a Necklace](#table-of-contents)](#table-of-contents)
 
 > Concepts: Strings, Quotes, `Join Operator`, `+`
 
@@ -359,7 +363,7 @@ at least one.
 
 We’ll return to this concept soon.
 
-## Final Comment
+## [⏫ Final Comment](#table-of-contents)
 
 > Concepts: Comments, `'''`, `"""`, `pydoc3`, `pydoc`
 
@@ -393,7 +397,7 @@ even if you are sure you thing no one will ever see your code. The you
 of a year from now will appreciate the you now who takes this extra
 effort.
 
-## Do It Again
+## [⏫ Do It Again](#table-of-contents)
 
 After you finish all this you should have about five lines of code.
 Not much, but a good start. Now either delete or rename those script
@@ -403,7 +407,7 @@ someone with 30 wpm typing speed should way under a minute to
 complete. Work hard to get there and not have to look up
 anything—particularly the shebang line.
 
-## No Python IDLE?
+## [⏫ No Python IDLE?](#table-of-contents)
 
 We have covered a lot of concepts in this first lesson, much more
 than more textbooks would for “hello world” but you are learning
@@ -417,7 +421,7 @@ server (as we have) to do something and being able to be productive
 quickly, which is what Python is all about, will make all the
 difference professionally.
 
-## Conclusion
+## [⏫ Conclusion](#table-of-contents)
 
 *Hello World* is a simple program but we’ve used this opportunity to
 learn all the stuff you need to do to get a script to run from the
@@ -425,7 +429,6 @@ command line and understand how that works. As you master the exercise
 of writing it don’t forget to remember reviewing this stuff so you
 could explain it to someone you were teaching it to. If you can’t
 explain it, you don’t know it, the saying goes.
-
 ---
 [![home](/assets/home-bw.png)](/README.md)
 [![cc-by-sa](/assets/cc-by-sa.png)][cc-by-sa]
