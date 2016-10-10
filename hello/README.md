@@ -415,7 +415,7 @@ After you finish all this you should have about five lines of code.
 Not much, but a good start. **Now either delete or rename those script
 and write it all again, and again, and again. Begin to time yourself
 and write your best time in your workbook.** A program like this for
-someone with 30 wpm typing speed should way under a minute to
+someone with 30 wpm typing speed should be way under a minute to
 complete. Work hard to get there and not have to look up
 anything—particularly the shebang line.
 
