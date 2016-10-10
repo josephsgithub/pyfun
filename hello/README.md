@@ -18,6 +18,7 @@
  4. [**What about clearing the screen and random colors?**](#-what-about-clearing-the-screen-and-random-colors)
 7. [**Joining Strings**](#-joining-strings)
 8. [**Actions and Functions**](#-actions-and-functions)
+9. [**Arguments and Parameters**](#-arguments-and-parameters)
 
 ## [⏫ History](#table-of-contents)
 
@@ -325,7 +326,41 @@ of the parentheses `()`.
 
 ## [⏫ Actions and Functions](#table-of-contents)
 
-#TODO---
+> Concepts: Actions, Functions, Function Call
+
+To get a computer to perform an ***action*** we usually need to use
+a ***function***, (also sometimes called ***procedures*** but we’ll
+get into that another day). To use the *function* we *call* it. In
+Python3 `print()` is one of these. We will go into functions in
+much more detail later, but it is good to understand the idea now.
+For now just know that `print()` is a ***function call***.
+
+## [⏫ Arguments and Parameters](#table-of-contents)
+
+> Concepts: Arguments, Parameters
+
+![](/assets/pump.jpg)
+
+Remember those old air pumps that you did not have to put money in?
+Neither do I. But the new ones that require a coin are a good way to
+think about ***parameters*** and ***arguments***.
+
+> At this point you might be like, “make it stop!” but understanding
+> these terms will help us talk intelligently about this stuff as we go.
+
+Simply put *parameters* are like the slots that you put the money in.
+*Arguments* are like the coins that go into the slots. When you put
+money in something happens. In this case, you get air.
+
+The `print("Hello world!)` *function call* is like this. The `"Hello
+world!"` string is an *argument*. For now we can’t see the *parameter*
+but can say that we know the `print()` function accepts, or takes,
+at least one.
+
+We’ll return to this concept soon.
+
+TODO: Conclusion 
+---
 [![home](/assets/home-bw.png)](/README.md)
 [![cc-by-sa](/assets/cc-by-sa.png)][cc-by-sa]
 [![skilstak](/assets/skilstak-logo-bw.png)][skilstak]

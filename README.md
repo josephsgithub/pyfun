@@ -64,6 +64,9 @@ recent version of Python.
   7. [**Joining Strings**](hello/README.md#joining-strings)
       <br>💡 Strings ◦ Quotes ◦ `Join Operator` ◦ `+`
   8. [**Actions and Functions**](hello/README.md#actions-and-functions)
+      <br>💡 Actions ◦ Functions ◦ Function Call
+  9. [**Arguments and Parameters**](hello/README.md#arguments-and-parameters)
+      <br>💡 Arguments ◦ Parameters
 5. [**Hi There!** (`hi`)](hi/README.md)
 6. [**Nyan, Nyan, STOP!** (`nyan`)](nyan/README.md)
 7. [**Do You Like Waffles?** (`waffles`)](waffles/README.md)
