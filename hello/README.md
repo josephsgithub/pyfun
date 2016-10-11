@@ -355,7 +355,7 @@ Simply put, *parameters* are like the slots that you put the money in.
 *Arguments* are like the coins that go into the slots. When you put
 money in something happens. In this case, you get air.
 
-The `print("Hello world!)` *function call* is like this. The `"Hello
+The `print("Hello world!")` *function call* is like this. The `"Hello
 world!"` string is an *argument*. For now we can’t see the *parameter*
 but can say that we know the `print()` function accepts, or takes,
 at least one.

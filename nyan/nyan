@@ -7,6 +7,5 @@ try:
 
     while True:
         print(c.random() + "🐱 Nyan" + c.x, end=" " )
-
 except KeyboardInterrupt:
     print("Awwww man. 🎩")
