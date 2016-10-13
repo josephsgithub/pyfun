@@ -62,17 +62,19 @@ recent version of Python.
       <br>💡 Shebang Line ◦ `#!` ◦ `env` ◦ File System ◦ Path
   6. [**Color Things Up**](hello/README.md#color-things-up)
       <br>💡 `import` ◦ `colors` ◦ `as` ◦ Using Python Modules ◦ Terminal ◦ Escapes ◦ `c.random()` ◦ `c.multi()` ◦ `c.clear`
-  7. [**Beads on a Necklace**](hello/README.md#beads-on-a-necklace)
+  7. [**Spinning Emoji Earth Globe**](hello/README.md#spinning-emoji-earth-globe)
+      <br>💡 Unicode ◦ Code for the World ◦ Emojis ◦ `from` ◦ `import`
+  8. [**Beads on a Necklace**](hello/README.md#beads-on-a-necklace)
       <br>💡 Strings ◦ Quotes ◦ `Join Operator` ◦ `+`
-  8. [**Action**](hello/README.md#action)
+  9. [**Action**](hello/README.md#action)
       <br>💡 Actions ◦ Functions ◦ Function Call
-  9. [**Paying for Air**](hello/README.md#paying-for-air)
+  10. [**Paying for Air**](hello/README.md#paying-for-air)
       <br>💡 Arguments ◦ Parameters
-  10. [**Final Comment**](hello/README.md#final-comment)
+  11. [**Final Comment**](hello/README.md#final-comment)
       <br>💡 Comments ◦ `'''` ◦ `"""` ◦ `pydoc3` ◦ `pydoc`
-  11. [**Do It Again**](hello/README.md#do-it-again)
+  12. [**Do It Again**](hello/README.md#do-it-again)
       <br>💡 Repetition ◦ Athletic Software Engineering
-  12. [**Conclusion**](hello/README.md#conclusion)
+  13. [**Conclusion**](hello/README.md#conclusion)
 5. [**Hi There!** (`hi`)](hi/README.md)
 6. [**Nyan, Nyan, STOP!** (`nyan`)](nyan/README.md)
 7. [**Do You Like Waffles?** (`waffles`)](waffles/README.md)

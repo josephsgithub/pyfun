@@ -16,12 +16,13 @@
  2. [**How do I activate them?**](#-how-do-i-activate-them)
  3. [**So how do we print in color to the screen?**](#-so-how-do-we-print-in-color-to-the-screen)
  4. [**What about clearing the screen and random colors?**](#-what-about-clearing-the-screen-and-random-colors)
-7. [**Beads on a Necklace**](#-beads-on-a-necklace)
-8. [**Action**](#-action)
-9. [**Paying for Air**](#-paying-for-air)
-10. [**Final Comment**](#-final-comment)
-11. [**Do It Again**](#-do-it-again)
-12. [**Conclusion**](#-conclusion)
+7. [**Spinning Emoji Earth Globe**](#-spinning-emoji-earth-globe)
+8. [**Beads on a Necklace**](#-beads-on-a-necklace)
+9. [**Action**](#-action)
+10. [**Paying for Air**](#-paying-for-air)
+11. [**Final Comment**](#-final-comment)
+12. [**Do It Again**](#-do-it-again)
+13. [**Conclusion**](#-conclusion)
 
 ## [⏫ History](#table-of-contents)
 
@@ -307,7 +308,7 @@ some special entries in the list:
 
 These are fun and convenient. Try them out.
 
-## Spinning Emoji Earth Globe
+## [⏫ Spinning Emoji Earth Globe](#table-of-contents)
 
 > Concepts: Unicode, Code for the World, Emojis, `from`, `import`
 
