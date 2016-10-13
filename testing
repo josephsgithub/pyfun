@@ -1,0 +1,6 @@
+#!/usr/bin/env python3
+
+import emoji1 as j 
+
+print(j.frog)
+

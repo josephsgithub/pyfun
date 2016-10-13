@@ -1,0 +1,16 @@
+#!/usr/bin/env python3
+
+"""Entertaining looping, polite, partying badgers."""
+
+import colors as c
+from time import sleep
+
+
+n = 0
+while n < 12:
+    count = n + 1
+    print(str(count) + "🐻 Badgers")
+    n += 1
+    sleep(0.35294)
+
+print()
