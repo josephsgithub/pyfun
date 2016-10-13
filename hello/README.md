@@ -329,7 +329,8 @@ of the `earth_americas`, `earth_asia`, and `earth_africa` are just some
 of the [1693 we have added for you to use](http://emoji.skilstak.io).
 
 > 💬 We live in the world we are greeting. Never forget that when
-> you write code. Code for the world to use, not just England, not just
+> you write code (even though Microsoft obviously has. Code for the
+> world to use, not just England, not just
 > Russia, not just America. When you have this code-for-the-world mentality
 > you do things naturally that make sense globally, like keeping your
 > code that contains language in one place so it can be translated easily.
