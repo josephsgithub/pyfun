@@ -24,7 +24,7 @@
 12. [**Do It Again**](#-do-it-again)
 13. [**Conclusion**](#-conclusion)
 
-## [⏫ History](#table-of-contents)
+## [⏫ History](#)
 
 Hello world is an long-standing tradition in programming. It has been
 written by billions of people soon to include you. As simple as it is,
@@ -33,7 +33,7 @@ is working. In this case, if Python is installed and setup correctly
 and you know how to use it. Unlike other lessons we will cover some of
 those things as well as the actually programming part.
 
-## [⏫ Touch and Chmod](#table-of-contents)
+## [⏫ Touch and Chmod](#)
 
 > Concepts: `touch`, `chmod +x`
 > Permissions, Executable, Runnable, File, Script
@@ -87,14 +87,14 @@ python3 hello
 Again, not very exciting, but it works! Now let’s put something in
 that file.
 
-### [⏫ Why not just start editing the file?](#table-of-contents)
+### [⏫ Why not just start editing the file?](#)
 
 You could do that and a lot of people do. But it saves a step or two
 when you forget to `chmod +x` the file later and try to run it. For
 some reason getting all that out of the way early on flows better for
 this author.
 
-## [⏫ Printing Text to the Screen](#table-of-contents)
+## [⏫ Printing Text to the Screen](#)
 
 > Concepts: `print()`, Strings, Quotes, `vim`, `vi`, Code Birthday
 
@@ -127,7 +127,7 @@ Seems simple enough but what is going on? The script you wrote,
 `hello` is actually not running. It is `python3` that is running that
 opens your script, compiles it, and then runs it.
 
-## [⏫ Files and `PATH`](#table-of-contents)
+## [⏫ Files and `PATH`](#)
 
 > Concepts: Files, `$PATH`, `path`, `which`, `echo`, Full Path, Fully
 > Qualified Path, Root Path, `/`, `.`, `..`, `./`, `../`, `~`
@@ -167,7 +167,7 @@ run, if the shell can find it at all.
 which python3
 ```
 
-### [⏫ What does the `PATH` have to do with `python3`?](#table-of-contents)
+### [⏫ What does the `PATH` have to do with `python3`?](#)
 
 When you enter `python3 hello` you are telling the shell to find
 `python3` using the path, run it, and then read your `hello` script
@@ -192,7 +192,7 @@ Now is a good time to remind you of some special filesystem symbols:
 You will use these a lot on the command line as well as in your
 `$PATH` environment variable.
 
-## [⏫ Shuh to the Bang](#table-of-contents)
+## [⏫ Shuh to the Bang](#)
 
 > Concepts: Shebang Line, `#!`, `env`, File System, Path 
 
@@ -240,7 +240,7 @@ spot. It’s job in this case is to return the full path to the first
 **This is the shebang line to memorize.** You will constantly use it
 for Python development and more.
 
-## [⏫ Color Things Up](#table-of-contents)
+## [⏫ Color Things Up](#)
 
 > Concepts: `import`, `colors`, `as`, Using Python Modules, Terminal
 > Escapes, `c.random()`, `c.multi()`, `c.clear`
@@ -255,7 +255,7 @@ we use in these courses and at SkilStak™. There are many other
 amazing ones. This is one of the things we spent time setting up
 in [Prep][] so we do not have to do it now.
 
-### [⏫ What colors can I use?](#table-of-contents)
+### [⏫ What colors can I use?](#)
 
 All these terminal screens conform to a standard that sees special,
 non-printable characters as commands to change stuff about the screen.
@@ -266,7 +266,7 @@ command line.
 
 ![](/assets/colors.gif)
 
-### [⏫ How do I activate them?](#table-of-contents)
+### [⏫ How do I activate them?](#)
 
 First you have to tell `python3` to use, or ***import*** code in
 another file. Add the following near the top of your code. It has
@@ -281,7 +281,7 @@ as if you had typed it at that exact spot. Anything in that code
 can be used by putting a `c.` in front of it. The `as c` allows us
 to not have to type `colors.` every time.
 
-### [⏫ So how do we print in color to the screen?](#table-of-contents)
+### [⏫ So how do we print in color to the screen?](#)
 
 Now we just print the color *escapes* before the text. Change your
 code to use `c.red` for example:
@@ -295,7 +295,7 @@ turns off coloring setting it back. Sometimes if this is forgotten it
 can leave your command line stuck in a given color causing you to
 logout and back in to get it back.
 
-### [⏫ What about clearing the screen and random colors?](#table-of-contents)
+### [⏫ What about clearing the screen and random colors?](#)
 
 Everyone wants to know about these immediately.  Notice there are
 some special entries in the list:
@@ -308,7 +308,7 @@ some special entries in the list:
 
 These are fun and convenient. Try them out.
 
-## [⏫ Spinning Emoji Earth Globe](#table-of-contents)
+## [⏫ Spinning Emoji Earth Globe](#)
 
 > Concepts: Unicode, Code for the World, Emojis, `from`, `import`
 
@@ -354,7 +354,7 @@ print(c.clear + c.multi("Hello world!") + earth_americas)
 > we cover in a later lesson, and Googling about `from time import sleep`
 > see if you can make the `earth*` emojis rotate with a simple animation.
 
-## [⏫ Beads on a Necklace](#table-of-contents)
+## [⏫ Beads on a Necklace](#)
 
 > Concepts: Strings, Quotes, `Join Operator`, `+`
 
@@ -374,7 +374,7 @@ and make each a different color by joining in another color code. Keep
 in mind you only need one `print()`. Everything should change inside
 of the parentheses `()`.
 
-## [⏫ Action](#table-of-contents)
+## [⏫ Action](#)
 
 > Concepts: Actions, Functions, Function Call
 
@@ -385,7 +385,7 @@ Python3 `print()` is one of these. We will go into functions in
 much more detail later, but it is good to understand the idea now.
 For now just know that `print()` is a ***function call***.
 
-## [⏫ Paying for Air](#table-of-contents)
+## [⏫ Paying for Air](#)
 
 > Concepts: Arguments, Parameters
 
@@ -409,7 +409,7 @@ at least one.
 
 We’ll return to this concept soon.
 
-## [⏫ Final Comment](#table-of-contents)
+## [⏫ Final Comment](#)
 
 > Concepts: Comments, `'''`, `"""`, `pydoc3`, `pydoc`
 
@@ -443,7 +443,7 @@ even if you are sure you thing no one will ever see your code. The you
 of a year from now will appreciate the you now who takes this extra
 effort.
 
-## [⏫ Do It Again](#table-of-contents)
+## [⏫ Do It Again](#)
 
 > Concepts: Repetition, Athletic Software Engineering
 
@@ -466,7 +466,7 @@ someone with 30 wpm typing speed should be way under a minute to
 complete. Work hard to get there and not have to look up
 anything—particularly the shebang line.
 
-## [⏫ Conclusion](#table-of-contents)
+## [⏫ Conclusion](#)
 
 *Hello World* is a simple program but we’ve used this opportunity to
 learn all the stuff you need to do to get a script to run from the
