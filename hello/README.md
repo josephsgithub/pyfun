@@ -307,6 +307,46 @@ some special entries in the list:
 
 These are fun and convenient. Try them out.
 
+## Spinning Emoji Earth Globe
+
+> Concepts: Unicode, Code for the World, Emojis, `from`, `import`
+
+![](/assets/hello.gif)
+
+One of the best things about Python3 is that is has built in support
+for [Unicode Characters](http://unicode-table.com/en/). As controversial
+as this was to break all Python 2 code when they added it, it was
+well worth it—and not just so we could make a spinning world.
+*Unicode* allows all the worlds languages and every other symbol
+to be included, not just the original 256 ASCII characters. The ***emojis***
+of the `earth_americas`, `earth_asia`, and `earth_africa` are just some
+of the [1693 we have added for you to use](http://emoji.skilstak.io).
+
+> 💬 We live in the world we are greeting. Never forget that when
+> you write code. Code for the world to use, not just England, not just
+> Russia, not just America. When you have this code-for-the-world mentality
+> you do things naturally that make sense globally, like keeping your
+> code that contains language in one place so it can be translated easily.
+
+To add the emojis we will use a different form of `import` that we
+will discuss in depth in other lessons. Add the following line near
+your other `import`:
+
+```python
+from emoji import earth_americas, earth_asia, earth_australia
+```
+
+When we import using `from` we do not have to type the prefix at
+all, which makes our print line look like the following:
+
+```python
+print(c.clear + c.multi("Hello world!") + earth_americas)
+```
+
+> 💪 Knowing what you know from CodeCombat about `while True:`, which 
+> we cover in a later lesson, and Googling about `from time import sleep`
+> see if you can make the `earth*` emojis rotate with a simple animation.
+
 ## [⏫ Beads on a Necklace](#table-of-contents)
 
 > Concepts: Strings, Quotes, `Join Operator`, `+`
