@@ -313,6 +313,11 @@ These are fun and convenient. Try them out.
 
 ![](/assets/hello.gif)
 
+> 💬 By the way, don’t even try this on Windows command line. If you 
+> are forced to use that inferior operating system make sure you
+> use CodeAnywhere for this part. Add lack of unicode support to the
+> list of [many Microsoft fails](https://github.com/skilstak/faq/blob/gh-pages/microsoft.md).
+
 One of the best things about Python3 is that is has built in support
 for [Unicode Characters](http://unicode-table.com/en/). As controversial
 as this was to break all Python 2 code when they added it, it was
