@@ -3,12 +3,12 @@
 Wanna take your skills beyond the fundamentals? Here are some
 resources to keep you going.
 
-## Dive Into Python 3
+## [⏫ Dive Into Python 3](#)
 This is an entire book available for free online, even as a GitHub
 repo. This is an excellent continuation into topics beyond the
 fundamentals.
 
-## Warning
+## [⏫ Warning](#)
 * Do NOT use codeacademy.com to learn Python since it is currently
   only Python 2.
  ---

@@ -3,7 +3,7 @@
 > This summary of Python history is by no means complete, just an
 > overview.
 
-## Guido's Christmas Present Named After Monty Python
+## [⏫ Guido's Christmas Present Named After Monty Python](#)
 
 Python was created in 1989 over Christmas when Guido van Rossum
 wanted something fun to do. A Monty Python fan, (aren’t we all), he
@@ -26,14 +26,14 @@ of compiled Python.)
 > of many enterprises so much that they have even replaced the much
 > more formal Java with Python.
 
-## Whitespace Novelty
+## [⏫ Whitespace Novelty](#)
 
 Python was really the first language to use whitespace as a part
 of the language.  This was really jarring and unheard of at the
 time. Today whitespace is commonly accepted as a part of syntax by
 many other languages.
 
-## Best First Language to Learn
+## [⏫ Best First Language to Learn](#)
 
 Many blogs and articles have been written confirming this but perhaps
 the biggest example was when MIT dropped Java for Python for
