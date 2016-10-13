@@ -42,7 +42,7 @@ those things as well as the actually programming part.
 Sounds like a band name. As cool as they are these two commands
 would have trouble getting dates, too nerdy. But they are
 definitely our friends. `touch` is a simple but little known command
-that started out life just to update the time stamp on a give file
+that started out life just to update the time stamp on a given file
 showing when it was last modified but has become known as a nice
 shortcut for creating an empty file.
 
