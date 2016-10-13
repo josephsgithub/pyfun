@@ -89,7 +89,7 @@ recent version of Python.
 18. [**Quiz Game** (`quiz`)](quiz/README.md)
 19. [**Holiday Lights** (`lights`)](lights/README.md)
 20. [**My Lights Lib** (`mylights`)](mylights/README.md)
-21. [**Word Bomb** (`wordbomb`)](wordbomb/README.md)
+21. [**Guess** (`guess`)](guess/README.md)
 22. [**Arena** (`arena`)](arena/README.md)
 23. [**Hi There!** (`battleship`)](battleship/README.md)
 24. [**Pokemon API** (`pokeapi`)](pokeapi/README.md)
