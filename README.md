@@ -1,7 +1,7 @@
 # [Fundamentals in Python][work]
 [work]: https://github.com/skilstak/pyfun-work/blob/master/README.md
 
-***Currently a work in progress as we port our content to this [GitHub
+***🚧 Currently a work in progress as we port our content to this [GitHub
 classroom textbook][text-work].***
 
 > 💬 [This *work*book goes with a *text*book][📖]
@@ -10,25 +10,7 @@ classroom textbook][text-work].***
 > room. We invite teachers and parents to read 
 > 🍎[*Welcome Teachers!*][🍎]
 
-[text-work]: https://blog.skilstak.io/github-as-text-book-and-work-book-828ffada9542#.etr9ts7me
-
 ![](/assets/python.png)
-
-> This *text*book goes with a *work*book. To get your workbook ask your
-> instructor for an invite or find it in your course chat room.
-> When you accept the invite GitHub Classrooms will create your 
-> personal, private workbook by copying the workbook starter repo.
-> 
-> For questions about anything in the course including your projects
-> and assignments you can create an issue on your workbook and your
-> instructor will see it. You can also ask in the course chat.
-> 
-> If you catch spelling issues or other errors with either this textbook
-> or the starter workbook (click title) please open issues on them
-> suggesting corrections.
-> 
-> Teachers and parents are encouraged to
-> read [*Welcome Teachers!*](teachers/README.md)
 
 ## Summary
 
@@ -116,6 +98,10 @@ recent version of Python.
   8. [**Next**](teachers/README.md#user-content--next)
   9. [**Contributing**](teachers/README.md#user-content--contributing)
   10. [**Copyright**](teachers/README.md#user-content--copyright)
+
+[🍎]: https://github.com/skilstak/pyfun/blob/gh-pages/teachers/README.md
+[📖]: http://pyfun.skilstak.io
+[text-work]: https://blog.skilstak.io/github-as-text-book-and-work-book-828ffada9542#.etr9ts7me
 
 ---
 [![home](/assets/home-bw.png)](/README.md)
