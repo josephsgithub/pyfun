@@ -39,14 +39,13 @@ This function causes the program to pause and wait for the user to
 type something in. When the user presses enter whatever the user
 typed is put into `name`.
 
-
 The `name` is a ***variable***. Say that out loud a few times to
 get used to the word. Think of variables as boxes that can only
 hold one thing at a time. If you put something else into it, it
 pushes out what was already there.  You can add something to the
 thing that is in the box already, but we will talk about that later.
 
-> 💬 The verb *to vary* means to differ or change from one form to
+> 👓 The verb *to vary* means to differ or change from one form to
 > another. The word *variable* comes from this and is also used in
 
 Variables are how we get the computer and our script to remember
@@ -68,7 +67,7 @@ school teacher. Truth is that symbol disguised as an equals sign
 is actually not an equals sign at all, it is an ***assignment
 operator***. Don’t call it ‘equals’ because that is not what it is. 
 
-> 💬 To *assign* something means to set it aside for a specifi
+> 👓 To *assign* something means to set it aside for a specific
 > purpose or to give something a specific job or duty. You
 > may know the word from “assigned seating” or being “assigned”
 > clean up duty or to a team.
