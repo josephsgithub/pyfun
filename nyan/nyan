@@ -1,11 +1,46 @@
 #!/usr/bin/env python3
-'''An extremely annoying program modeled after the meme'''
+'''Prints an annoying amount of "nyan" to the screen'''
 
 import colors as c
+from time import sleep
+from emoji import cat_face_with_tears_of_joy, cat
+
+face = cat_face_with_tears_of_joy
+
+left = 20
+top = 9
+
+F1 =  (c.clear + top * '\n' + 
+    c.r + ' -' * left + c.m + ' ,------,\n' + 
+    c.o + '- ' * left + c.m + '|       |\n' +
+    c.y + ' -' * left + c.m + '|    ' + c.b3 + '/\_/\\\n' +
+    c.g + '- ' * (left-1) + c.b3 + ' ~' + c.m + "|___" + c.b3 + '(_^_.^)\n' +
+    c.b + ' -' * left + c.b3 + ' "  "\n' +
+    c.v + '- ' * left
+)
+
+
+F2 = (c.clear +  top * '\n' + 
+    c.r + '- ' * left + c.m + ' ,------,\n' +
+    c.o + ' -' * left + c.m + '|       |\n' +
+    c.y + '- ' * left + c.m + '|    ' + c.b3 + '/\_/\\\n' +
+    c.g + ' -' * (left-1) + c.b3 + ' ~' + c.m + "|___" + c.b3 + '(_^_.^)\n' +
+    c.b + '- ' * left + c.b3 + '     "  "\n' +
+    c.v + ' -' * left
+)
 
 try:
-
     while True:
-        print(c.random() + "🐱 Nyan" + c.x, end=" " )
+        print(cat + c.random() + "  Nyan", end=" ")
 except KeyboardInterrupt:
-    print("Awwww man. 🎩")
+    try:
+        while True:
+            print(F1)
+            sleep(0.2)
+            print(F2)
+            sleep(0.2)
+    except KeyboardInterrupt:
+            print(c.clear + 10 * '\n')
+            print(' ' * 30 + face + "  Awww, man. " + face)
+            print(10 * '\n')
+

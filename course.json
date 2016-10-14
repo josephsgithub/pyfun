@@ -1,4 +1,442 @@
 {
+  "parts": {
+    "mtable": {
+      "parts": [],
+      "title": "Multiplication Tables"
+    },
+    "story": {
+      "parts": [],
+      "title": "Story"
+    },
+    "madforms": {
+      "parts": [],
+      "title": "Mad Forms"
+    },
+    "teachers": {
+      "parts": [
+        {
+          "concepts": [],
+          "short": "prerequisites",
+          "title": "Prerequisites"
+        },
+        {
+          "concepts": [],
+          "short": "age",
+          "title": "Age"
+        },
+        {
+          "concepts": [],
+          "short": "time",
+          "title": "Time"
+        },
+        {
+          "concepts": [],
+          "short": "rubrics",
+          "title": "Rubrics"
+        },
+        {
+          "concepts": [],
+          "short": "resources",
+          "title": "Resources"
+        },
+        {
+          "concepts": [],
+          "short": "encrypted-solutions",
+          "title": "Encrypted Solutions"
+        },
+        {
+          "concepts": [],
+          "short": "other",
+          "title": "Other"
+        },
+        {
+          "concepts": [],
+          "short": "next",
+          "title": "Next"
+        },
+        {
+          "concepts": [],
+          "short": "contributing",
+          "title": "Contributing"
+        },
+        {
+          "concepts": [],
+          "short": "copyright",
+          "title": "Copyright"
+        }
+      ],
+      "title": "\ud83c\udf4e Welcome Teachers!"
+    },
+    "gen": {
+      "parts": [],
+      "title": "Character Generator"
+    },
+    "bridge": {
+      "parts": [],
+      "title": "Bridge Keeper"
+    },
+    "quiz": {
+      "parts": [],
+      "title": "Quiz Game"
+    },
+    "history": {
+      "parts": [
+        {
+          "concepts": [],
+          "short": "guidos-christmas-present-named-after-monty-python",
+          "title": "Guido's Christmas Present Named After Monty Python"
+        },
+        {
+          "concepts": [],
+          "short": "whitespace-novelty",
+          "title": "Whitespace Novelty"
+        },
+        {
+          "concepts": [],
+          "short": "best-first-language-to-learn",
+          "title": "Best First Language to Learn"
+        }
+      ],
+      "title": "Short History of Python"
+    },
+    "why": {
+      "parts": [
+        {
+          "concepts": [],
+          "short": "easy",
+          "title": "Easy"
+        },
+        {
+          "concepts": [],
+          "short": "everywhere",
+          "title": "Everywhere"
+        },
+        {
+          "concepts": [],
+          "short": "powerful",
+          "title": "Powerful"
+        },
+        {
+          "concepts": [],
+          "short": "versatile",
+          "title": "Versatile"
+        },
+        {
+          "concepts": [],
+          "short": "mature",
+          "title": "Mature"
+        }
+      ],
+      "title": "Why Python?"
+    },
+    "guess": {
+      "parts": [],
+      "title": "Guess"
+    },
+    "eightball": {
+      "parts": [],
+      "title": "Magic Eightball"
+    },
+    "pokeapi": {
+      "parts": [],
+      "title": "Pokemon API"
+    },
+    "battleship": {
+      "parts": [],
+      "title": "Hi There!"
+    },
+    "hi": {
+      "parts": [
+        {
+          "concepts": [],
+          "short": "the-usual",
+          "title": "The Usual"
+        },
+        {
+          "concepts": [
+            "`input()`",
+            "Variables",
+            "Operators",
+            "`=`",
+            "Constants"
+          ],
+          "short": "prompting-for-input",
+          "title": "Prompting for Input"
+        },
+        {
+          "concepts": [
+            "Assignment",
+            "Assignment Operator",
+            "`=`",
+            "Operator",
+            "Operand"
+          ],
+          "short": "where-is-your-assignment",
+          "title": "Where is Your Assignment?"
+        },
+        {
+          "concepts": [
+            "Functions",
+            "Procedures",
+            "Side Effects",
+            "Functional Programming Paradigm"
+          ],
+          "short": "difference-between-functions-and-procedures",
+          "title": "Difference Between Functions and Procedures"
+        },
+        {
+          "concepts": [
+            "REPL",
+            "Interactive Text Adventures",
+            "Stories"
+          ],
+          "short": "conclusion",
+          "title": "Conclusion"
+        }
+      ],
+      "title": "Hi There!"
+    },
+    "bincount": {
+      "parts": [],
+      "title": "Binary Counter"
+    },
+    "nyan": {
+      "parts": [
+        {
+          "concepts": [],
+          "short": "nyan-what",
+          "title": "Nyan What?"
+        },
+        {
+          "concepts": [],
+          "short": "conclusion",
+          "title": "Conclusion"
+        }
+      ],
+      "title": "Nyan, Nyan, STOP!"
+    },
+    "mylights": {
+      "parts": [],
+      "title": "My Lights Lib"
+    },
+    "hello": {
+      "parts": [
+        {
+          "concepts": [],
+          "short": "history",
+          "title": "History"
+        },
+        {
+          "concepts": [
+            "`touch`",
+            "`chmod +x`",
+            "Permissions",
+            "Executable",
+            "Runnable",
+            "File",
+            "Script"
+          ],
+          "short": "touch-and-chmod",
+          "title": "Touch and Chmod"
+        },
+        {
+          "concepts": [
+            "`print()`",
+            "Strings",
+            "Quotes",
+            "`vim`",
+            "`vi`",
+            "Code Birthday"
+          ],
+          "short": "printing-text-to-the-screen",
+          "title": "Printing Text to the Screen"
+        },
+        {
+          "concepts": [
+            "Files",
+            "`$PATH`",
+            "`path`",
+            "`which`",
+            "`echo`",
+            "Full Path",
+            "Fully",
+            "Qualified Path",
+            "Root Path",
+            "`/`",
+            "`.`",
+            "`..`",
+            "`./`",
+            "`../`",
+            "`~`"
+          ],
+          "short": "files-and-path",
+          "title": "Files and `PATH`"
+        },
+        {
+          "concepts": [
+            "Shebang Line",
+            "`#!`",
+            "`env`",
+            "File System",
+            "Path"
+          ],
+          "short": "shuh-to-the-bang",
+          "title": "Shuh to the Bang"
+        },
+        {
+          "concepts": [
+            "`import`",
+            "`colors`",
+            "`as`",
+            "Using Python Modules",
+            "Terminal",
+            "Escapes",
+            "`c.random()`",
+            "`c.multi()`",
+            "`c.clear`"
+          ],
+          "short": "color-things-up",
+          "title": "Color Things Up"
+        },
+        {
+          "concepts": [
+            "Unicode",
+            "Code for the World",
+            "Emojis",
+            "`from`",
+            "`import`"
+          ],
+          "short": "spinning-emoji-earth-globe",
+          "title": "Spinning Emoji Earth Globe"
+        },
+        {
+          "concepts": [
+            "Strings",
+            "Quotes",
+            "`Join Operator`",
+            "`+`"
+          ],
+          "short": "beads-on-a-necklace",
+          "title": "Beads on a Necklace"
+        },
+        {
+          "concepts": [
+            "Actions",
+            "Functions",
+            "Function Call"
+          ],
+          "short": "action",
+          "title": "Action"
+        },
+        {
+          "concepts": [
+            "Arguments",
+            "Parameters"
+          ],
+          "short": "paying-for-air",
+          "title": "Paying for Air"
+        },
+        {
+          "concepts": [
+            "Comments",
+            "`'''`",
+            "`\"\"\"`",
+            "`pydoc3`",
+            "`pydoc`"
+          ],
+          "short": "final-comment",
+          "title": "Final Comment"
+        },
+        {
+          "concepts": [
+            "Repetition",
+            "Athletic Software Engineering"
+          ],
+          "short": "do-it-again",
+          "title": "Do It Again"
+        },
+        {
+          "concepts": [],
+          "short": "conclusion",
+          "title": "Conclusion"
+        }
+      ],
+      "title": "Hello World"
+    },
+    "rps": {
+      "parts": [],
+      "title": "Rock, Paper, Scissors"
+    },
+    "arena": {
+      "parts": [],
+      "title": "Arena"
+    },
+    "roll": {
+      "parts": [],
+      "title": "Dice Roll"
+    },
+    "waffles": {
+      "parts": [],
+      "title": "Do You Like Waffles?"
+    },
+    "arrrgs": {
+      "parts": [],
+      "title": "Arrrgs"
+    },
+    "more": {
+      "parts": [
+        {
+          "concepts": [],
+          "short": "dive-into-python-3",
+          "title": "Dive Into Python 3"
+        },
+        {
+          "concepts": [],
+          "short": "warning",
+          "title": "Warning"
+        }
+      ],
+      "title": "More Python3 Learning Resources"
+    },
+    "not": {
+      "parts": [
+        {
+          "concepts": [],
+          "short": "concurrency",
+          "title": "Concurrency"
+        },
+        {
+          "concepts": [],
+          "short": "not-a-web-language",
+          "title": "Not a Web Language"
+        },
+        {
+          "concepts": [],
+          "short": "slow",
+          "title": "Slow"
+        },
+        {
+          "concepts": [],
+          "short": "no-python-idle",
+          "title": "No Python IDLE?"
+        }
+      ],
+      "title": "When Not to Pick Python"
+    },
+    "wordbomb": {
+      "parts": [],
+      "title": "Word Bomb"
+    },
+    "badgers": {
+      "parts": [],
+      "title": "Badgers, Badgers, Badgers"
+    },
+    "lights": {
+      "parts": [],
+      "title": "Holiday Lights"
+    }
+  },
+  "title": "\ud83d\udcd6 Fundamentals in Python",
   "order": [
     "why",
     "not",
@@ -28,432 +466,5 @@
     "more",
     "teachers"
   ],
-  "summary": "",
-  "parts": {
-    "lights": {
-      "title": "Holiday Lights",
-      "parts": []
-    },
-    "teachers": {
-      "title": "\ud83c\udf4e Welcome Teachers!",
-      "parts": [
-        {
-          "short": "prerequisites",
-          "title": "Prerequisites",
-          "concepts": []
-        },
-        {
-          "short": "age",
-          "title": "Age",
-          "concepts": []
-        },
-        {
-          "short": "time",
-          "title": "Time",
-          "concepts": []
-        },
-        {
-          "short": "rubrics",
-          "title": "Rubrics",
-          "concepts": []
-        },
-        {
-          "short": "resources",
-          "title": "Resources",
-          "concepts": []
-        },
-        {
-          "short": "encrypted-solutions",
-          "title": "Encrypted Solutions",
-          "concepts": []
-        },
-        {
-          "short": "other",
-          "title": "Other",
-          "concepts": []
-        },
-        {
-          "short": "next",
-          "title": "Next",
-          "concepts": []
-        },
-        {
-          "short": "contributing",
-          "title": "Contributing",
-          "concepts": []
-        },
-        {
-          "short": "copyright",
-          "title": "Copyright",
-          "concepts": []
-        }
-      ]
-    },
-    "hello": {
-      "title": "Hello World",
-      "parts": [
-        {
-          "short": "history",
-          "title": "History",
-          "concepts": []
-        },
-        {
-          "short": "touch-and-chmod",
-          "title": "Touch and Chmod",
-          "concepts": [
-            "`touch`",
-            "`chmod +x`",
-            "Permissions",
-            "Executable",
-            "Runnable",
-            "File",
-            "Script"
-          ]
-        },
-        {
-          "short": "printing-text-to-the-screen",
-          "title": "Printing Text to the Screen",
-          "concepts": [
-            "`print()`",
-            "Strings",
-            "Quotes",
-            "`vim`",
-            "`vi`",
-            "Code Birthday"
-          ]
-        },
-        {
-          "short": "files-and-path",
-          "title": "Files and `PATH`",
-          "concepts": [
-            "Files",
-            "`$PATH`",
-            "`path`",
-            "`which`",
-            "`echo`",
-            "Full Path",
-            "Fully",
-            "Qualified Path",
-            "Root Path",
-            "`/`",
-            "`.`",
-            "`..`",
-            "`./`",
-            "`../`",
-            "`~`"
-          ]
-        },
-        {
-          "short": "shuh-to-the-bang",
-          "title": "Shuh to the Bang",
-          "concepts": [
-            "Shebang Line",
-            "`#!`",
-            "`env`",
-            "File System",
-            "Path"
-          ]
-        },
-        {
-          "short": "color-things-up",
-          "title": "Color Things Up",
-          "concepts": [
-            "`import`",
-            "`colors`",
-            "`as`",
-            "Using Python Modules",
-            "Terminal",
-            "Escapes",
-            "`c.random()`",
-            "`c.multi()`",
-            "`c.clear`"
-          ]
-        },
-        {
-          "short": "spinning-emoji-earth-globe",
-          "title": "Spinning Emoji Earth Globe",
-          "concepts": [
-            "Unicode",
-            "Code for the World",
-            "Emojis",
-            "`from`",
-            "`import`"
-          ]
-        },
-        {
-          "short": "beads-on-a-necklace",
-          "title": "Beads on a Necklace",
-          "concepts": [
-            "Strings",
-            "Quotes",
-            "`Join Operator`",
-            "`+`"
-          ]
-        },
-        {
-          "short": "action",
-          "title": "Action",
-          "concepts": [
-            "Actions",
-            "Functions",
-            "Function Call"
-          ]
-        },
-        {
-          "short": "paying-for-air",
-          "title": "Paying for Air",
-          "concepts": [
-            "Arguments",
-            "Parameters"
-          ]
-        },
-        {
-          "short": "final-comment",
-          "title": "Final Comment",
-          "concepts": [
-            "Comments",
-            "`'''`",
-            "`\"\"\"`",
-            "`pydoc3`",
-            "`pydoc`"
-          ]
-        },
-        {
-          "short": "do-it-again",
-          "title": "Do It Again",
-          "concepts": [
-            "Repetition",
-            "Athletic Software Engineering"
-          ]
-        },
-        {
-          "short": "conclusion",
-          "title": "Conclusion",
-          "concepts": []
-        }
-      ]
-    },
-    "more": {
-      "title": "More Python3 Learning Resources",
-      "parts": [
-        {
-          "short": "dive-into-python-3",
-          "title": "Dive Into Python 3",
-          "concepts": []
-        },
-        {
-          "short": "warning",
-          "title": "Warning",
-          "concepts": []
-        }
-      ]
-    },
-    "rps": {
-      "title": "Rock, Paper, Scissors",
-      "parts": []
-    },
-    "bincount": {
-      "title": "Binary Counter",
-      "parts": []
-    },
-    "mylights": {
-      "title": "My Lights Lib",
-      "parts": []
-    },
-    "quiz": {
-      "title": "Quiz Game",
-      "parts": []
-    },
-    "madforms": {
-      "title": "Mad Forms",
-      "parts": []
-    },
-    "hi": {
-      "title": "Hi There!",
-      "parts": [
-        {
-          "short": "the-usual",
-          "title": "The Usual",
-          "concepts": []
-        },
-        {
-          "short": "prompting-for-input",
-          "title": "Prompting for Input",
-          "concepts": [
-            "`input()`",
-            "Variables",
-            "Operators",
-            "`=`",
-            "Constants"
-          ]
-        },
-        {
-          "short": "where-is-your-assignment",
-          "title": "Where is Your Assignment?",
-          "concepts": [
-            "Assignment",
-            "Assignment Operator",
-            "`=`",
-            "Operator",
-            "Operand"
-          ]
-        },
-        {
-          "short": "difference-between-functions-and-procedures",
-          "title": "Difference Between Functions and Procedures",
-          "concepts": [
-            "Functions",
-            "Procedures",
-            "Side Effects",
-            "Functional Programming Paradigm"
-          ]
-        },
-        {
-          "short": "conclusion",
-          "title": "Conclusion",
-          "concepts": [
-            "REPL",
-            "Interactive Text Adventures",
-            "Stories"
-          ]
-        }
-      ]
-    },
-    "eightball": {
-      "title": "Magic Eightball",
-      "parts": []
-    },
-    "arrrgs": {
-      "title": "Arrrgs",
-      "parts": []
-    },
-    "roll": {
-      "title": "Dice Roll",
-      "parts": []
-    },
-    "wordbomb": {
-      "title": "Word Bomb",
-      "parts": []
-    },
-    "why": {
-      "title": "Why Python?",
-      "parts": [
-        {
-          "short": "easy",
-          "title": "Easy",
-          "concepts": []
-        },
-        {
-          "short": "everywhere",
-          "title": "Everywhere",
-          "concepts": []
-        },
-        {
-          "short": "powerful",
-          "title": "Powerful",
-          "concepts": []
-        },
-        {
-          "short": "versatile",
-          "title": "Versatile",
-          "concepts": []
-        },
-        {
-          "short": "mature",
-          "title": "Mature",
-          "concepts": []
-        }
-      ]
-    },
-    "bridge": {
-      "title": "Bridge Keeper",
-      "parts": []
-    },
-    "arena": {
-      "title": "Arena",
-      "parts": []
-    },
-    "guess": {
-      "title": "Guess",
-      "parts": []
-    },
-    "gen": {
-      "title": "Character Generator",
-      "parts": []
-    },
-    "mtable": {
-      "title": "Multiplication Tables",
-      "parts": []
-    },
-    "waffles": {
-      "title": "Do You Like Waffles?",
-      "parts": []
-    },
-    "pokeapi": {
-      "title": "Pokemon API",
-      "parts": []
-    },
-    "history": {
-      "title": "Short History of Python",
-      "parts": [
-        {
-          "short": "guidos-christmas-present-named-after-monty-python",
-          "title": "Guido's Christmas Present Named After Monty Python",
-          "concepts": []
-        },
-        {
-          "short": "whitespace-novelty",
-          "title": "Whitespace Novelty",
-          "concepts": []
-        },
-        {
-          "short": "best-first-language-to-learn",
-          "title": "Best First Language to Learn",
-          "concepts": []
-        }
-      ]
-    },
-    "story": {
-      "title": "Story",
-      "parts": []
-    },
-    "not": {
-      "title": "When Not to Pick Python",
-      "parts": [
-        {
-          "short": "concurrency",
-          "title": "Concurrency",
-          "concepts": []
-        },
-        {
-          "short": "not-a-web-language",
-          "title": "Not a Web Language",
-          "concepts": []
-        },
-        {
-          "short": "slow",
-          "title": "Slow",
-          "concepts": []
-        },
-        {
-          "short": "no-python-idle",
-          "title": "No Python IDLE?",
-          "concepts": []
-        }
-      ]
-    },
-    "battleship": {
-      "title": "Hi There!",
-      "parts": []
-    },
-    "nyan": {
-      "title": "Nyan, Nyan, STOP!",
-      "parts": []
-    },
-    "badgers": {
-      "title": "Badgers, Badgers, Badgers",
-      "parts": []
-    }
-  },
-  "title": "\ud83d\udcd6 Fundamentals in Python"
+  "summary": ""
 }

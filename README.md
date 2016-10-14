@@ -72,6 +72,8 @@ recent version of Python.
   5. [**Conclusion**](hi/README.md#user-content--conclusion)
       <br>💡 REPL ◦ Interactive Text Adventures ◦ Stories
 6. [**Nyan, Nyan, STOP!** (`nyan`)](nyan/README.md)
+  1. [**Nyan What?**](nyan/README.md#user-content--nyan-what)
+  2. [**Conclusion**](nyan/README.md#user-content--conclusion)
 7. [**Do You Like Waffles?** (`waffles`)](waffles/README.md)
 8. [**Badgers, Badgers, Badgers** (`badgers`)](badgers/README.md)
 9. [**Magic Eightball** (`eightball`)](eightball/README.md)
