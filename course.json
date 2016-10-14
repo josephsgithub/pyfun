@@ -1,140 +1,66 @@
 {
+  "title": "\ud83d\udcd6 Fundamentals in Python",
+  "summary": "**Welcome to Python!** In this course you will learn the fundamentals of programming in Python. Concepts include variables, operators, blocks, logic, loops, data types, lists, dictionaries, functions, exceptions, unit testing, classes, files, json, web api consumption, and basic code organization. This course covers Python 3.5+, the most recent version of Python. ",
+  "order": [
+    "why",
+    "not",
+    "history",
+    "hello",
+    "hi",
+    "nyan",
+    "waffles",
+    "badgers",
+    "eightball",
+    "bridge",
+    "rps",
+    "arrrgs",
+    "roll",
+    "mtable",
+    "madforms",
+    "bincount",
+    "gen",
+    "quiz",
+    "lights",
+    "mylights",
+    "guess",
+    "arena",
+    "battleship",
+    "pokeapi",
+    "story",
+    "more",
+    "teachers"
+  ],
   "parts": {
-    "history": {
-      "parts": [
-        {
-          "concepts": [],
-          "title": "Guido's Christmas Present Named After Monty Python",
-          "short": "guidos-christmas-present-named-after-monty-python"
-        },
-        {
-          "concepts": [],
-          "title": "Whitespace Novelty",
-          "short": "whitespace-novelty"
-        },
-        {
-          "concepts": [],
-          "title": "Best First Language to Learn",
-          "short": "best-first-language-to-learn"
-        }
-      ],
-      "title": "Short History of Python"
-    },
-    "roll": {
-      "parts": [],
-      "title": "Dice Roll"
-    },
-    "story": {
-      "parts": [],
-      "title": "Story"
-    },
-    "teachers": {
-      "parts": [
-        {
-          "concepts": [],
-          "title": "Prerequisites",
-          "short": "prerequisites"
-        },
-        {
-          "concepts": [],
-          "title": "Age",
-          "short": "age"
-        },
-        {
-          "concepts": [],
-          "title": "Time",
-          "short": "time"
-        },
-        {
-          "concepts": [],
-          "title": "Rubrics",
-          "short": "rubrics"
-        },
-        {
-          "concepts": [],
-          "title": "Resources",
-          "short": "resources"
-        },
-        {
-          "concepts": [],
-          "title": "Encrypted Solutions",
-          "short": "encrypted-solutions"
-        },
-        {
-          "concepts": [],
-          "title": "Other",
-          "short": "other"
-        },
-        {
-          "concepts": [],
-          "title": "Next",
-          "short": "next"
-        },
-        {
-          "concepts": [],
-          "title": "Contributing",
-          "short": "contributing"
-        },
-        {
-          "concepts": [],
-          "title": "Copyright",
-          "short": "copyright"
-        }
-      ],
-      "title": "\ud83c\udf4e Welcome Teachers!"
-    },
-    "nyan": {
-      "parts": [],
-      "title": "Nyan, Nyan, STOP!"
-    },
-    "quiz": {
-      "parts": [],
-      "title": "Quiz Game"
+    "eightball": {
+      "title": "Magic Eightball",
+      "parts": []
     },
     "arena": {
-      "parts": [],
-      "title": "Arena"
+      "title": "Arena",
+      "parts": []
     },
-    "bincount": {
+    "wordbomb": {
       "parts": [],
-      "title": "Binary Counter"
-    },
-    "madforms": {
-      "parts": [],
-      "title": "Mad Forms"
-    },
-    "guess": {
-      "parts": [],
-      "title": "Guess"
+      "title": "Word Bomb"
     },
     "mtable": {
-      "parts": [],
-      "title": "Multiplication Tables"
+      "title": "Multiplication Tables",
+      "parts": []
     },
-    "lights": {
-      "parts": [],
-      "title": "Holiday Lights"
+    "arrrgs": {
+      "title": "Arrrgs",
+      "parts": []
     },
-    "more": {
-      "parts": [
-        {
-          "concepts": [],
-          "title": "Dive Into Python 3",
-          "short": "dive-into-python-3"
-        },
-        {
-          "concepts": [],
-          "title": "Warning",
-          "short": "warning"
-        }
-      ],
-      "title": "More Python3 Learning Resources"
+    "guess": {
+      "title": "Guess",
+      "parts": []
     },
-    "bridge": {
-      "parts": [],
-      "title": "Bridge Keeper"
+    "roll": {
+      "title": "Dice Roll",
+      "parts": []
     },
     "not": {
+      "title": "When Not to Pick Python",
       "parts": [
         {
           "concepts": [],
@@ -156,54 +82,10 @@
           "title": "No Python IDLE?",
           "short": "no-python-idle"
         }
-      ],
-      "title": "When Not to Pick Python"
-    },
-    "wordbomb": {
-      "parts": [],
-      "title": "Word Bomb"
-    },
-    "arrrgs": {
-      "parts": [],
-      "title": "Arrrgs"
-    },
-    "gen": {
-      "parts": [],
-      "title": "Character Generator"
-    },
-    "rps": {
-      "parts": [],
-      "title": "Rock, Paper, Scissors"
-    },
-    "pokeapi": {
-      "parts": [],
-      "title": "Pokemon API"
-    },
-    "battleship": {
-      "parts": [],
-      "title": "Hi There!"
-    },
-    "badgers": {
-      "parts": [],
-      "title": "Badgers, Badgers, Badgers"
-    },
-    "hi": {
-      "parts": [],
-      "title": "Hi There!"
-    },
-    "mylights": {
-      "parts": [],
-      "title": "My Lights Lib"
-    },
-    "waffles": {
-      "parts": [],
-      "title": "Do You Like Waffles?"
-    },
-    "eightball": {
-      "parts": [],
-      "title": "Magic Eightball"
+      ]
     },
     "why": {
+      "title": "Why Python?",
       "parts": [
         {
           "concepts": [],
@@ -230,10 +112,18 @@
           "title": "Mature",
           "short": "mature"
         }
-      ],
-      "title": "Why Python?"
+      ]
+    },
+    "lights": {
+      "title": "Holiday Lights",
+      "parts": []
+    },
+    "rps": {
+      "title": "Rock, Paper, Scissors",
+      "parts": []
     },
     "hello": {
+      "title": "Hello World",
       "parts": [
         {
           "concepts": [],
@@ -374,39 +264,149 @@
           "title": "Conclusion",
           "short": "conclusion"
         }
-      ],
-      "title": "Hello World"
+      ]
+    },
+    "quiz": {
+      "title": "Quiz Game",
+      "parts": []
+    },
+    "story": {
+      "title": "Story",
+      "parts": []
+    },
+    "nyan": {
+      "title": "Nyan, Nyan, STOP!",
+      "parts": []
+    },
+    "bridge": {
+      "title": "Bridge Keeper",
+      "parts": []
+    },
+    "battleship": {
+      "title": "Hi There!",
+      "parts": []
+    },
+    "gen": {
+      "title": "Character Generator",
+      "parts": []
+    },
+    "teachers": {
+      "title": "\ud83c\udf4e Welcome Teachers!",
+      "parts": [
+        {
+          "concepts": [],
+          "title": "Prerequisites",
+          "short": "prerequisites"
+        },
+        {
+          "concepts": [],
+          "title": "Age",
+          "short": "age"
+        },
+        {
+          "concepts": [],
+          "title": "Time",
+          "short": "time"
+        },
+        {
+          "concepts": [],
+          "title": "Rubrics",
+          "short": "rubrics"
+        },
+        {
+          "concepts": [],
+          "title": "Resources",
+          "short": "resources"
+        },
+        {
+          "concepts": [],
+          "title": "Encrypted Solutions",
+          "short": "encrypted-solutions"
+        },
+        {
+          "concepts": [],
+          "title": "Other",
+          "short": "other"
+        },
+        {
+          "concepts": [],
+          "title": "Next",
+          "short": "next"
+        },
+        {
+          "concepts": [],
+          "title": "Contributing",
+          "short": "contributing"
+        },
+        {
+          "concepts": [],
+          "title": "Copyright",
+          "short": "copyright"
+        }
+      ]
+    },
+    "madforms": {
+      "title": "Mad Forms",
+      "parts": []
+    },
+    "pokeapi": {
+      "title": "Pokemon API",
+      "parts": []
+    },
+    "more": {
+      "title": "More Python3 Learning Resources",
+      "parts": [
+        {
+          "concepts": [],
+          "title": "Dive Into Python 3",
+          "short": "dive-into-python-3"
+        },
+        {
+          "concepts": [],
+          "title": "Warning",
+          "short": "warning"
+        }
+      ]
+    },
+    "waffles": {
+      "title": "Do You Like Waffles?",
+      "parts": []
+    },
+    "hi": {
+      "title": "Hi There!",
+      "parts": []
+    },
+    "mylights": {
+      "title": "My Lights Lib",
+      "parts": []
+    },
+    "badgers": {
+      "title": "Badgers, Badgers, Badgers",
+      "parts": []
+    },
+    "history": {
+      "title": "Short History of Python",
+      "parts": [
+        {
+          "concepts": [],
+          "title": "Guido's Christmas Present Named After Monty Python",
+          "short": "guidos-christmas-present-named-after-monty-python"
+        },
+        {
+          "concepts": [],
+          "title": "Whitespace Novelty",
+          "short": "whitespace-novelty"
+        },
+        {
+          "concepts": [],
+          "title": "Best First Language to Learn",
+          "short": "best-first-language-to-learn"
+        }
+      ]
+    },
+    "bincount": {
+      "title": "Binary Counter",
+      "parts": []
     }
-  },
-  "summary": "**Welcome to Python!** In this course you will learn the fundamentals of programming in Python. Concepts include variables, operators, blocks, logic, loops, data types, lists, dictionaries, functions, exceptions, unit testing, classes, files, json, web api consumption, and basic code organization. This course covers Python 3.5+, the most recent version of Python. ",
-  "title": "Fundamentals in Python",
-  "order": [
-    "why",
-    "not",
-    "history",
-    "hello",
-    "hi",
-    "nyan",
-    "waffles",
-    "badgers",
-    "eightball",
-    "bridge",
-    "rps",
-    "arrrgs",
-    "roll",
-    "mtable",
-    "madforms",
-    "bincount",
-    "gen",
-    "quiz",
-    "lights",
-    "mylights",
-    "guess",
-    "arena",
-    "battleship",
-    "pokeapi",
-    "story",
-    "more",
-    "teachers"
-  ]
+  }
 }

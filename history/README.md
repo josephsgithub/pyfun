@@ -1,7 +1,7 @@
 # [⏪ Short History of Python](/README.md)
 
-> This summary of Python history is by no means complete, just an
-> overview.
+> 💬 This summary of Python history is by no means complete,
+> just an overview.
 
 ## [⏫ Guido's Christmas Present Named After Monty Python](#)
 
@@ -20,7 +20,7 @@ Google loved Python so much they hired Guido for a time. (Some even
 say Go lang, another language from Google, was created as a sort
 of compiled Python.)
 
-> Perl is still a fantastic *shell* programming language–particularly
+> 💬 Perl is still a fantastic *shell* programming language–particularly
 > for one-liners much like the `sed` and `awk` equivalents `perl` was
 > originally designed to replace, but Python has garnered the trust
 > of many enterprises so much that they have even replaced the much
