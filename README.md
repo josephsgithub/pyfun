@@ -1,4 +1,4 @@
-# [Fundamentals in Python][work]
+# 📖 [Fundamentals in Python][work]
 [work]: https://github.com/skilstak/pyfun-work/blob/master/README.md
 
 🚧 ***Currently a work in progress as we port our content to this [GitHub
