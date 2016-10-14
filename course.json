@@ -1,60 +1,57 @@
 {
+  "order": [
+    "why",
+    "not",
+    "history",
+    "hello",
+    "hi",
+    "nyan",
+    "waffles",
+    "badgers",
+    "eightball",
+    "bridge",
+    "rps",
+    "arrrgs",
+    "roll",
+    "mtable",
+    "madforms",
+    "bincount",
+    "gen",
+    "quiz",
+    "lights",
+    "mylights",
+    "guess",
+    "arena",
+    "battleship",
+    "pokeapi",
+    "story",
+    "more",
+    "teachers"
+  ],
   "summary": "",
   "parts": {
-    "hi": {
-      "parts": [
-        {
-          "short": "the-usual",
-          "concepts": [],
-          "title": "The Usual"
-        },
-        {
-          "short": "prompting-for-input",
-          "concepts": [
-            "`input()`",
-            "REPL",
-            "Variables",
-            "Operators",
-            "`=`",
-            "Constants"
-          ],
-          "title": "Prompting for Input"
-        },
-        {
-          "short": "where-is-your-assignment",
-          "concepts": [
-            "Assignment",
-            "Assignment Operator",
-            "`=`",
-            "Operator",
-            "Operand"
-          ],
-          "title": "Where is Your Assignment?"
-        },
-        {
-          "short": "difference-between-functions-and-procedures",
-          "concepts": [
-            "Functions",
-            "Procedures",
-            "Side Effects",
-            "Functional",
-            "Programming Paradigm"
-          ],
-          "title": "Difference Between Functions and Procedures"
-        },
-        {
-          "short": "conclusion",
-          "concepts": [],
-          "title": "Conclusion"
-        }
-      ],
-      "title": "Hi There!"
+    "roll": {
+      "title": "Dice Roll",
+      "parts": []
+    },
+    "pokeapi": {
+      "title": "Pokemon API",
+      "parts": []
+    },
+    "nyan": {
+      "title": "Nyan, Nyan, STOP!",
+      "parts": []
+    },
+    "guess": {
+      "title": "Guess",
+      "parts": []
     },
     "badgers": {
-      "parts": [],
-      "title": "Badgers, Badgers, Badgers"
+      "title": "Badgers, Badgers, Badgers",
+      "parts": []
     },
     "not": {
+      "title": "When Not to Pick Python",
       "parts": [
         {
           "short": "concurrency",
@@ -76,38 +73,127 @@
           "concepts": [],
           "title": "No Python IDLE?"
         }
-      ],
-      "title": "When Not to Pick Python"
+      ]
     },
-    "history": {
+    "arrrgs": {
+      "title": "Arrrgs",
+      "parts": []
+    },
+    "quiz": {
+      "title": "Quiz Game",
+      "parts": []
+    },
+    "eightball": {
+      "title": "Magic Eightball",
+      "parts": []
+    },
+    "why": {
+      "title": "Why Python?",
       "parts": [
         {
-          "short": "guidos-christmas-present-named-after-monty-python",
+          "short": "easy",
           "concepts": [],
-          "title": "Guido's Christmas Present Named After Monty Python"
+          "title": "Easy"
         },
         {
-          "short": "whitespace-novelty",
+          "short": "everywhere",
           "concepts": [],
-          "title": "Whitespace Novelty"
+          "title": "Everywhere"
         },
         {
-          "short": "best-first-language-to-learn",
+          "short": "powerful",
           "concepts": [],
-          "title": "Best First Language to Learn"
+          "title": "Powerful"
+        },
+        {
+          "short": "versatile",
+          "concepts": [],
+          "title": "Versatile"
+        },
+        {
+          "short": "mature",
+          "concepts": [],
+          "title": "Mature"
         }
-      ],
-      "title": "Short History of Python"
+      ]
     },
-    "wordbomb": {
-      "parts": [],
-      "title": "Word Bomb"
+    "teachers": {
+      "title": "\ud83c\udf4e Welcome Teachers!",
+      "parts": [
+        {
+          "short": "prerequisites",
+          "concepts": [],
+          "title": "Prerequisites"
+        },
+        {
+          "short": "age",
+          "concepts": [],
+          "title": "Age"
+        },
+        {
+          "short": "time",
+          "concepts": [],
+          "title": "Time"
+        },
+        {
+          "short": "rubrics",
+          "concepts": [],
+          "title": "Rubrics"
+        },
+        {
+          "short": "resources",
+          "concepts": [],
+          "title": "Resources"
+        },
+        {
+          "short": "encrypted-solutions",
+          "concepts": [],
+          "title": "Encrypted Solutions"
+        },
+        {
+          "short": "other",
+          "concepts": [],
+          "title": "Other"
+        },
+        {
+          "short": "next",
+          "concepts": [],
+          "title": "Next"
+        },
+        {
+          "short": "contributing",
+          "concepts": [],
+          "title": "Contributing"
+        },
+        {
+          "short": "copyright",
+          "concepts": [],
+          "title": "Copyright"
+        }
+      ]
     },
-    "mylights": {
-      "parts": [],
-      "title": "My Lights Lib"
+    "gen": {
+      "title": "Character Generator",
+      "parts": []
+    },
+    "rps": {
+      "title": "Rock, Paper, Scissors",
+      "parts": []
+    },
+    "waffles": {
+      "title": "Do You Like Waffles?",
+      "parts": []
+    },
+    "madforms": {
+      "title": "Mad Forms",
+      "parts": []
+    },
+    "story": {
+      "title": "Story",
+      "parts": []
     },
     "hello": {
+      "title": "Hello World",
       "parts": [
         {
           "short": "history",
@@ -248,30 +334,26 @@
           "concepts": [],
           "title": "Conclusion"
         }
-      ],
-      "title": "Hello World"
+      ]
+    },
+    "mylights": {
+      "title": "My Lights Lib",
+      "parts": []
     },
     "arena": {
-      "parts": [],
-      "title": "Arena"
+      "title": "Arena",
+      "parts": []
     },
-    "lights": {
-      "parts": [],
-      "title": "Holiday Lights"
+    "battleship": {
+      "title": "Hi There!",
+      "parts": []
     },
-    "story": {
-      "parts": [],
-      "title": "Story"
-    },
-    "guess": {
-      "parts": [],
-      "title": "Guess"
-    },
-    "pokeapi": {
-      "parts": [],
-      "title": "Pokemon API"
+    "wordbomb": {
+      "title": "Word Bomb",
+      "parts": []
     },
     "more": {
+      "title": "More Python3 Learning Resources",
       "parts": [
         {
           "short": "dive-into-python-3",
@@ -283,175 +365,96 @@
           "concepts": [],
           "title": "Warning"
         }
-      ],
-      "title": "More Python3 Learning Resources"
-    },
-    "why": {
-      "parts": [
-        {
-          "short": "easy",
-          "concepts": [],
-          "title": "Easy"
-        },
-        {
-          "short": "everywhere",
-          "concepts": [],
-          "title": "Everywhere"
-        },
-        {
-          "short": "powerful",
-          "concepts": [],
-          "title": "Powerful"
-        },
-        {
-          "short": "versatile",
-          "concepts": [],
-          "title": "Versatile"
-        },
-        {
-          "short": "mature",
-          "concepts": [],
-          "title": "Mature"
-        }
-      ],
-      "title": "Why Python?"
-    },
-    "roll": {
-      "parts": [],
-      "title": "Dice Roll"
-    },
-    "battleship": {
-      "parts": [],
-      "title": "Hi There!"
-    },
-    "bridge": {
-      "parts": [],
-      "title": "Bridge Keeper"
-    },
-    "quiz": {
-      "parts": [],
-      "title": "Quiz Game"
-    },
-    "eightball": {
-      "parts": [],
-      "title": "Magic Eightball"
-    },
-    "waffles": {
-      "parts": [],
-      "title": "Do You Like Waffles?"
-    },
-    "bincount": {
-      "parts": [],
-      "title": "Binary Counter"
-    },
-    "nyan": {
-      "parts": [],
-      "title": "Nyan, Nyan, STOP!"
-    },
-    "rps": {
-      "parts": [],
-      "title": "Rock, Paper, Scissors"
-    },
-    "arrrgs": {
-      "parts": [],
-      "title": "Arrrgs"
-    },
-    "gen": {
-      "parts": [],
-      "title": "Character Generator"
-    },
-    "teachers": {
-      "parts": [
-        {
-          "short": "prerequisites",
-          "concepts": [],
-          "title": "Prerequisites"
-        },
-        {
-          "short": "age",
-          "concepts": [],
-          "title": "Age"
-        },
-        {
-          "short": "time",
-          "concepts": [],
-          "title": "Time"
-        },
-        {
-          "short": "rubrics",
-          "concepts": [],
-          "title": "Rubrics"
-        },
-        {
-          "short": "resources",
-          "concepts": [],
-          "title": "Resources"
-        },
-        {
-          "short": "encrypted-solutions",
-          "concepts": [],
-          "title": "Encrypted Solutions"
-        },
-        {
-          "short": "other",
-          "concepts": [],
-          "title": "Other"
-        },
-        {
-          "short": "next",
-          "concepts": [],
-          "title": "Next"
-        },
-        {
-          "short": "contributing",
-          "concepts": [],
-          "title": "Contributing"
-        },
-        {
-          "short": "copyright",
-          "concepts": [],
-          "title": "Copyright"
-        }
-      ],
-      "title": "\ud83c\udf4e Welcome Teachers!"
+      ]
     },
     "mtable": {
-      "parts": [],
-      "title": "Multiplication Tables"
+      "title": "Multiplication Tables",
+      "parts": []
     },
-    "madforms": {
-      "parts": [],
-      "title": "Mad Forms"
+    "bincount": {
+      "title": "Binary Counter",
+      "parts": []
+    },
+    "lights": {
+      "title": "Holiday Lights",
+      "parts": []
+    },
+    "hi": {
+      "title": "Hi There!",
+      "parts": [
+        {
+          "short": "the-usual",
+          "concepts": [],
+          "title": "The Usual"
+        },
+        {
+          "short": "prompting-for-input",
+          "concepts": [
+            "`input()`",
+            "Variables",
+            "Operators",
+            "`=`",
+            "Constants"
+          ],
+          "title": "Prompting for Input"
+        },
+        {
+          "short": "where-is-your-assignment",
+          "concepts": [
+            "Assignment",
+            "Assignment Operator",
+            "`=`",
+            "Operator",
+            "Operand"
+          ],
+          "title": "Where is Your Assignment?"
+        },
+        {
+          "short": "difference-between-functions-and-procedures",
+          "concepts": [
+            "Functions",
+            "Procedures",
+            "Side Effects",
+            "Functional",
+            "Programming Paradigm"
+          ],
+          "title": "Difference Between Functions and Procedures"
+        },
+        {
+          "short": "conclusion",
+          "concepts": [
+            "REPL",
+            "Interactive Text Adventures",
+            "Stories"
+          ],
+          "title": "Conclusion"
+        }
+      ]
+    },
+    "history": {
+      "title": "Short History of Python",
+      "parts": [
+        {
+          "short": "guidos-christmas-present-named-after-monty-python",
+          "concepts": [],
+          "title": "Guido's Christmas Present Named After Monty Python"
+        },
+        {
+          "short": "whitespace-novelty",
+          "concepts": [],
+          "title": "Whitespace Novelty"
+        },
+        {
+          "short": "best-first-language-to-learn",
+          "concepts": [],
+          "title": "Best First Language to Learn"
+        }
+      ]
+    },
+    "bridge": {
+      "title": "Bridge Keeper",
+      "parts": []
     }
   },
-  "title": "\ud83d\udcd6 Fundamentals in Python",
-  "order": [
-    "why",
-    "not",
-    "history",
-    "hello",
-    "hi",
-    "nyan",
-    "waffles",
-    "badgers",
-    "eightball",
-    "bridge",
-    "rps",
-    "arrrgs",
-    "roll",
-    "mtable",
-    "madforms",
-    "bincount",
-    "gen",
-    "quiz",
-    "lights",
-    "mylights",
-    "guess",
-    "arena",
-    "battleship",
-    "pokeapi",
-    "story",
-    "more",
-    "teachers"
-  ]
+  "title": "\ud83d\udcd6 Fundamentals in Python"
 }

@@ -64,12 +64,13 @@ recent version of Python.
 5. [**Hi There!** (`hi`)](hi/README.md)
   1. [**The Usual**](hi/README.md#user-content--the-usual)
   2. [**Prompting for Input**](hi/README.md#user-content--prompting-for-input)
-      <br>💡 `input()` ◦ REPL ◦ Variables ◦ Operators ◦ `=` ◦ Constants
+      <br>💡 `input()` ◦ Variables ◦ Operators ◦ `=` ◦ Constants
   3. [**Where is Your Assignment?**](hi/README.md#user-content--where-is-your-assignment)
       <br>💡 Assignment ◦ Assignment Operator ◦ `=` ◦ Operator ◦ Operand
   4. [**Difference Between Functions and Procedures**](hi/README.md#user-content--difference-between-functions-and-procedures)
       <br>💡 Functions ◦ Procedures ◦ Side Effects ◦ Functional ◦ Programming Paradigm
   5. [**Conclusion**](hi/README.md#user-content--conclusion)
+      <br>💡 REPL ◦ Interactive Text Adventures ◦ Stories
 6. [**Nyan, Nyan, STOP!** (`nyan`)](nyan/README.md)
 7. [**Do You Like Waffles?** (`waffles`)](waffles/README.md)
 8. [**Badgers, Badgers, Badgers** (`badgers`)](badgers/README.md)

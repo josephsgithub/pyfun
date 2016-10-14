@@ -19,7 +19,7 @@ activity. Got it?
 
 ## [⏫ Prompting for Input](#)
 
-> Concepts: `input()`, REPL, Variables, Operators, `=`, Constants
+> Concepts: `input()`, Variables, Operators, `=`, Constants
 
 Good. Now let’s get input from the user/player with the `input()`
 function and print it immediately with an emoji as well:
@@ -113,6 +113,8 @@ The second one is a little tricky.
 > different computer science concepts involved.
 
 ## [⏫ Conclusion](#)
+
+> Concepts: REPL, Interactive Text Adventures, Stories
 
 While most Python programs in the wild that you encounter will not
 prompt for input in this way, (usually using options and [arguments][]
