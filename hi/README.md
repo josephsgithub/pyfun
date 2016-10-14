@@ -77,7 +77,7 @@ An ***operator*** connects two things in a particular way. In the
 old days a telephone *operator* would connect two people in a phone
 call. 
 
-![](/assets/phone-operator.png)
+![](/assets/phoneoperator.jpg)
 
 An ***operand*** is the thing being acted upon, in this case
 connected. So the people being connected on the phone would be
