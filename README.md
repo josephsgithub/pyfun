@@ -4,6 +4,12 @@
 ***Currently a work in progress as we port our content to this [GitHub
 classroom textbook][text-work].***
 
+> 💬 [This *work*book goes with a *text*book][📖]
+> Students get their personal, private workbook after asking their
+> instructor for an invite or clicking on one in their course chat
+> room. We invite teachers and parents to read 
+> 🍎[*Welcome Teachers!*][🍎]
+
 [text-work]: https://blog.skilstak.io/github-as-text-book-and-work-book-828ffada9542#.etr9ts7me
 
 ![](/assets/python.png)
