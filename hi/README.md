@@ -33,7 +33,7 @@ print("Nice to meet you, " + name + "! " + smiley)
 
 You can color it up as well if you like.
 
-![](/assets/input.gif)
+![](/assets/hi.gif)
 
 This function causes the program to pause and wait for the user to
 type something in. When the user presses enter whatever the user
