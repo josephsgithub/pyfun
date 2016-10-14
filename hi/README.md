@@ -96,14 +96,15 @@ with the *data*, in this case a *string*, to go into the *variable*.
 > Functional Programming Paradigm 
 
 These days few people talk about the distinction between ***function***
-and a ***procedure***, but it is still very relevant today. A
-*function* gives something back, or, another way to put that,
-***returns*** something. A *procedure* does not. A strict function
-does not do anything to anything outside of itself. It only returns
-information. It has no ***side effects*** they say. Truly
-***Functional*** programming languages only deal with these types
-of *functions*. Other languages, like Python, allow *procedures*
-to be defined that do stuff to things outside of itself.
+and a ***procedure***, but it is still very relevant today, for
+example databases still have *stored procedures* and *functions*
+and enforce this distinction. A *function* gives something back,
+or, another way to put that, ***returns*** something. A *procedure*
+does not. A strict function does not do anything to anything outside
+of itself. It only returns information. It has no ***side effects***
+they say. Truly ***Functional*** programming languages only deal
+with these types of *functions*. Other languages, like Python, allow
+*procedures* to be defined that do stuff to things outside of itself.
 
 > 💬 The simplest way to think of it is that if it returns something
 > it is a *function*, if it does not it is a *procedure*.
