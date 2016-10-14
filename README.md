@@ -73,7 +73,21 @@ recent version of Python.
       <br>💡 REPL ◦ Interactive Text Adventures ◦ Stories
 6. [**Nyan, Nyan, STOP!** (`nyan`)](nyan/README.md)
   1. [**Nyan What?**](nyan/README.md#user-content--nyan-what)
-  2. [**Conclusion**](nyan/README.md#user-content--conclusion)
+  2. [**The Usual**](nyan/README.md#user-content--the-usual)
+  3. [**True or False**](nyan/README.md#user-content--true-or-false)
+      <br>💡 Booleans ◦ Types ◦ `True` ◦ `False`
+  4. [**Loop It**](nyan/README.md#user-content--loop-it)
+      <br>💡 `while` ◦ Infinite Loops ◦ End of the World
+  5. [**In Your Block**](nyan/README.md#user-content--in-your-block)
+      <br>💡 Code Blocks ◦ `:`
+  6. [**Indenting with `vim`**](nyan/README.md#user-content--indenting-with-vim)
+      <br>💡 `>>` ◦ `<<` ◦ `vim`
+  7. [**Spaces and Tabs that Matter**](nyan/README.md#user-content--spaces-and-tabs-that-matter)
+      <br>💡 Significant White Space
+  8. [**Make is STOP!**](nyan/README.md#user-content--make-is-stop)
+  9. [**Stop From Stopping?**](nyan/README.md#user-content--stop-from-stopping)
+  10. [**Handling Interruptions Politely**](nyan/README.md#user-content--handling-interruptions-politely)
+  11. [**Conclusion**](nyan/README.md#user-content--conclusion)
 7. [**Do You Like Waffles?** (`waffles`)](waffles/README.md)
 8. [**Badgers, Badgers, Badgers** (`badgers`)](badgers/README.md)
 9. [**Magic Eightball** (`eightball`)](eightball/README.md)
