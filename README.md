@@ -68,7 +68,7 @@ recent version of Python.
   3. [**Where is Your Assignment?**](hi/README.md#user-content--where-is-your-assignment)
       <br>💡 Assignment ◦ Assignment Operator ◦ `=` ◦ Operator ◦ Operand
   4. [**Difference Between Functions and Procedures**](hi/README.md#user-content--difference-between-functions-and-procedures)
-      <br>💡 Functions ◦ Procedures ◦ Side Effects ◦ Functional ◦ Programming Paradigm
+      <br>💡 Functions ◦ Procedures ◦ Side Effects ◦ Functional Programming Paradigm
   5. [**Conclusion**](hi/README.md#user-content--conclusion)
       <br>💡 REPL ◦ Interactive Text Adventures ◦ Stories
 6. [**Nyan, Nyan, STOP!** (`nyan`)](nyan/README.md)

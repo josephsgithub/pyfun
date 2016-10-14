@@ -88,8 +88,8 @@ with the *data*, in this case a *string*, to go into the *variable*.
 
 ## [⏫ Difference Between Functions and Procedures](#)
 
-> Concepts: Functions, Procedures, Side Effects, Functional
-> Programming Paradigm 
+> Concepts: Functions, Procedures, Side Effects,
+> Functional Programming Paradigm 
 
 These days few people talk about the distinction between ***function***
 and a ***procedure***, but it is still very relevant today. A
