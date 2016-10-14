@@ -1,7 +1,7 @@
 # [Fundamentals in Python][work]
 [work]: https://github.com/skilstak/pyfun-work/blob/master/README.md
 
-***🚧 Currently a work in progress as we port our content to this [GitHub
+🚧 ***Currently a work in progress as we port our content to this [GitHub
 classroom textbook][text-work].***
 
 > 💬 [This *work*book goes with a *text*book][📖]
@@ -9,8 +9,6 @@ classroom textbook][text-work].***
 > instructor for an invite or clicking on one in their course chat
 > room. We invite teachers and parents to read 
 > 🍎[*Welcome Teachers!*][🍎]
-
-![](/assets/python.png)
 
 ## Summary
 
@@ -20,6 +18,8 @@ blocks, logic, loops, data types, lists, dictionaries, functions,
 exceptions, unit testing, classes, files, json, web api consumption,
 and basic code organization. This course covers Python 3.5+, the most
 recent version of Python.
+
+![](/assets/python.png)
 
 ## Table of Contents
 
