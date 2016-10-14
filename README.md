@@ -10,8 +10,6 @@ classroom textbook][text-work].***
 > room. We invite teachers and parents to read 
 > 🍎[*Welcome Teachers!*][🍎]
 
-## Summary
-
 **Welcome to Python!** In this course you will learn the fundamentals
 of programming in Python. Concepts include variables, operators,
 blocks, logic, loops, data types, lists, dictionaries, functions,
