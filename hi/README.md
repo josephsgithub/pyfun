@@ -4,14 +4,20 @@
 
 ## Table of Contents
 
-## The Usual
+1. [**The Usual**](#user-content--the-usual)
+2. [**Prompting for Input**](#user-content--prompting-for-input)
+3. [**Where is Your Assignment?**](#user-content--where-is-your-assignment)
+4. [**Difference Between Functions and Procedures**](#user-content--difference-between-functions-and-procedures)
+5. [**Conclusion**](#user-content--conclusion)
+
+## [⏫ The Usual](#)
 
 First create a new script called `hi`. Have it just print `Hi there,
 what’s your name?` for now. This should be familiar to you since
 we just did it in the [*Hello world*](/assets/hello/README.md)
 activity. Got it?
 
-## Prompting for Input
+## [⏫ Prompting for Input](#)
 
 > Concepts: `input()`, REPL, Variables, Operators, `=`, Constants
 
@@ -53,7 +59,7 @@ computer’s memory.
 > in Python as well, but usually we just use a variable and remember
 > not to change it by making then name be all caps.
 
-## Where is Your Assignment?
+## [⏫ Where is Your Assignment?](#)
 
 > Concepts: Assignment, Assignment Operator, `=`, Operator, Operand
 
@@ -80,7 +86,7 @@ connected. So the people being connected on the phone would be
 The *assignment operator* is the thing that connects the *variable*
 with the *data*, in this case a *string*, to go into the *variable*.
 
-## Difference Between Functions and Procedures
+## [⏫ Difference Between Functions and Procedures](#)
 
 > Concepts: Functions, Procedures, Side Effects, Functional
 > Programming Paradigm 
@@ -106,7 +112,7 @@ The second one is a little tricky.
 > to keep things simple. But now *you* understand they are really two
 > different computer science concepts involved.
 
-## Conclusion
+## [⏫ Conclusion](#)
 
 While most Python programs in the wild that you encounter will not
 prompt for input in this way, (usually using options and [arguments][]
