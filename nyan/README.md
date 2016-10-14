@@ -103,12 +103,12 @@ another, which we will go over more later.
 
 > Concepts: `>>`, `<<`, `vim`
 
-You probably just added spaces to the beginning of your `print..`
+You probably just added spaces to the beginning of your `print()`
 statement that you already had, which is fine. But there is another
 way.
 
 > 👓 To *indent* means to start a line of text further from the 
-> edge, or margin, than the main part of text By the way, to *indent*
+> edge, or margin, than the main part of text. By the way, to *indent*
 > when starting a new line type the `TAB` key. In `vim` this makes
 > it insert four spaces. There is no need to spam the space key (as
 > some noobs do).
@@ -123,9 +123,16 @@ So `5>>` indents the five next lines from where you are in the file.
 ![](/assets/indenting.gif)
 
 > 💬 Be careful if you are using an editor other than the one we
-> have configured using [`home-config`][] because your `vim`
+> have configured using `[home-config][]` because your `vim`
 > might put an actual tab character in there, which no one does
 > in the world of Python despite what anyone might tell you.
+> This is particular true of the default Raspberry Pi NOOBS
+> system that does not come with the latest `vim` by default.
+> If you are using the Raspberry Pi, consider using one of
+> our [SkilStak™ images][pi] to avoid this hassle of installing it.
+
+[pi]: http://pi.skilstak.io
+[home-config]: http://home-config.skilstak.io
 
 ## [⏫ Spaces and Tabs that Matter](#)
 

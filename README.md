@@ -86,7 +86,7 @@ recent version of Python.
       <br>💡 Significant White Space
   8. [**Make is STOP!**](nyan/README.md#user-content--make-is-stop)
   9. [**Stop From Stopping?**](nyan/README.md#user-content--stop-from-stopping)
-  10. [**Handling Interruptions Politely**](nyan/README.md#user-content--handling-interruptions-politely)
+  10. [**Handling Interruptions Politely **](nyan/README.md#user-content--handling-interruptions-politely)
   11. [**Conclusion**](nyan/README.md#user-content--conclusion)
 7. [**Do You Like Waffles?** (`waffles`)](waffles/README.md)
 8. [**Badgers, Badgers, Badgers** (`badgers`)](badgers/README.md)
