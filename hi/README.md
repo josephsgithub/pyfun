@@ -79,6 +79,10 @@ call.
 
 ![](/assets/phoneoperator.jpg)
 
+Of course there is the modern day equivalent in Tank from *The Matrix*.
+
+![](/assets/operator.jpg)
+
 An ***operand*** is the thing being acted upon, in this case
 connected. So the people being connected on the phone would be
 *operands* in computer science (and math for that matter).
